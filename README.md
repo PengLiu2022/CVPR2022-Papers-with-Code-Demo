@@ -11,7 +11,7 @@
 
 > :hand: ​注：欢迎各位大佬提交issue，分享CVPR 2021论文和开源项目！共同完善这个项目
 
-### :hammer_and_pick: **思维导图 ** | Mind Mapping
+### :hammer_and_pick: 思维导图 | Mind Mapping
 
 【思维导图】【ToDO】
 
