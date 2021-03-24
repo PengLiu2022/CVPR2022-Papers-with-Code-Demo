@@ -38,3 +38,13 @@ Robust Reflection Removal with Reflection-free Flash-only Cues
 论文：arxiv.org/pdf/2103.04273
 
 代码：https://github.com/ChenyangLEI/flash-reflection-removal
+
+Deep Dual Consecutive Network for Human Pose Estimation
+
+demo:https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503
+
+论文：https://arxiv.org/abs/2103.07254
+
+代码：https://github.com/Pose-Group/DCPose
+
+【TODO】新建文件夹存储论文，方便下载
