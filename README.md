@@ -41,7 +41,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 **Deep Dual Consecutive Network for Human Pose Estimation**
 
-demo:https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503
+视频demo：https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503
 
 论文：https://arxiv.org/abs/2103.07254
 
