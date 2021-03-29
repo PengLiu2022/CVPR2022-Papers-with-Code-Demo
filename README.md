@@ -10,6 +10,8 @@
 > :watch: 论文接收公布时间：2021年2月28日
 
 > :hand: ​注：欢迎各位大佬提交issue，分享CVPR 2021论文和开源项目！共同完善这个项目
+>
+> :airplane: 为了方便下载，已将论文存储在文件夹中
 
 ### :hammer_and_pick: 思维导图 | Mind Mapping
 
@@ -22,14 +24,38 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 ### :hammer: **目录 |Table of Contents（点击直接跳转）**
 【TODO】
 
-分类：
+- [Backbone](#Backbone)
 
-检测：
+- [目标检测/Object Detection](#Object Detection)
 
 【目录 可直接跳转】
 
 ### :key: **关键词** | Keywords
 【TODO】
+
+<a name="Backbone"></a>
+
+**Coordinate Attention for Efficient Mobile Network Design**
+
+解读：https://zhuanlan.zhihu.com/p/353764183
+
+论文:  https://arxiv.org/abs/2103.02907
+
+代码： https://github.com/Andrew-Qibin/CoordAttention
+
+**Inception Convolution with Efficient Dilation Search**
+
+解读：https://zhuanlan.zhihu.com/p/340506749
+
+论文：https://arxiv.org/pdf/2012.13587.pdf
+
+代码：https://github.com/yifan123/IC-Conv
+
+
+
+<a name="Object Detection"></a>
+
+
 
 **Robust Reflection Removal with Reflection-free Flash-only Cues**
 
