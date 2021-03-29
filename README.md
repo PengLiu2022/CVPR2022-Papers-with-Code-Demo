@@ -37,7 +37,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 ## Backbone
 
-​ **Coordinate Attention for Efficient Mobile Network Design**
+:heavy_check_mark:  **Coordinate Attention for Efficient Mobile Network Design** 
 
 解读：https://zhuanlan.zhihu.com/p/353764183
 
@@ -52,6 +52,14 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 论文：https://arxiv.org/pdf/2012.13587.pdf
 
 代码：https://github.com/yifan123/IC-Conv
+
+:heavy_check_mark: **RepVGG: Making VGG-style ConvNets Great Again**
+
+解读：https://blog.csdn.net/weixin_42096202/article/details/112546234
+
+论文： https://arxiv.org/abs/2101.03697
+
+代码： https://github.com/DingXiaoH/RepVGG
 
 
 
