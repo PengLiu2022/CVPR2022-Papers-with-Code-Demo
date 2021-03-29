@@ -11,7 +11,7 @@
 
 > :hand: ​注：欢迎各位大佬提交issue，分享CVPR 2021论文和开源项目！共同完善这个项目
 >
-> :airplane: 为了方便下载，已将论文存储在文件夹中
+> :airplane: 为了方便下载，已将论文存储在文件夹中 :heavy_check_mark: 表示论文已下载
 
 ### :hammer_and_pick: 思维导图 | Mind Mapping
 
@@ -35,7 +35,9 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 <a name="Backbone"></a>
 
-**Coordinate Attention for Efficient Mobile Network Design**
+## Backbone
+
+​ **Coordinate Attention for Efficient Mobile Network Design**
 
 解读：https://zhuanlan.zhihu.com/p/353764183
 
@@ -43,7 +45,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码： https://github.com/Andrew-Qibin/CoordAttention
 
-**Inception Convolution with Efficient Dilation Search**
+ :heavy_check_mark: **Inception Convolution with Efficient Dilation Search** 
 
 解读：https://zhuanlan.zhihu.com/p/340506749
 
@@ -55,9 +57,11 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 <a name="Object Detection"></a>
 
+## Object Detection
 
 
-**Robust Reflection Removal with Reflection-free Flash-only Cues**
+
+ :heavy_check_mark: **Robust Reflection Removal with Reflection-free Flash-only Cues**
 
 解读：[CVPR 2021 | 港科大：如何利用闪光图像(flash image)来去除反光？](https://zhuanlan.zhihu.com/p/358337679)
 
@@ -65,7 +69,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/ChenyangLEI/flash-reflection-removal
 
-**Deep Dual Consecutive Network for Human Pose Estimation**
+ :heavy_check_mark: **Deep Dual Consecutive Network for Human Pose Estimation**
 
 视频demo：https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503
 
