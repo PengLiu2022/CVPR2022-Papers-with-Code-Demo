@@ -105,12 +105,24 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 解读：[CVPR 2021 | 港科大：如何利用闪光图像(flash image)来去除反光？](https://zhuanlan.zhihu.com/p/358337679)
 
-论文：arxiv.org/pdf/2103.04273
+论文：https://arxiv.org/pdf/2103.04273
 
 代码：https://github.com/ChenyangLEI/flash-reflection-removal
 
+
+
+
+
+:heavy_check_mark:**Multimodal Motion Prediction with Stacked Transformers**
+
+视频demo：https://youtu.be/oUZQBGOEBMg
+
+论文：https://arxiv.org/pdf/2103.11624.pdf
+
+代码：https://github.com/decisionforce/mmTransformer
+
+
+
 [返回目录/back](#Contents)
-
-
 
 【TODO】新建文件夹存储论文，方便下载
