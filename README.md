@@ -51,9 +51,17 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 解读：[ACNet续作——CVPR2021:Diverse Branch Block](https://zhuanlan.zhihu.com/p/360939086)
 
-论文:  https://arxiv.org/abs/2103.13425
+论文： https://arxiv.org/abs/2103.13425
 
-代码：: https://github.com/DingXiaoH/DiverseBranchBlock
+代码： https://github.com/DingXiaoH/DiverseBranchBlock
+
+:heavy_check_mark:**Involution: Inverting the Inherence of Convolution for Visual Recognition**
+
+解读：[我卷我自己——CVPR2021:Involution](https://zhuanlan.zhihu.com/p/357408252)
+
+论文：  https://arxiv.org/abs/2103.06255
+
+代码：  https://github.com/d-li14/involution
 
  :heavy_check_mark: **Inception Convolution with Efficient Dilation Search** 
 
@@ -78,6 +86,12 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 论文： https://arxiv.org/abs/2007.00992
 
 代码： https://github.com/clovaai/rexnet
+
+:heavy_check_mark:**Scaling Local Self-Attention For Parameter Efficient Visual Backbones**
+
+论文：https://arxiv.org/abs/2103.12731
+
+代码：https://github.com/lucidrains/halonet-pytorch | [作者主页](https://shlens.github.io/)
 
 [返回目录/back](#Contents)
 
