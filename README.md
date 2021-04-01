@@ -47,6 +47,14 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码： https://github.com/Andrew-Qibin/CoordAttention
 
+:heavy_check_mark:**Diverse Branch Block: Building a Convolution as an Inception-like Unit**
+
+解读：[ACNet续作——CVPR2021:Diverse Branch Block](https://zhuanlan.zhihu.com/p/360939086)
+
+论文:  https://arxiv.org/abs/2103.13425
+
+代码：: https://github.com/DingXiaoH/DiverseBranchBlock
+
  :heavy_check_mark: **Inception Convolution with Efficient Dilation Search** 
 
 解读：[IC-Conv使用高效空洞搜索Inception卷积](https://zhuanlan.zhihu.com/p/340506749)
@@ -62,6 +70,14 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 论文： https://arxiv.org/abs/2101.03697
 
 代码： https://github.com/DingXiaoH/RepVGG
+
+:heavy_check_mark:**ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network**
+
+解读：[ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network 论文学习](https://blog.csdn.net/calvinpaean/article/details/107120053)
+
+论文： https://arxiv.org/abs/2007.00992
+
+代码： https://github.com/clovaai/rexnet
 
 [返回目录/back](#Contents)
 
@@ -85,7 +101,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
  :heavy_check_mark: **Deep Dual Consecutive Network for Human Pose Estimation**
 
-视频demo：https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503
+视频demo：[bilibil](https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503)
 
 论文：https://arxiv.org/abs/2103.07254
 
@@ -113,9 +129,9 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 
 
-:heavy_check_mark:**Multimodal Motion Prediction with Stacked Transformers**
+:heavy_check_mark: **Multimodal Motion Prediction with Stacked Transformers**
 
-视频demo：https://youtu.be/oUZQBGOEBMg
+视频demo：[bilibil](https://www.bilibili.com/video/BV1bV411e7F7/) | [youtube](https://youtu.be/oUZQBGOEBMg)
 
 论文：https://arxiv.org/pdf/2103.11624.pdf
 
