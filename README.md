@@ -105,7 +105,41 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 ## 目标检测/Object Detection
 
+:heavy_check_mark: **Categorical Depth Distribution Network for Monocular 3D Object Detection**
 
+论文： https://arxiv.org/abs/2103.01100
+
+代码：https://github.com/TRAILab/CaDDN
+
+**Depth from Camera Motion and Object Detection**
+
+论文：https://arxiv.org/abs/2103.01468
+
+代码：https://github.com/griffbr/ODMD
+
+**Dense Label Encoding for Boundary Discontinuity Free Rotation Detection**
+
+论文：https://arxiv.org/abs/2011.09670
+
+代码：https://github.com/yangxue0827/RotationDetection
+
+**Distilling Object Detectors via Decoupled Features**
+
+论文：https://arxiv.org/abs/2103.14475
+
+代码：https://github.com/ggjy/DeFeat.pytorch
+
+:heavy_check_mark: **Dogfight: Detecting Drones from Drone Videos**
+
+论文：https://arxiv.org/pdf/2103.17242
+
+代码：
+
+**Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
+
+论文：https://arxiv.org/abs/2011.12885
+
+代码：https://github.com/implus/GFocalV2
 
 **GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection**
 
@@ -114,6 +148,52 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 论文：coming soon
 
 代码：https://github.com/abhi1kumar/groomed_nms
+
+**Instance Localization for Self-supervised Detection Pretraining**
+
+paper: https://arxiv.org/abs/2102.08318
+
+code: https://github.com/limbo0000/InstanceLoc
+
+:heavy_check_mark:**Multiple Instance Active Learning for Object Detection**
+
+论文：https://github.com/yuantn/MIAL/raw/master/paper.pdf
+
+代码：https://github.com/yuantn/MI-AOD
+
+:heavy_check_mark:**Towards Open World Object Detection** （CVPR 2021 Oarl）
+
+论文：https://arxiv.org/abs/2103.02603
+
+代码：https://github.com/JosephKJ/OWOD
+
+ **Positive-Unlabeled Data Purification in the Wild for Object Detection**
+
+论文：
+
+代码：
+
+**Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
+
+论文：https://arxiv.org/abs/2103.01903
+
+代码：
+
+**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+
+论文：https://arxiv.org/abs/2103.01353
+
+代码：http://rl.uni-freiburg.de/research/multimodal-distill
+
+**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+
+论文： https://arxiv.org/abs/2011.09094
+
+代码：
+
+
+
+
 
 [返回目录/back](#Contents)
 
@@ -128,7 +208,9 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 视频demo：[youtube](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)
 
 论文：https://arxiv.org/pdf/2103.16746.pdf | [Project page](https://sites.google.com/view/langtrackbenchmark/) 
+
 代码： https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
+
 [返回目录/back](#Contents)
 
 
@@ -197,5 +279,11 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 
 [返回目录/back](#Contents)
+
+
+
+参考：
+
+https://www.codetd.com/en/article/12856576
 
 【TODO】新建文件夹存储论文，方便下载
