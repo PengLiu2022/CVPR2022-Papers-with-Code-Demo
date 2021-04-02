@@ -11,7 +11,7 @@
 
 > :hand: ​注：欢迎各位大佬提交issue，分享CVPR 2021论文和开源项目！共同完善这个项目
 >
-> :airplane: 为了方便下载，已将论文存储在文件夹中 :heavy_check_mark: 表示论文已下载
+> :airplane: 为了方便下载，已将论文存储在文件夹中 :heavy_check_mark: 表示论文[已下载 / Paper Download](https://github.com/DWCTOD/CVPR2021-Papers-with-Code-Demo/tree/main/CVPR2021-paper-download)
 
 ### :hammer_and_pick: 思维导图 | Mind Mapping
 
@@ -111,19 +111,19 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/TRAILab/CaDDN
 
-**Depth from Camera Motion and Object Detection**
+:heavy_check_mark:**Depth from Camera Motion and Object Detection**
 
 论文：https://arxiv.org/abs/2103.01468
 
 代码：https://github.com/griffbr/ODMD
 
-**Dense Label Encoding for Boundary Discontinuity Free Rotation Detection**
+:heavy_check_mark:**Dense Label Encoding for Boundary Discontinuity Free Rotation Detection**
 
 论文：https://arxiv.org/abs/2011.09670
 
 代码：https://github.com/yangxue0827/RotationDetection
 
-**Distilling Object Detectors via Decoupled Features**
+:heavy_check_mark:**Distilling Object Detectors via Decoupled Features**
 
 论文：https://arxiv.org/abs/2103.14475
 
@@ -135,7 +135,27 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：
 
-**Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
+:heavy_check_mark:**End-to-End Object Detection with Fully Convolutional Network**
+
+论文： https://arxiv.org/abs/2012.03544
+
+代码： https://github.com/Megvii-BaseDetection/DeFCN
+
+:heavy_check_mark:**FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding**
+
+论文：https://arxiv.org/abs/2103.05950
+
+代码：https://github.com/MegviiDetection/FSCE
+
+**General Instance Distillation for Object Detection**
+
+论文：https://arxiv.org/abs/2103.02340
+
+代码：
+
+:heavy_check_mark:**Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
+
+解读：[大白话 Generalized Focal Loss V2](https://zhuanlan.zhihu.com/p/313684358)
 
 论文：https://arxiv.org/abs/2011.12885
 
@@ -149,11 +169,29 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/abhi1kumar/groomed_nms
 
-**Instance Localization for Self-supervised Detection Pretraining**
+**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors**
 
-paper: https://arxiv.org/abs/2102.08318
+论文：https://arxiv.org/abs/2103.13757
 
-code: https://github.com/limbo0000/InstanceLoc
+代码：
+
+**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
+
+论文：https://arxiv.org/abs/2103.11402
+
+代码：
+
+:heavy_check_mark:**Instance Localization for Self-supervised Detection Pretraining**
+
+论文： https://arxiv.org/abs/2102.08318
+
+代码：https://github.com/limbo0000/InstanceLoc
+
+**MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection**
+
+论文： https://arxiv.org/abs/2103.04224
+
+代码：
 
 :heavy_check_mark:**Multiple Instance Active Learning for Object Detection**
 
@@ -161,11 +199,17 @@ code: https://github.com/limbo0000/InstanceLoc
 
 代码：https://github.com/yuantn/MI-AOD
 
-:heavy_check_mark:**Towards Open World Object Detection** （CVPR 2021 Oarl）
+:heavy_check_mark:**OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
 
-论文：https://arxiv.org/abs/2103.02603
+论文： https://arxiv.org/abs/2103.04507
 
-代码：https://github.com/JosephKJ/OWOD
+代码：https://github.com/VDIGPKU/OPANAS
+
+**OTA: Optimal Transport Assignment for Object Detection**
+
+论文：https://arxiv.org/abs/2103.14259
+
+代码：https://github.com/Megvii-BaseDetection/OTA
 
  **Positive-Unlabeled Data Purification in the Wild for Object Detection**
 
@@ -173,25 +217,63 @@ code: https://github.com/limbo0000/InstanceLoc
 
 代码：
 
-**Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
+:heavy_check_mark:**Robust and Accurate Object Detection via Adversarial Learning**
+
+论文：https://arxiv.org/abs/2103.13886
+
+代码：
+
+:heavy_check_mark:**ReDet: A Rotation-equivariant Detector for Aerial Object Detection**
+
+论文：https://arxiv.org/abs/2103.07733
+
+代码：https://github.com/csuhan/ReDet
+
+**Scale-aware Automatic Augmentation for Object Detection**
+
+论文：https://arxiv.org/abs/2103.17220
+
+代码： https://github.com/Jia-Research-Lab/SA-AutoAug
+
+:heavy_check_mark:**Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection**
+
+解读：[解读1](https://blog.csdn.net/qidailiming1994/article/details/104881661?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-1.baidujs&dist_request_id=&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-1.baidujs) | [解读2](https://blog.csdn.net/smile909/article/details/115257127 )
 
 论文：https://arxiv.org/abs/2103.01903
 
 代码：
 
-**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
+**Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
+
+论文：https://arxiv.org/abs/2011.12450
+
+代码：https://github.com/PeizeSun/SparseR-CNN
+
+:heavy_check_mark:**There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge**
 
 论文：https://arxiv.org/abs/2103.01353
 
 代码：http://rl.uni-freiburg.de/research/multimodal-distill
 
-**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers**
+:heavy_check_mark:**Towards Open World Object Detection** （CVPR 2021 Oarl）
+
+论文：https://arxiv.org/abs/2103.02603
+
+代码：https://github.com/JosephKJ/OWOD
+
+:heavy_check_mark:**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers** (CVPR2021 Oral)
+
+解读：https://zhuanlan.zhihu.com/p/356349626 | [华南理工和微信AI提出的无监督预训练检测器UP-DETR](https://www.zhihu.com/question/432321109/answer/1606004872)
 
 论文： https://arxiv.org/abs/2011.09094
 
-代码：
+代码：https://github.com/dddzg/up-detr
 
+:heavy_check_mark:**YOLOF：You Only Look One-level Feature**
 
+论文：https://arxiv.org/abs/2103.09460
+
+代码：https://github.com/megvii-model/YOLOF
 
 
 
