@@ -27,8 +27,14 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 【TODO】
 
 - [Backbone](#Backbone)
+
 - [目标检测/Object Detection](#ObjectDetection)
+
+- [语义分割/Segmentation](#Segmentation)
+
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
+
+  
 
 【目录 可直接跳转】
 
@@ -95,9 +101,11 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 [返回目录/back](#Contents)
 
-<a name="ObjectDetection"></a>
+<a name="ObjectDetection"></a> 
 
 ## 目标检测/Object Detection
+
+
 
 **GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection**
 
@@ -108,6 +116,36 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 代码：https://github.com/abhi1kumar/groomed_nms
 
 [返回目录/back](#Contents)
+
+
+
+<a name="Object Tracking"></a> 
+
+## 目标跟踪/Object Tracking
+
+:heavy_check_mark: **Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark**
+
+视频demo：[youtube](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)
+
+论文：https://arxiv.org/pdf/2103.16746.pdf | [Project page](https://sites.google.com/view/langtrackbenchmark/) 
+代码： https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
+[返回目录/back](#Contents)
+
+
+
+<a name="Segmentation"></a> 
+
+## 语义分割/Segmentation
+
+:heavy_check_mark: **Fully Convolutional Networks for Panoptic Segmentation** (CVPR2021 Oral)
+
+论文：https://arxiv.org/abs/2012.00720
+
+代码：https://github.com/Jia-Research-Lab/PanopticFCN
+
+[返回目录/back](#Contents)
+
+
 
 <a name="HumanPoseEstimation"></a>
 
@@ -140,6 +178,11 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 代码：https://github.com/ChenyangLEI/flash-reflection-removal
 
 
+
+:heavy_check_mark:**Domain Consensus Clustering for Universal Domain Adaptation**
+
+论文： http://reler.net/papers/guangrui_cvpr2021.pdf
+代码：https://github.com/Solacex/Domain-Consensus-Clustering
 
 
 
