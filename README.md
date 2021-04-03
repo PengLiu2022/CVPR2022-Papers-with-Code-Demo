@@ -73,13 +73,13 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 解读：[IC-Conv使用高效空洞搜索Inception卷积](https://zhuanlan.zhihu.com/p/340506749)
 
-论文：https://arxiv.org/pdf/2012.13587.pdf
+论文：https://arxiv.org/pdf/2012.13587.pdf 
 
 代码：https://github.com/yifan123/IC-Conv
 
 :heavy_check_mark: **RepVGG: Making VGG-style ConvNets Great Again**
 
-解读：[RepVGG-重参数化Backbone](https://blog.csdn.net/weixin_42096202/article/details/112546234)
+解读： [RepVGG：极简架构，SOTA性能，让VGG式模型再次伟大](https://zhuanlan.zhihu.com/p/308159909)| [RepVGG-重参数化Backbone](https://blog.csdn.net/weixin_42096202/article/details/112546234)
 
 论文： https://arxiv.org/abs/2101.03697
 
@@ -147,7 +147,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/MegviiDetection/FSCE
 
-**General Instance Distillation for Object Detection**
+:heavy_check_mark:**General Instance Distillation for Object Detection**
 
 论文：https://arxiv.org/abs/2103.02340
 
@@ -169,13 +169,13 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/abhi1kumar/groomed_nms
 
-**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors**
+:heavy_check_mark:**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors**
 
 论文：https://arxiv.org/abs/2103.13757
 
 代码：
 
-**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
+:heavy_check_mark:**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
 
 论文：https://arxiv.org/abs/2103.11402
 
@@ -187,7 +187,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/limbo0000/InstanceLoc
 
-**MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection**
+:heavy_check_mark:**MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection**
 
 论文： https://arxiv.org/abs/2103.04224
 
@@ -205,7 +205,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/VDIGPKU/OPANAS
 
-**OTA: Optimal Transport Assignment for Object Detection**
+:heavy_check_mark:**OTA: Optimal Transport Assignment for Object Detection**
 
 论文：https://arxiv.org/abs/2103.14259
 
@@ -229,7 +229,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/csuhan/ReDet
 
-**Scale-aware Automatic Augmentation for Object Detection**
+:heavy_check_mark:**Scale-aware Automatic Augmentation for Object Detection**
 
 论文：https://arxiv.org/abs/2103.17220
 
@@ -309,6 +309,16 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 [返回目录/back](#Contents)
 
+**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
+
+解读：https://www.zhihu.com/question/446299297/answer/1769080299
+
+论文：https://arxiv.org/abs/2103.10391
+
+代码：https://github.com/svip-lab/IVOS-W
+
+
+
 
 
 <a name="HumanPoseEstimation"></a>
@@ -360,7 +370,33 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 
 
+:heavy_check_mark:**ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis**
+
+解读：[CVPR 2021 Oral｜商汤提出最新深伪评测基准 ForgeryNet：左右互搏——论火眼金睛的修炼](https://zhuanlan.zhihu.com/p/357301664)
+
+论文：https://arxiv.org/abs/2103.05630 | [Project](https://yinanhe.github.io/projects/forgerynet.html)
+
+代码：
+
 [返回目录/back](#Contents)
+
+:heavy_check_mark:**Layout-Guided Novel View Synthesis from a Single Indoor Panorama**
+
+解读：https://www.zhihu.com/question/446299297/answer/1769080299
+
+论文：https://arxiv.org/abs/2103.17022
+
+代码：https://github.com/bluestyle97/PNVS
+
+
+
+视频demo：
+
+解读：
+
+论文：
+
+代码：
 
 
 
@@ -368,4 +404,9 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 https://www.codetd.com/en/article/12856576
 
+[如何评价CVPR 2021的论文接收结果？](https://www.zhihu.com/question/446299297/answer/1756260197)
+
+https://duoli.org/
+
 【TODO】新建文件夹存储论文，方便下载
+
