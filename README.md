@@ -243,7 +243,7 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：
 
-**Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
+:heavy_check_mark:**Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
 
 论文：https://arxiv.org/abs/2011.12450
 
@@ -301,15 +301,37 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 ## 语义分割/Segmentation
 
+:heavy_check_mark:**Bidirectional Projection Network for Cross Dimension Scene Understanding** (CVPR 2021 Oral)
+
+论文：https://arxiv.org/abs/2103.14326
+
+代码：https://github.com/wbhu/BPNet
+
+:heavy_check_mark:**Capturing Omni-Range Context for Omnidirectional Segmentation**
+
+论文：https://arxiv.org/abs/2103.05687
+
+代码：None | [作者主页/project](http://www.yangkailun.com/)
+
+:heavy_check_mark:**Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations**
+
+论文：https://arxiv.org/abs/2103.06342
+
+代码：None
+
+:heavy_check_mark: **Cross-Dataset Collaborative Learning for Semantic Segmentation**
+
+论文：https://arxiv.org/abs/2103.11351
+
+代码：None
+
 :heavy_check_mark: **Fully Convolutional Networks for Panoptic Segmentation** (CVPR2021 Oral)
 
 论文：https://arxiv.org/abs/2012.00720
 
 代码：https://github.com/Jia-Research-Lab/PanopticFCN
 
-[返回目录/back](#Contents)
-
-**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
+:heavy_check_mark:**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
 
 解读：https://www.zhihu.com/question/446299297/answer/1769080299
 
@@ -317,7 +339,33 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 代码：https://github.com/svip-lab/IVOS-W
 
+:heavy_check_mark:**Learning Statistical Texture for Semantic Segmentation**
 
+论文：https://arxiv.org/abs/2103.04133
+
+代码： None
+
+:heavy_check_mark:**PLOP: Learning without Forgetting for Continual Semantic Segmentation**
+
+论文：https://arxiv.org/abs/2011.11390
+
+代码：https://github.com/arthurdouillard/CVPR2021_PLOP
+
+**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+论文：https://arxiv.org/abs/2012.15840
+
+代码：https://github.com/fudan-zvg/SETR
+
+
+
+
+
+论文：
+
+代码：
+
+[返回目录/back](#Contents)
 
 
 
@@ -401,6 +449,14 @@ CVPR 2021 论文交流群已成立！已经收录的同学，可以添加微信�
 
 
 参考：
+
+https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md
+
+https://githubmemory.com/repo/lkeab/CVPR-2021-Papers
+
+https://github.com/amusi/CVPR2021-Papers-with-Code
+
+https://github.com/xialeiliu/Awesome-Incremental-Learning
 
 https://www.codetd.com/en/article/12856576
 
