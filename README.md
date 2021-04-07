@@ -36,6 +36,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 
+- [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
+
   
 
 【目录 可直接跳转】
@@ -112,6 +114,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper： https://arxiv.org/abs/2103.01100
 
 代码/code：https://github.com/TRAILab/CaDDN
+
+:heavy_check_mark:**Center-based 3D Object Detection and Tracking**
+
+论文/paper：https://arxiv.org/abs/2006.11275
+
+代码/code：https://github.com/tianweiy/CenterPoint
 
 :heavy_check_mark:**Depth from Camera Motion and Object Detection**
 
@@ -321,7 +329,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 视频demo：[bilibili](https://www.bilibili.com/video/BV1bh411D72N/)| [youtube](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)
 
-论文/paper：https://arxiv.org/pdf/2103.16746.pdf | [Project page](https://sites.google.com/view/langtrackbenchmark/) 
+论文/paper：https://arxiv.org/pdf/2103.16746.pdf | [Homepage](https://sites.google.com/view/langtrackbenchmark/) 
 
 代码/code： https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
 
@@ -329,7 +337,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 视频demo： [youtube](https://youtu.be/oGNtSFHRZJA)
 
-论文/paper：https://arxiv.org/pdf/2103.08808.pdf | [主页/page](https://jialianwu.com/projects/TraDeS.html)
+论文/paper：https://arxiv.org/pdf/2103.08808.pdf | [主页/Homepage](https://jialianwu.com/projects/TraDeS.html)
 
 代码/code：https://github.com/JialianW/TraDeS
 
@@ -357,7 +365,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation**
 
-论文/paper：https://arxiv.org/abs/2103.08896 | [主页/page](https://www.semion.io/doc/anti-adversarially-manipulated-attributions-for-weakly-and-semi-supervised-semantic-segmentation)
+论文/paper：https://arxiv.org/abs/2103.08896 | [主页/Homepage](https://www.semion.io/doc/anti-adversarially-manipulated-attributions-for-weakly-and-semi-supervised-semantic-segmentation)
 
 代码/code：https://github.com/jbeomlee93/AdvCAM
 
@@ -375,7 +383,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 :heavy_check_mark:**Boundary IoU: Improving Object-Centric Image Segmentation Evaluation**
 
-论文/paper：https://arxiv.org/abs/2103.16562 | [主页/page](https://bowenc0221.github.io/boundary-iou/)
+论文/paper：https://arxiv.org/abs/2103.16562 | [主页/Homepage](https://bowenc0221.github.io/boundary-iou/)
 
 代码/codehttps://github.com/bowenc0221/boundary-iou-api
 
@@ -383,7 +391,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper：https://arxiv.org/abs/2103.05687
 
-代码/code：None | [作者主页/project](http://www.yangkailun.com/)
+代码/code：None | [作者主页/Homepage](http://www.yangkailun.com/)
 
 :heavy_check_mark:**Coarse-to-Fine Domain Adaptive Semantic Segmentation with Photometric Alignment and Category-Center Regularization**
 
@@ -408,6 +416,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.02584
 
 代码/code：None
+
+**Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation**
+
+论文/paper： https://arxiv.org/abs/2011.10033
+
+代码/code： https://github.com/xinge008/Cylinder3D
 
 :heavy_check_mark:**Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
 
@@ -471,6 +485,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+:heavy_check_mark:**Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation**
+
+论文/paper：https://arxiv.org/abs/2103.14962
+
+代码/code：https://github.com/edwardzhou130/Panoptic-PolarNet
+
 :heavy_check_mark:**PLOP: Learning without Forgetting for Continual Semantic Segmentation**
 
 论文/paper：https://arxiv.org/abs/2011.11390
@@ -495,6 +515,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/shachoi/RobustNet
 
+:heavy_check_mark:**Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion**
+
+论文/paper： https://arxiv.org/abs/2103.07074
+
+代码/code：https://github.com/ShiQiu0419/BAAF-Net
+
 :heavy_check_mark:**Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation**
 
 解读：https://blog.csdn.net/msy1412/article/details/114938788
@@ -510,6 +536,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.10284
 
 代码/code：https://github.com/goodproj13/SG-Net
+
+**Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
+
+论文/paper：http://arxiv.org/abs/2009.03137 | [主页 | Homepage](https://github.com/QingyongHu/SensatUrban)
+
+代码/code：https://github.com/QingyongHu/SensatUrban
 
 **Zero-Shot Instance Segmentation**
 
@@ -541,9 +573,47 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/Pose-Group/DCPose
 
+:heavy_check_mark:**HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation**
+
+论文/paper：https://arxiv.org/abs/2011.14672 | [主页/Homepage](https://jeffli.site/HybrIK/)
+
+代码/code： https://github.com/Jeff-sjtu/HybrIK
+
+:heavy_check_mark:**Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors**
+
+视频demo：[video](http://virtualhumans.mpi-inf.mpg.de/hps/hps_video.mp4)
+
+论文/paper：https://arxiv.org/abs/2103.17265
+
+代码/code：| [主页/Homepage](http://virtualhumans.mpi-inf.mpg.de/hps/)
+
 [返回目录/back](#Contents)
 
+<a name="6DPoseEstimation"></a>
 
+# 6D位姿估计 /6D Pose Estimation
+
+:heavy_check_mark:**FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation**
+
+视频demo：[bilibili](https://www.bilibili.com/video/BV1YU4y1a7Kp?from=search&seid=8306279574921937158) | [youtube](https://www.youtube.com/watch?v=SSi2TnyD6Is)
+
+论文/paper：https://arxiv.org/abs/2103.02242
+
+代码/code： https://github.com/ethnhe/FFB6D
+
+:heavy_check_mark:**FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism** (CVPR2021 Oral)
+
+论文/paper：https://arxiv.org/abs/2103.07054 | [主页 | Homepage]( https://jeffli.site/HybrIK/)  
+
+代码/code：https://github.com/DC1991/FS-Net
+
+:heavy_check_mark:**GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation**
+
+论文/paper：http://arxiv.org/abs/2102.12145
+
+代码/code：https://git.io/GDR-Net
+
+[返回目录/back](#Contents)
 
 
 
@@ -582,7 +652,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 解读：[CVPR 2021 Oral｜商汤提出最新深伪评测基准 ForgeryNet：左右互搏——论火眼金睛的修炼](https://zhuanlan.zhihu.com/p/357301664)
 
-论文/paper：https://arxiv.org/abs/2103.05630 | [Project](https://yinanhe.github.io/projects/forgerynet.html)
+论文/paper：https://arxiv.org/abs/2103.05630 | [主页 | Homepage](https://yinanhe.github.io/projects/forgerynet.html)
 
 代码/code：
 
