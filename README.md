@@ -30,6 +30,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [目标检测/Object Detection](#ObjectDetection)
 
+- [目标跟踪/Object Tracking](#ObjectTracking)
+
 - [语义分割/Segmentation](#Segmentation)
 
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
@@ -281,17 +283,69 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 
-<a name="Object Tracking"></a> 
+<a name="ObjectTracking"></a> 
 
 ## 目标跟踪/Object Tracking
 
+:heavy_check_mark:**IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking**
+
+论文/paper：https://arxiv.org/abs/2103.14938
+
+代码/code：https://github.com/VISION-SJTU/IoUattack
+
+:heavy_check_mark:**Graph Attention Tracking**
+
+论文/paper：https://arxiv.org/abs/2011.11204
+
+代码/code：https://github.com/ohhhyeahhh/SiamGAT
+
+:heavy_check_mark:**Learning a Proposal Classifier for Multiple Object Tracking**
+
+论文/paper：https://arxiv.org/abs/2103.07889
+
+代码/code：https://github.com/daip13/LPC_MOT
+
+:heavy_check_mark:**Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking**
+
+论文/paper：https://arxiv.org/abs/2012.02337
+
+代码/code：https://github.com/fatemeh-slh/ArTIST
+
+:heavy_check_mark:**Rotation Equivariant Siamese Networks for Tracking**
+
+论文/paper： https://arxiv.org/abs/2012.13078
+
+代码/code：https://github.com/dkgupta90/re-siamnet
+
 :heavy_check_mark: **Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark**
 
-视频demo：[youtube](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)
+视频demo：[bilibili](https://www.bilibili.com/video/BV1bh411D72N/)| [youtube](https://www.youtube.com/watch?v=7lvVDlkkff0&ab_channel=XiaoWang)
 
 论文/paper：https://arxiv.org/pdf/2103.16746.pdf | [Project page](https://sites.google.com/view/langtrackbenchmark/) 
 
 代码/code： https://github.com/wangxiao5791509/TNL2K_evaluation_toolkit
+
+:heavy_check_mark:**Track to Detect and Segment: An Online Multi-Object Tracker**
+
+视频demo： [youtube](https://youtu.be/oGNtSFHRZJA)
+
+论文/paper：https://arxiv.org/pdf/2103.08808.pdf | [主页/page](https://jialianwu.com/projects/TraDeS.html)
+
+代码/code：https://github.com/JialianW/TraDeS
+
+:heavy_check_mark:**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking** (CVPR 2021 Oral)
+
+论文/paper：https://arxiv.org/abs/2103.11681
+
+代码/code： https://github.com/594422814/TransformerTrack
+
+:heavy_check_mark:**Transformer Tracking**
+
+论文/paper：https://arxiv.org/abs/2103.15436
+
+代码/code： https://github.com/chenxin-dlut/TransT
+
+
 
 [返回目录/back](#Contents)
 
@@ -319,7 +373,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/wbhu/BPNet
 
-**Boundary IoU: Improving Object-Centric Image Segmentation Evaluation**
+:heavy_check_mark:**Boundary IoU: Improving Object-Centric Image Segmentation Evaluation**
 
 论文/paper：https://arxiv.org/abs/2103.16562 | [主页/page](https://bowenc0221.github.io/boundary-iou/)
 
