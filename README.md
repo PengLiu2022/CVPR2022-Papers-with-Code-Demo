@@ -34,6 +34,10 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [语义分割/Segmentation](#Segmentation)
 
+- [人脸识别/Face Recognition](#FaceRecognition)
+
+- [人脸检测/Face Detection](#FaceDetection)
+
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
@@ -143,7 +147,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper：https://arxiv.org/pdf/2103.17242
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**End-to-End Object Detection with Fully Convolutional Network**
 
@@ -161,7 +165,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper：https://arxiv.org/abs/2103.02340
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection**
 
@@ -179,17 +183,17 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/abhi1kumar/groomed_nms
 
-:heavy_check_mark:**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors**
+:heavy_check_mark:**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object DetectorsNone**
 
 论文/paper：https://arxiv.org/abs/2103.13757
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
 
 论文/paper：https://arxiv.org/abs/2103.11402
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**Instance Localization for Self-supervised Detection Pretraining**
 
@@ -201,7 +205,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper： https://arxiv.org/abs/2103.04224
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**Multiple Instance Active Learning for Object Detection**
 
@@ -223,15 +227,15 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  **Positive-Unlabeled Data Purification in the Wild for Object Detection**
 
-论文/paper：
+论文/paper：None
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**Robust and Accurate Object Detection via Adversarial Learning**
 
 论文/paper：https://arxiv.org/abs/2103.13886
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**ReDet: A Rotation-equivariant Detector for Aerial Object Detection**
 
@@ -251,7 +255,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper：https://arxiv.org/abs/2103.01903
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark:**Sparse R-CNN: End-to-End Object Detection with Learnable Proposals**
 
@@ -527,7 +531,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper： https://arxiv.org/abs/2103.04705
 
-代码/code：
+代码/code：None
 
 :heavy_check_mark: **SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation**
 
@@ -547,19 +551,59 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 解读：[CVPR 2021 | 创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题](https://www.leiphone.com/news/202103/ioJRMuZHucU7cLp4.html)
 
-论文/paper：
+论文/paper：None
 
-代码/code：
-
-
-
-论文/paper：
-
-代码/code：
+代码/code：None
 
 [返回目录/back](#Contents)
 
+<a name="FaceRecognition"></a>
 
+# 人脸识别/Face Recognition
+
+**A 3D GAN for Improved Large-pose Facial Recognition**
+
+论文/paper：https://arxiv.org/abs/2012.10545
+
+代码/code：None
+
+**MagFace: A Universal Representation for Face Recognition and Quality Assessment** (CVPR 2021 Oral)
+
+论文/paper：https://arxiv.org/abs/2103.06627
+
+代码/code：https://github.com/IrvingMeng/MagFace
+
+**WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition**
+
+论文/paper：https://arxiv.org/abs/2103.04098 | [主页 | Homepage](https://www.face-benchmark.org/) 
+
+代码/code：None
+
+**When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**(CVPR 2021 Oral)
+
+论文/paper：https://arxiv.org/abs/2103.01520
+
+代码/code：https://github.com/Hzzone/MTLFace
+
+[返回目录/back](#Contents)
+
+<a name="FaceDetection"></a>
+
+# 人脸检测/Face Detection
+
+**HLA-Face: Joint High-Low Adaptation for Low Light Face Detection**
+
+论文/paper： https://arxiv.org/abs/2104.01984 |[主页 | Homepage]( https://daooshee.github.io/HLA-Face-Website/) 
+
+代码/code：https://github.com/daooshee/HLA-Face-Code
+
+**CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement**
+
+论文/paper：https://arxiv.org/abs/2103.07017
+
+代码/code：None
+
+[返回目录/back](#Contents)
 
 <a name="HumanPoseEstimation"></a>
 
