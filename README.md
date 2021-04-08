@@ -175,11 +175,11 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/implus/GFocalV2
 
-**GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection**
+:heavy_check_mark:**GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection**
 
 视频demo：https://www.youtube.com/watch?v=PWctKkyWrno
 
-论文/paper：coming soon
+论文/paper：https://arxiv.org/abs/2103.17202
 
 代码/code：https://github.com/abhi1kumar/groomed_nms
 
