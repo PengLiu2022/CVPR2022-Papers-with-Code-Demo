@@ -613,7 +613,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸活体检测/Face Anti-Spoofing
 
-**Cross Modal Focal Loss for RGBD Face Anti-Spoofing**
+:heavy_check_mark: **Cross Modal Focal Loss for RGBD Face Anti-Spoofing**
 
 解读：[论文翻译](https://blog.csdn.net/bianlongpeng/article/details/114935866) | [CVPR2021 人脸防伪相关paper](https://zhuanlan.zhihu.com/p/355208676)
 
@@ -621,13 +621,13 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
-**Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection**
+:heavy_check_mark: **Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection**
 
 论文/paper：https://arxiv.org/abs/2103.09096
 
 代码/code：None
 
-**MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes**
+:heavy_check_mark: **MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes**
 
 解读：[Deepfake防御新思路有了！腾讯首次公开MagDR框架，已被AI顶会接收](https://cloud.tencent.com/developer/news/797874)
 
@@ -635,11 +635,11 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
-**Multi-attentional Deepfake Detection** (CVPR2021 preview)
+:heavy_check_mark: **Multi-attentional Deepfake Detection** (CVPR2021 preview)
 
 论文/paper：https://arxiv.org/abs/2103.02406
 
-代码/code：None
+代码/code：https://github.com/yoctta/multiple-attention
 
 
 
