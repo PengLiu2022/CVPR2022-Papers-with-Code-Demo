@@ -423,7 +423,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
-**Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation**
+:heavy_check_mark:**Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation**
 
 论文/paper： https://arxiv.org/abs/2011.10033
 
@@ -543,7 +543,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/goodproj13/SG-Net
 
-**Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
+:heavy_check_mark:**Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges**
 
 论文/paper：http://arxiv.org/abs/2009.03137 | [主页 | Homepage](https://github.com/QingyongHu/SensatUrban)
 
