@@ -40,6 +40,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [人脸活体检测/Face Anti-Spoofing](#FaceAnti-Spoofing)
 
+- [人脸年龄估计/Age Estimation](#AgeEstimation)
+
+- [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
+
+- [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
+
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
@@ -641,13 +647,51 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/yoctta/multiple-attention
 
+[返回目录/back](#Contents)
 
+<a name="AgeEstimation"></a>
+
+# 人脸年龄估计/Age Estimation
+
+:heavy_check_mark: **PML: Progressive Margin Loss for Long-tailed Age Classification**
+
+论文/paper：https://arxiv.org/abs/2103.02140
+
+代码/code：None
 
 [返回目录/back](#Contents)
 
+<a name="FacialExpressionRecognition"></a>
+
+# 人脸表情识别/Facial Expression Recognition
+
+:heavy_check_mark: **Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition**
+
+论文/paper：https://arxiv.org/abs/2103.13372
+
+代码/code： None
+
+**Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition**
+
+论文/paper：None | [厦大新闻](https://cs.xmu.edu.cn/info/1045/1926.htm)
+
+代码/code： None
+
+[返回目录/back](#Contents)
+
+<a name="FacialAttributeRecognition"></a>
+
+# 人脸属性识别/Facial Attribute Recognition
+
+ **Learning Spatial-Semantic Relationship for Facial Attribute Recognition with Limited Labeled Data**
+
+论文/paper：None | [厦大新闻](https://cs.xmu.edu.cn/info/1045/1926.htm)
+
+代码/code： None
+
 <a name="HumanPoseEstimation"></a>
 
-## 人体姿态估计/Human Pose Estimation
+# 人体姿态估计/Human Pose Estimation
 
  :heavy_check_mark: **Deep Dual Consecutive Network for Human Pose Estimation**
 
