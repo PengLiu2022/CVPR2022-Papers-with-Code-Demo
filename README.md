@@ -563,25 +563,25 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸识别/Face Recognition
 
-**A 3D GAN for Improved Large-pose Facial Recognition**
+:heavy_check_mark:**A 3D GAN for Improved Large-pose Facial Recognition**
 
 论文/paper：https://arxiv.org/abs/2012.10545
 
 代码/code：None
 
-**MagFace: A Universal Representation for Face Recognition and Quality Assessment** (CVPR 2021 Oral)
+ :heavy_check_mark: **MagFace: A Universal Representation for Face Recognition and Quality Assessment** (CVPR 2021 Oral)
 
 论文/paper：https://arxiv.org/abs/2103.06627
 
 代码/code：https://github.com/IrvingMeng/MagFace
 
-**WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition**
+:heavy_check_mark: **WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition**
 
 论文/paper：https://arxiv.org/abs/2103.04098 | [主页 | Homepage](https://www.face-benchmark.org/) 
 
 代码/code：None
 
-**When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**(CVPR 2021 Oral)
+:heavy_check_mark: **When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework**(CVPR 2021 Oral)
 
 论文/paper：https://arxiv.org/abs/2103.01520
 
@@ -593,17 +593,19 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸检测/Face Detection
 
-**HLA-Face: Joint High-Low Adaptation for Low Light Face Detection**
-
-论文/paper： https://arxiv.org/abs/2104.01984 |[主页 | Homepage]( https://daooshee.github.io/HLA-Face-Website/) 
-
-代码/code：https://github.com/daooshee/HLA-Face-Code
-
-**CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement**
+:heavy_check_mark: **CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement**
 
 论文/paper：https://arxiv.org/abs/2103.07017
 
 代码/code：None
+
+:heavy_check_mark: **HLA-Face: Joint High-Low Adaptation for Low Light Face Detection**
+
+解读：[北京大学 | HLA-Face：用于暗光人脸检测的联合高-低自适应（CVPR2021](https://hub.baai.ac.cn/view/7478)
+
+论文/paper： https://arxiv.org/abs/2104.01984 |[主页 | Homepage]( https://daooshee.github.io/HLA-Face-Website/) 
+
+代码/code：https://github.com/daooshee/HLA-Face-Code
 
 [返回目录/back](#Contents)
 
