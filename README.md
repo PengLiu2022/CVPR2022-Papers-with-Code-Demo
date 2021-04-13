@@ -50,6 +50,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
 
+- [超分辨率/Super Resolution](#SuperResolution)
+
+- [图像复原/Image Restoration](#ImageRestoration)
+
+- [图像补全/Image Inpainting](#ImageInpainting)
+
+- [图像编辑/Image Editing](#ImageEditing)
+
+- [图像匹配/Image Matcing](#ImageMatcing)
+
+- [图像融合/Image Blending](#ImageBlending)
+
   
 
 【目录 可直接跳转】
@@ -633,6 +645,14 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+:heavy_check_mark:**ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis**
+
+解读：[CVPR 2021 Oral｜商汤提出最新深伪评测基准 ForgeryNet：左右互搏——论火眼金睛的修炼](https://zhuanlan.zhihu.com/p/357301664)
+
+论文/paper：https://arxiv.org/abs/2103.05630 | [主页 | Homepage](https://yinanhe.github.io/projects/forgerynet.html)
+
+代码/code：None
+
 :heavy_check_mark: **MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes**
 
 解读：[Deepfake防御新思路有了！腾讯首次公开MagDR框架，已被AI顶会接收](https://cloud.tencent.com/developer/news/797874)
@@ -715,6 +735,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：| [主页/Homepage](http://virtualhumans.mpi-inf.mpg.de/hps/)
 
+:heavy_check_mark: **Monocular 3D Multi-Person Pose Estimation by Integrating Top-Down and Bottom-Up Networks**
+
+论文/paper： https://arxiv.org/abs/2104.01797
+
+代码/code：https://github.com/3dpose/3D-Multi-Person-Pose
+
 [返回目录/back](#Contents)
 
 <a name="6DPoseEstimation"></a>
@@ -740,6 +766,208 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：http://arxiv.org/abs/2102.12145
 
 代码/code：https://git.io/GDR-Net
+
+[返回目录/back](#Contents)
+
+<a name="SuperResolution"></a>
+
+# 超分辨率/Super Resolution
+
+**Unsupervised Degradation Representation Learning for Blind Super-Resolution**
+
+论文/paper：https://arxiv.org/abs/2104.00416
+
+代码/code：https://github.com/LongguangWang/DASR
+
+**Data-Free Knowledge Distillation For Image Super-Resolution**
+
+论文/paper：None
+
+代码/code：None
+
+**AdderSR: Towards Energy Efficient Image Super-Resolution**
+
+论文/paper：https://arxiv.org/abs/2009.08891
+
+代码/code：None
+
+**Exploring Sparsity in Image Super-Resolution for Efficient Inference**
+
+论文/paper：https://arxiv.org/abs/2006.09603
+
+代码/code：https://github.com/LongguangWang/SMSR
+
+**ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**
+
+论文/paper：https://arxiv.org/abs/2103.04039
+
+代码/code：https://github.com/Xiangtaokong/ClassSR
+
+**Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**
+
+解读：[CVPR 2021，Cross-MPI以底层场景结构为线索的端到端网络，在大分辨率（x8）差距下也可完成高保真的超分辨率](https://zhuanlan.zhihu.com/p/354752197)
+
+论文/paper：https://arxiv.org/abs/2011.14631 | [主页 / Homepage](http://www.liuyebin.com/crossMPI/crossMPI.html)
+
+代码/code：
+
+**LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution**
+
+论文/paper：None
+
+代码/code：https://github.com/wangh-allen/LAU-Net
+
+**Learning Continuous Image Representation with Local Implicit Image Function**
+
+论文/paper：https://arxiv.org/abs/2012.09161 | [主页/Homepage](https://yinboc.github.io/liif/)
+
+代码/code：https://github.com/yinboc/liif
+
+**Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**
+
+论文/paper：None
+
+代码/code：https://github.com/CS-GangXu/TMNet
+
+**Robust Reference-based Super-Resolution via C²-Matching**
+
+论文/paper：None
+
+代码/code：None
+
+**GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution**
+
+论文/paper：https://ckkelvinchan.github.io/papers/glean.pdf | [主页 / Homepage](https://ckkelvinchan.github.io/projects/GLEAN/)
+
+代码/code：None
+
+**BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond**
+
+论文/paper：https://arxiv.org/abs/2012.02181| [主页 / Homepage](https://ckkelvinchan.github.io/projects/BasicVSR/)
+
+代码/code：https://github.com/ckkelvinchan/BasicVSR-IconVSR
+
+**Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling**
+
+论文/paper：None | [主页 / Homepage](https://ding3820.github.io/MIMO-VRN/) 
+
+代码/code：https://github.com/ding3820/MIMO-VRN
+
+**MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution**
+
+论文/paper：https://jiaya.me/papers/masasr_cvpr21.pdf
+
+代码/code：https://github.com/Jia-Research-Lab/MASA-SR
+
+**Flow-based Kernel Prior with Application to Blind Super-Resolution**
+
+论文/paper：https://arxiv.org/pdf/2103.15977.pdf
+
+代码/code：https://github.com/JingyunLiang/FKP
+
+**Interpreting Super-Resolution Networks with Local Attribution Maps**
+
+解读：[CVPR2021-顾津锦：使用局部归因图理解和可视化超分辨网络](https://zhuanlan.zhihu.com/p/363139999)
+
+论文/paper：https://x-lowlevel-vision.github.io/lam.html
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="ImageRestoration"></a>
+
+# 图像复原/Image Restoration
+
+**Multi-Stage Progressive Image Restoration**
+
+论文/paper：https://arxiv.org/abs/2102.02808
+
+代码/code：https://github.com/swz30/MPRNet
+
+[返回目录/back](#Contents)
+
+<a name="ImageInpainting"></a>
+
+# 图像补全/Image Inpainting
+
+**TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations**
+
+论文/paper： https://arxiv.org/abs/2103.15982 | [主页 / Homepage](https://yzhouas.github.io/projects/TransFill/index.html)
+
+代码/code：None
+
+**PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
+
+论文/paper： http://raywzy.com/
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="ImageEditing"></a>
+
+# 图像编辑/Image Editing
+
+**High-Fidelity and Arbitrary Face Editing**
+
+论文/paper：https://arxiv.org/abs/2103.15814
+
+代码/code：None
+
+**Anycost GANs for Interactive Image Synthesis and Editing**
+
+论文/paper：https://arxiv.org/abs/2103.03243
+
+代码/code：https://github.com/mit-han-lab/anycost-gan
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+
+论文/paper：https://arxiv.org/abs/2103.04023
+
+代码/code：https://github.com/Zhangjinso/PISE
+
+**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
+
+论文/paper：http://raywzy.com/
+
+代码/code：None
+
+**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+论文/paper：None
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="ImageMatcing"></a>
+
+# 图像匹配/Image Matcing
+
+**LoFTR: Detector-Free Local Feature Matching with Transformers**
+
+论文/paper： https://arxiv.org/abs/2104.00680 | [主页 / Homepage]( https://zju3dv.github.io/loftr/)
+
+代码/code：https://github.com/zju3dv/LoFTR
+
+**Convolutional Hough Matching Networks** （CVPR 2021 Oral）
+
+论文/paper：https://arxiv.org/abs/2103.16831 | [主页 / Homepage]( http://cvlab.postech.ac.kr/research/CHM/)
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="ImageBlending"></a>
+
+# 图像融合/Image Blending
+
+**Bridging the Visual Gap: Wide-Range Image Blending**
+
+论文/paper：https://arxiv.org/abs/2103.15149
+
+代码/code：https://github.com/julia0607/Wide-Range-Image-Blending
 
 [返回目录/back](#Contents)
 
@@ -776,13 +1004,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 
-:heavy_check_mark:**ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis**
 
-解读：[CVPR 2021 Oral｜商汤提出最新深伪评测基准 ForgeryNet：左右互搏——论火眼金睛的修炼](https://zhuanlan.zhihu.com/p/357301664)
-
-论文/paper：https://arxiv.org/abs/2103.05630 | [主页 | Homepage](https://yinanhe.github.io/projects/forgerynet.html)
-
-代码/code：
 
 [返回目录/back](#Contents)
 
@@ -809,6 +1031,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 参考：
 
 https://github.com/extreme-assistant/CVPR2021-Paper-Code-Interpretation/blob/master/CVPR2021.md
+
+https://github.com/Kobaayyy/Awesome-CVPR2021-CVPR2020-Low-Level-Vision/blob/master/CVPR2021.md
 
 https://github.com/Qingcsai/awesome-Deepfakes
 
