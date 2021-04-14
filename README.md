@@ -785,13 +785,13 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/ckkelvinchan/BasicVSR-IconVSR
 
-**ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**
+:heavy_check_mark:**ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic**
 
 论文/paper：https://arxiv.org/abs/2103.04039
 
 代码/code：https://github.com/Xiangtaokong/ClassSR
 
-**Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**
+:heavy_check_mark:**Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images**
 
 解读：[CVPR 2021，Cross-MPI以底层场景结构为线索的端到端网络，在大分辨率（x8）差距下也可完成高保真的超分辨率](https://zhuanlan.zhihu.com/p/354752197)
 
@@ -811,7 +811,7 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/LongguangWang/SMSR
 
-**Flow-based Kernel Prior with Application to Blind Super-Resolution**
+:heavy_check_mark:**Flow-based Kernel Prior with Application to Blind Super-Resolution**
 
 论文/paper：https://arxiv.org/pdf/2103.15977.pdf
 
@@ -829,21 +829,21 @@ add<a name="Contents"></a>
 
 论文/paper：https://x-lowlevel-vision.github.io/lam.html
 
-代码/code：None
+代码/code：None | [colab](https://colab.research.google.com/drive/1ZodQ8CRCfHw0y6BweG9zB3YrK_lYWcDk?usp=sharing)
 
 **LAU-Net: Latitude Adaptive Upscaling Network for Omnidirectional Image Super-resolution**
 
-论文/paper：None
+论文/paper：None | [主页/Homepage](http://buaamc2.net/)
 
 代码/code：https://github.com/wangh-allen/LAU-Net
 
-**Learning Continuous Image Representation with Local Implicit Image Function**
+:heavy_check_mark:**Learning Continuous Image Representation with Local Implicit Image Function**
 
 论文/paper：https://arxiv.org/abs/2012.09161 | [主页/Homepage](https://yinboc.github.io/liif/)
 
 代码/code：https://github.com/yinboc/liif
 
-**MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution**
+:heavy_check_mark:**MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution**
 
 论文/paper：https://jiaya.me/papers/masasr_cvpr21.pdf
 
@@ -851,13 +851,13 @@ add<a name="Contents"></a>
 
 **Robust Reference-based Super-Resolution via C²-Matching**
 
-论文/paper：None
+论文/paper：None | [主页 / Homepage](https://ckkelvinchan.github.io/)
 
 代码/code：None
 
 **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**
 
-论文/paper：None
+论文/paper：None | [主页 / Homepage](https://csjunxu.github.io/)
 
 代码/code：https://github.com/CS-GangXu/CS-GangXu
 
@@ -872,8 +872,6 @@ add<a name="Contents"></a>
 论文/paper：https://arxiv.org/abs/2103.14858 | [主页 / Homepage](https://ding3820.github.io/MIMO-VRN/) 
 
 代码/code：https://github.com/ding3820/MIMO-VRN
-
-
 
 [返回目录/back](#Contents)
 
