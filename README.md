@@ -62,6 +62,8 @@ add<a name="Contents"></a>
 
 - [图像融合/Image Blending](#ImageBlending)
 
+- [反光去除/Reflection Removal](#ReflectionRemoval)
+
   
 
 【目录 可直接跳转】
@@ -203,6 +205,12 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/abhi1kumar/groomed_nms
 
+:heavy_check_mark:**Group Collaborative Learning for Co-Salient Object Detection**
+
+论文/paper：https://arxiv.org/abs/2104.01108
+
+代码/code：https://github.com/fanq15/GCoNet
+
 :heavy_check_mark:**I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object DetectorsNone**
 
 论文/paper：https://arxiv.org/abs/2103.13757
@@ -294,6 +302,12 @@ add<a name="Contents"></a>
 论文/paper：https://arxiv.org/abs/2103.02603
 
 代码/code：https://github.com/JosephKJ/OWOD
+
+:heavy_check_mark:**Uncertainty-aware Joint Salient Object and Camouflaged Object Detection**
+
+论文/paper：https://arxiv.org/abs/2104.02628
+
+代码/code：https://github.com/JingZhang617/Joint_COD_SOD
 
 :heavy_check_mark:**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers** (CVPR2021 Oral)
 
@@ -691,9 +705,9 @@ add<a name="Contents"></a>
 
 代码/code： None
 
-**Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition**
+:heavy_check_mark:**Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition**
 
-论文/paper：None | [厦大新闻](https://cs.xmu.edu.cn/info/1045/1926.htm)
+论文/paper：https://arxiv.org/abs/2104.05160 | [厦大新闻](https://cs.xmu.edu.cn/info/1045/1926.htm)
 
 代码/code： None
 
@@ -879,7 +893,7 @@ add<a name="Contents"></a>
 
 # 图像复原/Image Restoration
 
-**Multi-Stage Progressive Image Restoration**
+:heavy_check_mark:**Multi-Stage Progressive Image Restoration**
 
 论文/paper：https://arxiv.org/abs/2102.02808
 
@@ -891,7 +905,7 @@ add<a name="Contents"></a>
 
 # 图像补全/Image Inpainting
 
-**TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations**
+:heavy_check_mark:**TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations**
 
 论文/paper： https://arxiv.org/abs/2103.15982 | [主页 / Homepage](https://yzhouas.github.io/projects/TransFill/index.html)
 
@@ -909,19 +923,19 @@ add<a name="Contents"></a>
 
 # 图像编辑/Image Editing
 
-**High-Fidelity and Arbitrary Face Editing**
+:heavy_check_mark:**High-Fidelity and Arbitrary Face Editing**
 
 论文/paper：https://arxiv.org/abs/2103.15814
 
 代码/code：None
 
-**Anycost GANs for Interactive Image Synthesis and Editing**
+:heavy_check_mark:**Anycost GANs for Interactive Image Synthesis and Editing**
 
 论文/paper：https://arxiv.org/abs/2103.03243
 
 代码/code：https://github.com/mit-han-lab/anycost-gan
 
-**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+:heavy_check_mark:**PISE: Person Image Synthesis and Editing with Decoupled GAN**
 
 论文/paper：https://arxiv.org/abs/2103.04023
 
@@ -935,7 +949,7 @@ add<a name="Contents"></a>
 
 **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
 
-论文/paper：None
+论文/paper：None | [主页 / Homepage](https://yunjey.github.io/)
 
 代码/code：None
 
@@ -945,13 +959,13 @@ add<a name="Contents"></a>
 
 # 图像匹配/Image Matcing
 
-**LoFTR: Detector-Free Local Feature Matching with Transformers**
+:heavy_check_mark:**LoFTR: Detector-Free Local Feature Matching with Transformers**
 
 论文/paper： https://arxiv.org/abs/2104.00680 | [主页 / Homepage]( https://zju3dv.github.io/loftr/)
 
 代码/code：https://github.com/zju3dv/LoFTR
 
-**Convolutional Hough Matching Networks** （CVPR 2021 Oral）
+:heavy_check_mark:**Convolutional Hough Matching Networks** （CVPR 2021 Oral）
 
 论文/paper：https://arxiv.org/abs/2103.16831 | [主页 / Homepage]( http://cvlab.postech.ac.kr/research/CHM/)
 
@@ -963,7 +977,7 @@ add<a name="Contents"></a>
 
 # 图像融合/Image Blending
 
-**Bridging the Visual Gap: Wide-Range Image Blending**
+:heavy_check_mark:**Bridging the Visual Gap: Wide-Range Image Blending**
 
 论文/paper：https://arxiv.org/abs/2103.15149
 
@@ -973,9 +987,17 @@ add<a name="Contents"></a>
 
 
 
-<a name="Other"></a>
+<a name="ReflectionRemoval"></a>
 
-### 其他/Other
+## 反光去除/Reflection Removal
+
+**Panoramic Image Reflection Removal**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=ZumVEWN8Ito) | [bilibili](https://www.bilibili.com/video/BV1vv41177oc/)
+
+论文/paper：None 
+
+代码/code：None 
 
  :heavy_check_mark: **Robust Reflection Removal with Reflection-free Flash-only Cues**
 
@@ -984,6 +1006,16 @@ add<a name="Contents"></a>
 论文/paper：https://arxiv.org/pdf/2103.04273
 
 代码/code：https://github.com/ChenyangLEI/flash-reflection-removal
+
+[返回目录/back](#Contents)
+
+
+
+<a name="Other"></a>
+
+### 其他/Other
+
+
 
 
 
