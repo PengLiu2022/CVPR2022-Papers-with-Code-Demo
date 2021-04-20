@@ -135,6 +135,12 @@ add<a name="Contents"></a>
 
 ## 目标检测/Object Detection
 
+**Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds**
+
+论文/paper： https://arxiv.org/abs/2104.06114
+
+代码/code：https://github.com/cheng052/BRNet
+
 :heavy_check_mark: **Categorical Depth Distribution Network for Monocular 3D Object Detection**
 
 论文/paper： https://arxiv.org/abs/2103.01100
@@ -373,7 +379,7 @@ add<a name="Contents"></a>
 
 :heavy_check_mark:**Track to Detect and Segment: An Online Multi-Object Tracker**
 
-视频demo： [youtube](https://youtu.be/oGNtSFHRZJA)
+视频demo： [youtube](https://youtu.be/oGNtSFHRZJA) | [bilibili](https://www.bilibili.com/video/BV1f5411c774)
 
 论文/paper：https://arxiv.org/pdf/2103.08808.pdf | [主页/Homepage](https://jialianwu.com/projects/TraDeS.html)
 
