@@ -50,6 +50,8 @@ add<a name="Contents"></a>
 
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
 
+- [GAN](#GAN)
+
 - [超分辨率/Super Resolution](#SuperResolution)
 
 - [图像复原/Image Restoration](#ImageRestoration)
@@ -786,6 +788,76 @@ add<a name="Contents"></a>
 论文/paper：http://arxiv.org/abs/2102.12145
 
 代码/code：https://git.io/GDR-Net
+
+[返回目录/back](#Contents)
+
+<a name="GAN"></a>
+
+## GAN
+
+**DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network**
+
+解读：https://zhuanlan.zhihu.com/p/366231002
+
+论文/paper：https://arxiv.org/abs/2103.07893
+
+代码/code：https://github.com/ruiliu-ai/DivCo
+
+**Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
+
+论文/paper：https://arxiv.org/abs/2104.05376
+
+代码/code： https://github.com/PaddlePaddle/PaddleGAN/
+
+**Generative Hierarchical Features from Synthesizing Image**  (CVPR 2021 (Oral))
+
+论文/paper：https://arxiv.org/abs/2007.10379 | [主页 | Homepage](https://genforce.github.io/ghfeat/)
+
+代码/code：https://github.com/genforce/ghfeat
+
+**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms**
+
+论文/paper：https://arxiv.org/abs/2011.11731
+
+代码/code：https://github.com/mahmoudnafifi/HistoGAN
+
+**pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis** (CVPR 2021 (Oral))
+
+论文/paper：https://arxiv.org/abs/2012.00926 | [主页 | Homepage]( https://marcoamonteiro.github.io/pi-GAN-website/)
+
+代码/code：None
+
+**Regularizing Generative Adversarial Networks under Limited Data**
+
+论文/paper：https://arxiv.org/abs/2104.03310 | [主页  | Homepage](https://hytseng0509.github.io/lecam-gan/)
+
+代码/code：https://github.com/google/lecam-gan
+
+**Teachers Do More Than Teach: Compressing Image-to-Image Models**
+
+论文/paper：https://arxiv.org/abs/2103.03467
+
+代码/code：https://github.com/snap-research/CAT
+
+**TediGAN: Text-Guided Diverse Image Generation and Manipulation**
+
+论文/paper：https://arxiv.org/abs/2012.03308
+
+代码/code：https://github.com/weihaox/TediGAN
+
+**Towards Real-World Blind Face Restoration with Generative Facial Prior**
+
+解读：[解读1](https://www.linkresearcher.com/theses/77dbb9e3-bbdf-4f7e-83f1-da797cb98667) | [2](https://zhuanlan.zhihu.com/p/344602972)
+
+论文/paper： https://arxiv.org/abs/2101.04061
+
+代码/code：None
+
+
+
+论文/paper：
+
+代码/code：
 
 [返回目录/back](#Contents)
 
