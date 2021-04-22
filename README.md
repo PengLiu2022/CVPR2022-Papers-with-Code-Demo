@@ -803,6 +803,12 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/ruiliu-ai/DivCo
 
+**Diverse Semantic Image Synthesis via Probability Distribution Modeling**
+
+论文/paper：https://arxiv.org/abs/2103.06878
+
+代码/code：https://github.com/tzt101/INADE
+
 **Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
 
 论文/paper：https://arxiv.org/abs/2104.05376
@@ -853,7 +859,10 @@ add<a name="Contents"></a>
 
 代码/code：None
 
+**LOHO: Latent Optimization of Hairstyles via Orthogonalization**
 
+- Paper: https://arxiv.org/abs/2103.03891
+- Code: None
 
 论文/paper：
 
@@ -1112,7 +1121,13 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/decisionforce/mmTransformer
 
+**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation**
 
+视频demo：[youtube](https://www.youtube.com/watch?v=lNQQHIggnUg)
+
+论文/paper：https://hangz-nju-cuhk.github.io/projects/PC-AVS
+
+代码/code：https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS
 
 
 
