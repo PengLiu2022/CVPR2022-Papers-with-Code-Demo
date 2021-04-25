@@ -795,7 +795,7 @@ add<a name="Contents"></a>
 
 ## GAN
 
-**Anycost GANs for Interactive Image Synthesis and Editing**
+:heavy_check_mark: **Anycost GANs for Interactive Image Synthesis and Editing**
 
 视频/demo：[youtube](https://www.youtube.com/watch?v=_yEziPl9AkM)
 
@@ -803,13 +803,13 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/mit-han-lab/anycost-gan
 
-**A 3D GAN for Improved Large-pose Facial Recognition**
+:heavy_check_mark:**A 3D GAN for Improved Large-pose Facial Recognition**
 
 论文/paper：https://arxiv.org/abs/2012.10545
 
-代码/code：None
+代码/code：None            
 
-**Closed-Form Factorization of Latent Semantics in GANs** （CVPR 2021 Oral）
+:heavy_check_mark:**Closed-Form Factorization of Latent Semantics in GANs** （CVPR 2021 Oral）
 
 视频/demo：[youtube](https://www.youtube.com/watch?v=OFHW2WbXXIQ)
 
@@ -817,19 +817,19 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/genforce/sefa
 
-**CoMoGAN: continuous model-guided image-to-image translation** 
+:heavy_check_mark: **CoMoGAN: continuous model-guided image-to-image translation** 
 
 论文/paper：https://arxiv.org/abs/2103.06879
 
 代码/code：https://github.com/cv-rits/CoMoGAN
 
-**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
+ :heavy_check_mark: **DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
 
 论文/paper：https://arxiv.org/abs/2103.12723
 
 代码/code：https://github.com/KumapowerLIU/DeFLOCNet
 
-**DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network**
+ :heavy_check_mark: **DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network**
 
 解读：https://zhuanlan.zhihu.com/p/366231002
 
@@ -837,25 +837,25 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/ruiliu-ai/DivCo
 
-**Diverse Semantic Image Synthesis via Probability Distribution Modeling**
+ :heavy_check_mark: **Diverse Semantic Image Synthesis via Probability Distribution Modeling**
 
 论文/paper：https://arxiv.org/abs/2103.06878
 
 代码/code：https://github.com/tzt101/INADE
 
-**Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
+ :heavy_check_mark: **Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer**
 
 论文/paper：https://arxiv.org/abs/2104.05376
 
 代码/code： https://github.com/PaddlePaddle/PaddleGAN/
 
-**Efficient Conditional GAN Transfer with Knowledge Propagation across Classes**
+ :heavy_check_mark: **Efficient Conditional GAN Transfer with Knowledge Propagation across Classes**
 
 论文/paper：https://arxiv.org/abs/2102.06696
 
 代码/code：https://github.com/mshahbazi72/cGANTransfer
 
-**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
+:heavy_check_mark: **Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
 
 论文/paper：https://arxiv.org/abs/2008.00951 | [主页 | Homepage](https://eladrich.github.io/pixel2style2pixel/)
 
@@ -867,43 +867,43 @@ add<a name="Contents"></a>
 
 代码/code：None
 
-**Generative Hierarchical Features from Synthesizing Image**  (CVPR 2021 (Oral))
+:heavy_check_mark:**Generative Hierarchical Features from Synthesizing Image**  (CVPR 2021 (Oral))
 
 论文/paper：https://arxiv.org/abs/2007.10379 | [主页 | Homepage](https://genforce.github.io/ghfeat/)
 
 代码/code：https://github.com/genforce/ghfeat
 
-**Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs**
+:heavy_check_mark:**Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs**
 
 论文/paper：https://arxiv.org/abs/2011.14107 | [主页 | Homepage](https://a514514772.github.io/hijackgan/)
 
 代码/code：https://github.com/a514514772/hijackgan
 
-**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms**
+:heavy_check_mark:**HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms**
 
 论文/paper：https://arxiv.org/abs/2011.11731
 
 代码/code：https://github.com/mahmoudnafifi/HistoGAN
 
-**HumanGAN: A Generative Model of Humans Images**
+:heavy_check_mark:**HumanGAN: A Generative Model of Humans Images**
 
 论文/paper：https://arxiv.org/abs/2103.06902
 
 代码/code：None
 
-**ID-Unet: Iterative Soft and Hard Deformation for View Synthesis**
+:heavy_check_mark:**ID-Unet: Iterative Soft and Hard Deformation for View Synthesis**
 
 论文/paper：https://arxiv.org/abs/2103.02264
 
 代码/code： https://github.com/MingyuY/Iterative-view-synthesis
 
-**Image-to-image Translation via Hierarchical Style Disentanglement**
+:heavy_check_mark:**Image-to-image Translation via Hierarchical Style Disentanglement**
 
 论文/paper：https://arxiv.org/abs/2103.01456
 
 代码/code：https://github.com/imlixinyang/HiSD
 
-**LOHO: Latent Optimization of Hairstyles via Orthogonalization**
+:heavy_check_mark:**LOHO: Latent Optimization of Hairstyles via Orthogonalization**
 
 论文/paper：https://arxiv.org/abs/2103.03891
 
@@ -915,63 +915,49 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/KumapowerLIU/PD-GAN
 
-**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+:heavy_check_mark: **PISE: Person Image Synthesis and Editing with Decoupled GAN**
 
 论文/paper： https://arxiv.org/abs/2103.04023
 
 代码/code： https://github.com/Zhangjinso/PISE
 
-**pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis** (CVPR 2021 (Oral))
+:heavy_check_mark:**pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis** (CVPR 2021 (Oral))
 
 论文/paper：https://arxiv.org/abs/2012.00926 | [主页 | Homepage]( https://marcoamonteiro.github.io/pi-GAN-website/)
 
 代码/code：None
 
-**Regularizing Generative Adversarial Networks under Limited Data**
+:heavy_check_mark:**Regularizing Generative Adversarial Networks under Limited Data**
 
 论文/paper：https://arxiv.org/abs/2104.03310 | [主页  | Homepage](https://hytseng0509.github.io/lecam-gan/)
 
 代码/code：https://github.com/google/lecam-gan
 
-**Teachers Do More Than Teach: Compressing Image-to-Image Models**
+:heavy_check_mark:**Teachers Do More Than Teach: Compressing Image-to-Image Models**
 
 论文/paper：https://arxiv.org/abs/2103.03467
 
 代码/code：https://github.com/snap-research/CAT
 
-**TediGAN: Text-Guided Diverse Image Generation and Manipulation**
+:heavy_check_mark:**TediGAN: Text-Guided Diverse Image Generation and Manipulation**
 
 论文/paper：https://arxiv.org/abs/2012.03308
 
 代码/code：https://github.com/weihaox/TediGAN
 
-**Training Generative Adversarial Networks in One Stage**
+:heavy_check_mark: **Training Generative Adversarial Networks in One Stage**
 
 论文/paper：https://arxiv.org/abs/2103.00430
 
-代码/code：
+代码/code：None
 
-- Paper:
-- Code: None
-
-**Towards Real-World Blind Face Restoration with Generative Facial Prior**
+:heavy_check_mark:**Towards Real-World Blind Face Restoration with Generative Facial Prior**
 
 解读：[解读1](https://www.linkresearcher.com/theses/77dbb9e3-bbdf-4f7e-83f1-da797cb98667) | [2](https://zhuanlan.zhihu.com/p/344602972)
 
 论文/paper： https://arxiv.org/abs/2101.04061
 
 代码/code：None
-
-**PISE: Person Image Synthesis and Editing with Decoupled GAN**
-
-- Paper: https://arxiv.org/abs/2103.04023
-- Code: https://github.com/Zhangjinso/PISE
-
-
-
-论文/paper：
-
-代码/code：
 
 [返回目录/back](#Contents)
 
