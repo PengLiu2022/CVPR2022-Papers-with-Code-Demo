@@ -795,6 +795,40 @@ add<a name="Contents"></a>
 
 ## GAN
 
+**Anycost GANs for Interactive Image Synthesis and Editing**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=_yEziPl9AkM)
+
+论文/paper：https://arxiv.org/abs/2103.03243
+
+代码/code：https://github.com/mit-han-lab/anycost-gan
+
+**A 3D GAN for Improved Large-pose Facial Recognition**
+
+论文/paper：https://arxiv.org/abs/2012.10545
+
+代码/code：None
+
+**Closed-Form Factorization of Latent Semantics in GANs** （CVPR 2021 Oral）
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=OFHW2WbXXIQ)
+
+论文/paper：https://arxiv.org/abs/2007.06600 | [主页 | Homepage](https://genforce.github.io/sefa/)
+
+代码/code：https://github.com/genforce/sefa
+
+**CoMoGAN: continuous model-guided image-to-image translation** 
+
+论文/paper：https://arxiv.org/abs/2103.06879
+
+代码/code：https://github.com/cv-rits/CoMoGAN
+
+**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
+
+论文/paper：https://arxiv.org/abs/2103.12723
+
+代码/code：https://github.com/KumapowerLIU/DeFLOCNet
+
 **DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network**
 
 解读：https://zhuanlan.zhihu.com/p/366231002
@@ -815,17 +849,77 @@ add<a name="Contents"></a>
 
 代码/code： https://github.com/PaddlePaddle/PaddleGAN/
 
+**Efficient Conditional GAN Transfer with Knowledge Propagation across Classes**
+
+论文/paper：https://arxiv.org/abs/2102.06696
+
+代码/code：https://github.com/mshahbazi72/cGANTransfer
+
+**Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation**
+
+论文/paper：https://arxiv.org/abs/2008.00951 | [主页 | Homepage](https://eladrich.github.io/pixel2style2pixel/)
+
+代码/code：https://github.com/eladrich/pixel2style2pixel
+
+**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+论文/paper：https://yunjey.github.io/
+
+代码/code：None
+
 **Generative Hierarchical Features from Synthesizing Image**  (CVPR 2021 (Oral))
 
 论文/paper：https://arxiv.org/abs/2007.10379 | [主页 | Homepage](https://genforce.github.io/ghfeat/)
 
 代码/code：https://github.com/genforce/ghfeat
 
+**Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs**
+
+论文/paper：https://arxiv.org/abs/2011.14107 | [主页 | Homepage](https://a514514772.github.io/hijackgan/)
+
+代码/code：https://github.com/a514514772/hijackgan
+
 **HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms**
 
 论文/paper：https://arxiv.org/abs/2011.11731
 
 代码/code：https://github.com/mahmoudnafifi/HistoGAN
+
+**HumanGAN: A Generative Model of Humans Images**
+
+论文/paper：https://arxiv.org/abs/2103.06902
+
+代码/code：None
+
+**ID-Unet: Iterative Soft and Hard Deformation for View Synthesis**
+
+论文/paper：https://arxiv.org/abs/2103.02264
+
+代码/code： https://github.com/MingyuY/Iterative-view-synthesis
+
+**Image-to-image Translation via Hierarchical Style Disentanglement**
+
+论文/paper：https://arxiv.org/abs/2103.01456
+
+代码/code：https://github.com/imlixinyang/HiSD
+
+**LOHO: Latent Optimization of Hairstyles via Orthogonalization**
+
+论文/paper：https://arxiv.org/abs/2103.03891
+
+代码/code：https://github.com/dukebw/LOHO
+
+**PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
+
+论文/paper：None
+
+代码/code：https://github.com/KumapowerLIU/PD-GAN
+
+**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+
+论文/paper： https://arxiv.org/abs/2103.04023
+
+代码/code： https://github.com/Zhangjinso/PISE
 
 **pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis** (CVPR 2021 (Oral))
 
@@ -851,6 +945,15 @@ add<a name="Contents"></a>
 
 代码/code：https://github.com/weihaox/TediGAN
 
+**Training Generative Adversarial Networks in One Stage**
+
+论文/paper：https://arxiv.org/abs/2103.00430
+
+代码/code：
+
+- Paper:
+- Code: None
+
 **Towards Real-World Blind Face Restoration with Generative Facial Prior**
 
 解读：[解读1](https://www.linkresearcher.com/theses/77dbb9e3-bbdf-4f7e-83f1-da797cb98667) | [2](https://zhuanlan.zhihu.com/p/344602972)
@@ -859,10 +962,12 @@ add<a name="Contents"></a>
 
 代码/code：None
 
-**LOHO: Latent Optimization of Hairstyles via Orthogonalization**
+**PISE: Person Image Synthesis and Editing with Decoupled GAN**
 
-- Paper: https://arxiv.org/abs/2103.03891
-- Code: None
+- Paper: https://arxiv.org/abs/2103.04023
+- Code: https://github.com/Zhangjinso/PISE
+
+
 
 论文/paper：
 
@@ -1123,9 +1228,9 @@ add<a name="Contents"></a>
 
 **Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation**
 
-视频demo：[youtube](https://www.youtube.com/watch?v=lNQQHIggnUg)
+视频demo：[youtube](https://www.youtube.com/watch?v=lNQQHIggnUg) | [bilibili](https://www.bilibili.com/video/BV1eh411S77C)
 
-论文/paper：https://hangz-nju-cuhk.github.io/projects/PC-AVS
+论文/paper： |  [主页 | Homepage](https://hangz-nju-cuhk.github.io/projects/PC-AVS)
 
 代码/code：https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS
 
