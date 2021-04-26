@@ -21,7 +21,7 @@
 
 CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**CVPR+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
 
-add<a name="Contents"></a>
+<a name="Contents"></a>
 
 ### :hammer: **目录 |Table of Contents（点击直接跳转）**
 【TODO】
@@ -65,6 +65,8 @@ add<a name="Contents"></a>
 - [图像融合/Image Blending](#ImageBlending)
 
 - [反光去除/Reflection Removal](#ReflectionRemoval)
+
+- [车道线检测/Lane Detection](#LaneDetection)
 
   
 
@@ -1184,6 +1186,20 @@ add<a name="Contents"></a>
 论文/paper：https://arxiv.org/pdf/2103.04273
 
 代码/code：https://github.com/ChenyangLEI/flash-reflection-removal
+
+[返回目录/back](#Contents)
+
+<a name="LaneDetection"></a>
+
+## 车道线检测/Lane Detection
+
+:heavy_check_mark:**Keep your Eyes on the Lane: Real-time Attention-guided Lane Detection**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=ghs93acwkBQ)
+
+论文/paper：https://arxiv.org/abs/2010.12035
+
+代码/code：https://github.com/lucastabelini/LaneATT
 
 [返回目录/back](#Contents)
 
