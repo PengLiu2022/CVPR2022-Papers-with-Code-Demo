@@ -50,6 +50,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
 
+- [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
+
 - [GAN](#GAN)
 
 - [超分辨率/Super Resolution](#SuperResolution)
@@ -790,6 +792,20 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：http://arxiv.org/abs/2102.12145
 
 代码/code：https://git.io/GDR-Net
+
+[返回目录/back](#Contents)
+
+<a name="HandPoseEstimation"></a>
+
+## 手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery
+
+:heavy_check_mark:**Camera-Space Hand Mesh Recovery via Semantic Aggregationand Adaptive 2D-1D Registration**
+
+论文/paper：https://arxiv.org/abs/2103.02845.pdf
+
+代码/code：https://github.com/SeanChenxy/HandMesh
+
+
 
 [返回目录/back](#Contents)
 
