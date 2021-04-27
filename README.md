@@ -74,6 +74,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [流体重建/Fluid Reconstruction](#FluidReconstruction)
 
+- [视频插帧/Frame Interpolation](#FrameInterpolation)
+
   
 
 【目录 可直接跳转】
@@ -1251,20 +1253,42 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FrameInterpolation"></a>
+
+## 视频插帧/Frame Interpolation
+
+:heavy_check_mark:**CDFI: Compression-Driven Network Design for Frame Interpolation**
+
+视频demo：[youtube](https://www.youtube.com/watch?v=KEUcw4xoB5E)
+
+论文/paper：https://arxiv.org/abs/2103.10559
+
+代码/code： https://github.com/tding1/CDFI
+
+:heavy_check_mark:**Deep Animation Video Interpolation in the Wild**
+
+论文/paper：https://arxiv.org/abs/2104.02495
+
+代码/code：https://github.com/lisiyao21/AnimeInterp/
+
+:heavy_check_mark:**FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation**
+
+视频demo：[youtube](https://www.youtube.com/watch?v=TcQd0LCLCzo)
+
+论文/paper：https://arxiv.org/abs/2012.08512 | [主页 | Homepage](https://tarun005.github.io/FLAVR/)
+
+代码/code：https://github.com/tarun005/FLAVR
+
+[返回目录/back](#Contents)
+
 <a name="Other"></a>
 
 ### 其他/Other
-
-
-
-
 
 :heavy_check_mark:**Domain Consensus Clustering for Universal Domain Adaptation**
 
 论文/paper： http://reler.net/papers/guangrui_cvpr2021.pdf
 代码/code：https://github.com/Solacex/Domain-Consensus-Clustering
-
-
 
 :heavy_check_mark: **Multimodal Motion Prediction with Stacked Transformers**
 
@@ -1281,8 +1305,6 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper： |  [主页 | Homepage](https://hangz-nju-cuhk.github.io/projects/PC-AVS)
 
 代码/code：https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS
-
-
 
 [返回目录/back](#Contents)
 
@@ -1330,5 +1352,5 @@ https://www.codetd.com/en/article/12856576
 
 https://duoli.org/
 
-【TODO】新建文件夹存储论文/paper，方便下载
+https://cv.snu.ac.kr/index.php/publication-international/
 
