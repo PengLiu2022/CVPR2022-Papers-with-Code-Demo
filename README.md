@@ -54,6 +54,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [GAN](#GAN)
 
+- [Image Animation](#ImageAnimation)
+
 - [超分辨率/Super Resolution](#SuperResolution)
 
 - [图像复原/Image Restoration](#ImageRestoration)
@@ -69,6 +71,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [反光去除/Reflection Removal](#ReflectionRemoval)
 
 - [车道线检测/Lane Detection](#LaneDetection)
+
+- [流体重建/Fluid Reconstruction](#FluidReconstruction)
 
   
 
@@ -979,6 +983,20 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageAnimation"></a>
+
+### Image Animation
+
+:heavy_check_mark: **Motion Representations for Articulated Animation**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=gpBYN8t8_yY)
+
+论文/paper： https://arxiv.org/abs/2104.11280 | [主页 | Homepage](https://snap-research.github.io/articulated-animation/)
+
+代码/code：https://github.com/snap-research/articulated-animation
+
+[返回目录/back](#Contents)
+
 <a name="SuperResolution"></a>
 
 # 超分辨率/Super Resolution
@@ -1219,7 +1237,19 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FluidReconstruction"></a>
 
+## 流体重建/Fluid Reconstruction
+
+:heavy_check_mark:**Global Transport for Fluid Reconstruction with Learned Self-Supervision**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=h-JhMqcuOQA)
+
+论文/paper：https://arxiv.org/abs/2104.06031 | [主页 | Homepage](https://ge.in.tum.de/publications/2021-franz-globtrans/)
+
+代码/code：https://github.com/tum-pbs/Global-Flow-Transport
+
+[返回目录/back](#Contents)
 
 <a name="Other"></a>
 
@@ -1244,7 +1274,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/decisionforce/mmTransformer
 
-**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation**
+:heavy_check_mark:**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation**
 
 视频demo：[youtube](https://www.youtube.com/watch?v=lNQQHIggnUg) | [bilibili](https://www.bilibili.com/video/BV1eh411S77C)
 
