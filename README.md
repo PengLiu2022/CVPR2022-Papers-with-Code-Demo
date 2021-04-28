@@ -1129,9 +1129,9 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
 
-论文/paper： http://raywzy.com/
+论文/paper： http://raywzy.com/ None
 
-代码/code：None
+代码/code：https://github.com/KumapowerLIU/PD-GAN
 
 [返回目录/back](#Contents)
 
@@ -1157,13 +1157,15 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/Zhangjinso/PISE
 
-**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
+:heavy_check_mark:**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
 
-论文/paper：http://raywzy.com/
+论文/paper：https://arxiv.org/abs/2103.12723 
 
-代码/code：None
+代码/code：https://github.com/KumapowerLIU/DeFLOCNet
 
 **Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=qCapNyRA_Ng)
 
 论文/paper：None | [主页 / Homepage](https://yunjey.github.io/)
 
