@@ -1027,7 +1027,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper：https://arxiv.org/abs/2011.14631 | [主页 / Homepage](http://www.liuyebin.com/crossMPI/crossMPI.html)
 
-代码/code：Noneduoyi
+代码/code：None
 
 :heavy_check_mark: **Data-Free Knowledge Distillation For Image Super-Resolution**
 
@@ -1288,6 +1288,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark:**Domain Consensus Clustering for Universal Domain Adaptation**
 
 论文/paper： http://reler.net/papers/guangrui_cvpr2021.pdf
+
 代码/code：https://github.com/Solacex/Domain-Consensus-Clustering
 
 :heavy_check_mark: **Multimodal Motion Prediction with Stacked Transformers**
