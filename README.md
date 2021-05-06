@@ -34,6 +34,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [语义分割/Segmentation](#Segmentation)
 
+- [医学图像分割](#MedicalImageSegmentation)
+
 - [人脸识别/Face Recognition](#FaceRecognition)
 
 - [人脸检测/Face Detection](#FaceDetection)
@@ -609,6 +611,24 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="MedicalImageSegmentation"></a>
+
+# Medical Image Segmentation
+
+:heavy_check_mark:**FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
+
+论文/paper：https://arxiv.org/abs/2103.06030
+
+代码/code：https://github.com/liuquande/FedDG-ELCFS
+
+:heavy_check_mark:**DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation**
+
+论文/paper：https://arxiv.org/abs/2103.15954
+
+代码/code：
+
+[返回目录/back](#Contents)
+
 <a name="FaceRecognition"></a>
 
 # 人脸识别/Face Recognition
@@ -704,6 +724,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="AgeEstimation"></a>
 
 # 人脸年龄估计/Age Estimation
+
+:heavy_check_mark:**Continuous Face Aging via Self-estimated Residual Age Embedding**
+
+论文/paper：https://arxiv.org/abs/2105.00020
+
+代码/code：
 
 :heavy_check_mark: **PML: Progressive Margin Loss for Long-tailed Age Classification**
 
