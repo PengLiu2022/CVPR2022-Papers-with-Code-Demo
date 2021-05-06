@@ -36,6 +36,10 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [医学图像分割](#MedicalImageSegmentation)
 
+- [视频目标分割/Video Object Segmentation](#VideoObjectSegmentation)
+
+- [交互式视频目标分割/Interactive Video Object Segmentation](#InteractiveVideoObjectSegmentation)
+
 - [人脸识别/Face Recognition](#FaceRecognition)
 
 - [人脸检测/Face Detection](#FaceDetection)
@@ -613,7 +617,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="MedicalImageSegmentation"></a>
 
-# Medical Image Segmentation
+# 医学图像分割/Medical Image Segmentation
 
 :heavy_check_mark:**FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space**
 
@@ -625,7 +629,43 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 论文/paper：https://arxiv.org/abs/2103.15954
 
-代码/code：
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="VideoObjectSegmentation"></a>
+
+# 视频目标分割/Video Object Segmentation
+
+:heavy_check_mark:**Learning Position and Target Consistency for Memory-based Video Object Segmentation**
+
+解读：[论文翻译](https://blog.csdn.net/weixin_39778049/article/details/116234177)
+
+论文/paper：https://arxiv.org/abs/2104.04329
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="InteractiveVideoObjectSegmentation"></a>
+
+# 交互式视频目标分割/Interactive Video Object Segmentation
+
+**Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion**
+
+视频/demo：https://hkchengrex.github.io/MiVOS/video.html#partb
+
+论文/paper：https://arxiv.org/abs/2103.07941 | [主页/ Homepage]( https://hkchengrex.github.io/MiVOS/)
+
+代码/code： https://github.com/hkchengrex/MiVOS
+
+:heavy_check_mark:**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
+
+解读：https://www.zhihu.com/question/446299297/answer/1769080299
+
+论文/paper：https://arxiv.org/abs/2103.10391
+
+代码/code：https://github.com/svip-lab/IVOS-W
 
 [返回目录/back](#Contents)
 
