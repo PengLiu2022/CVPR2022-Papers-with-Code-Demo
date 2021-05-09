@@ -839,6 +839,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/3dpose/3D-Multi-Person-Pose
 
+:heavy_check_mark:**PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation**（CVPR 2021 Oral）
+
+论文/paper： https://arxiv.org/abs/2105.02465
+
+代码/code：https://github.com/jfzhang95/PoseAug
+
 [返回目录/back](#Contents)
 
 <a name="6DPoseEstimation"></a>
