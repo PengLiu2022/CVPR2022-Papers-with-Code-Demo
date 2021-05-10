@@ -811,6 +811,14 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人体姿态估计/Human Pose Estimation
 
+:heavy_check_mark:**Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video**
+
+视频demo：[youtube](https://www.youtube.com/watch?v=WB3nTnSQDII)  | [bilibili](https://www.bilibili.com/video/BV1vQ4y1d71M/)
+
+论文/paper：https://arxiv.org/abs/2011.08627
+
+代码/code：https://github.com/hongsukchoi/TCMR_RELEASE
+
  :heavy_check_mark: **Deep Dual Consecutive Network for Human Pose Estimation**
 
 视频demo：[bilibil](https://www.bilibili.com/video/BV1iy4y177Mf?from=search&seid=10675595845989092503)
