@@ -40,6 +40,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [交互式视频目标分割/Interactive Video Object Segmentation](#InteractiveVideoObjectSegmentation)
 
+- [Visual Transformer](#VisualTransformer)
+
 - [人脸识别/Face Recognition](#FaceRecognition)
 
 - [人脸检测/Face Detection](#FaceDetection)
@@ -670,6 +672,136 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.10391
 
 代码/code：https://github.com/svip-lab/IVOS-W
+
+[返回目录/back](#Contents)
+
+<a name="VisualTransformer"></a>
+
+# Visual Transformer
+
+:heavy_check_mark:**End-to-End Human Object Interaction Detection with HOI Transformer**
+
+论文/paper： https://arxiv.org/abs/2103.04503
+
+代码/code：https://github.com/bbepoch/HoiTransformer
+
+:heavy_check_mark:**End-to-End Video Instance Segmentation with Transformers** (CVPR2021 Oral)
+
+论文/paper： https://arxiv.org/abs/2011.14503
+
+代码/code：https://github.com/Epiphqny/VisTR
+
+:heavy_check_mark:**HOTR: End-to-End Human-Object Interaction Detection with Transformers**
+
+论文/paper：https://arxiv.org/abs/2104.13682
+
+代码/code：https://github.com/bbepoch/HoiTransformer
+
+**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers** (CVPR 2021 Oral)
+
+论文/paper：None | [报道](https://news.ruc.edu.cn/archives/308662)
+
+代码/code：https://github.com/dingmyu/HR-NAS
+
+:heavy_check_mark:**Kaleido-BERT：Vision-Language Pre-training on Fashion Domain**
+
+视频讲解：http://dpfan.net/wp-content/uploads/Kaleido-BERT.mp4 
+
+论文/paper：https://arxiv.org/abs/2103.16110 | [中文版 / Chinese](https://github.com/mczhuge/Kaleido-BERT/blob/main/CVPR2021_KaleidoBERT_Chinese.pdf)
+
+代码/code： https://github.com/mczhuge/Kaleido-BERT
+
+:heavy_check_mark:**LoFTR: Detector-Free Local Feature Matching with Transformers**
+
+论文/paper： https://arxiv.org/abs/2104.00680 | [主页 / Homepage]( https://zju3dv.github.io/loftr/)
+
+代码/code：https://github.com/zju3dv/LoFTR
+
+:heavy_check_mark:**Multi-Modal Fusion Transformer for End-to-End Autonomous Driving**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=WxadQyQ2gMs)
+
+论文/paper： https://arxiv.org/abs/2104.09224
+
+代码/code： https://github.com/autonomousvision/transfuser
+
+:heavy_check_mark:**MIST: Multiple Instance Spatial Transformer Network**
+
+论文/paper：https://arxiv.org/abs/1811.10725
+
+代码/code：None
+
+:heavy_check_mark: **Multimodal Motion Prediction with Stacked Transformers**
+
+视频demo：[bilibil](https://www.bilibili.com/video/BV1bV411e7F7/) | [youtube](https://youtu.be/oUZQBGOEBMg)
+
+论文/paper：https://arxiv.org/pdf/2103.11624.pdf
+
+代码/code：https://github.com/decisionforce/mmTransformer
+
+:heavy_check_mark:**Pre-Trained Image Processing Transformer**
+
+论文/paper： https://arxiv.org/abs/2012.00364
+
+代码/code：https://github.com/huawei-noah/Pretrained-IPT
+
+:heavy_check_mark:**Pose Recognition with Cascade Transformers**
+
+论文/paper：https://arxiv.org/abs/2104.06976
+
+代码/code：https://github.com/mlpc-ucsd/PRTR
+
+:heavy_check_mark:**Revamping cross-modal recipe retrieval with hierarchical Transformers and self-supervised learning**
+
+论文/paper：https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning
+
+代码/code：https://github.com/amzn/image-to-recipe-transformers
+
+:heavy_check_mark:**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
+
+论文/paper：https://arxiv.org/abs/2012.15840
+
+代码/code：https://github.com/fudan-zvg/SETR
+
+:heavy_check_mark:**Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking** (CVPR 2021 Oral)
+
+论文/paper：https://arxiv.org/abs/2103.11681
+
+代码/code： https://github.com/594422814/TransformerTrack
+
+:heavy_check_mark:**Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers**
+
+论文/paper： https://arxiv.org/abs/2103.16553
+
+代码/code：None
+
+:heavy_check_mark:**Transformer Tracking**
+
+论文/paper：https://arxiv.org/abs/2103.15436
+
+代码/code： https://github.com/chenxin-dlut/TransT
+
+:heavy_check_mark:**Transformer Interpretability Beyond Attention Visualization**
+
+论文/paper：https://arxiv.org/abs/2012.09838
+
+代码/code：https://github.com/hila-chefer/Transformer-Explainability
+
+:heavy_check_mark:**UP-DETR: Unsupervised Pre-training for Object Detection with Transformers** (CVPR2021 Oral)
+
+解读：https://zhuanlan.zhihu.com/p/356349626 | [华南理工和微信AI提出的无监督预训练检测器UP-DETR](https://www.zhihu.com/question/432321109/answer/1606004872)
+
+论文/paper： https://arxiv.org/abs/2011.09094
+
+代码/code：https://github.com/dddzg/up-detr
+
+:heavy_check_mark:**Variational Transformer Networks for Layout Generation**
+
+论文/paper：https://arxiv.org/abs/2104.02416
+
+代码/code：None
+
+
 
 [返回目录/back](#Contents)
 
@@ -1409,13 +1541,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/Solacex/Domain-Consensus-Clustering
 
-:heavy_check_mark: **Multimodal Motion Prediction with Stacked Transformers**
 
-视频demo：[bilibil](https://www.bilibili.com/video/BV1bV411e7F7/) | [youtube](https://youtu.be/oUZQBGOEBMg)
-
-论文/paper：https://arxiv.org/pdf/2103.11624.pdf
-
-代码/code：https://github.com/decisionforce/mmTransformer
 
 :heavy_check_mark:**Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation**
 
