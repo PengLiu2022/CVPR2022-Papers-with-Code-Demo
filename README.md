@@ -74,6 +74,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [图像融合/Image Blending](#ImageBlending)
 
+- [图像去雾/Image Dehazing](#ImageDehazing)
+
 - [反光去除/Reflection Removal](#ReflectionRemoval)
 
 - [车道线检测/Lane Detection](#LaneDetection)
@@ -1201,17 +1203,17 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像补全/Image Inpainting
 
-:heavy_check_mark:**TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations**
-
-论文/paper： https://arxiv.org/abs/2103.15982 | [主页 / Homepage](https://yzhouas.github.io/projects/TransFill/index.html)
-
-代码/code：None
-
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
 
 论文/paper： http://raywzy.com/ None
 
 代码/code：https://github.com/KumapowerLIU/PD-GAN
+
+:heavy_check_mark:**TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations**
+
+论文/paper： https://arxiv.org/abs/2103.15982 | [主页 / Homepage](https://yzhouas.github.io/projects/TransFill/index.html)
+
+代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -1219,23 +1221,11 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像编辑/Image Editing
 
-:heavy_check_mark:**High-Fidelity and Arbitrary Face Editing**
-
-论文/paper：https://arxiv.org/abs/2103.15814
-
-代码/code：None
-
 :heavy_check_mark:**Anycost GANs for Interactive Image Synthesis and Editing**
 
 论文/paper：https://arxiv.org/abs/2103.03243
 
 代码/code：https://github.com/mit-han-lab/anycost-gan
-
-:heavy_check_mark:**PISE: Person Image Synthesis and Editing with Decoupled GAN**
-
-论文/paper：https://arxiv.org/abs/2103.04023
-
-代码/code：https://github.com/Zhangjinso/PISE
 
 :heavy_check_mark:**DeFLOCNet: Deep Image Editing via Flexible Low-level Controls**
 
@@ -1243,13 +1233,33 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/KumapowerLIU/DeFLOCNet
 
-**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+:heavy_check_mark:**Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
 
 视频/demo：[youtube](https://www.youtube.com/watch?v=qCapNyRA_Ng)
 
 论文/paper：None | [主页 / Homepage](https://yunjey.github.io/)
 
 代码/code：None
+
+:heavy_check_mark:**High-Fidelity and Arbitrary Face Editing**
+
+论文/paper：https://arxiv.org/abs/2103.15814
+
+代码/code：None
+
+:heavy_check_mark:**PISE: Person Image Synthesis and Editing with Decoupled GAN**
+
+论文/paper：https://arxiv.org/abs/2103.04023
+
+代码/code：https://github.com/Zhangjinso/PISE
+
+:heavy_check_mark:**StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing**
+
+视频/demo：[youtube](https://www.youtube.com/watch?v=qCapNyRA_Ng)
+
+论文/paper：https://arxiv.org/abs/2104.14754
+
+代码/code：https://github.com/naver-ai/StyleMapGAN
 
 [返回目录/back](#Contents)
 
@@ -1283,7 +1293,19 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageDehazing"></a>
 
+## 图像去雾/Image Dehazing
+
+**Contrastive Learning for Compact Single Image Dehazing**
+
+解读：[对比学习去雾](https://www.jianshu.com/p/2b7fc8149ab2)
+
+论文/paper：https://arxiv.org/abs/2104.09367
+
+代码/code： https://github.com/GlassyWu/AECR-Net
+
+[返回目录/back](#Contents)
 
 <a name="ReflectionRemoval"></a>
 
