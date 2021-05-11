@@ -60,6 +60,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [GAN](#GAN)
 
+- [字体生成 / Font Generation](#FontGeneration)
+
 - [Image Animation](#ImageAnimation)
 
 - [超分辨率/Super Resolution](#SuperResolution)
@@ -1067,6 +1069,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="FontGeneration"></a>
+
+## 字体生成 / Font Generation
+
+:heavy_check_mark:**DG-Font: Deformable Generative Networks for Unsupervised Font Generation**
+
+论文/paper：https://arxiv.org/abs/2104.03064
+
+代码/code：https://github.com/ecnuycxie/DG-Font
+
+[返回目录/back](#Contents)
+
 <a name="ImageAnimation"></a>
 
 ### Image Animation
@@ -1297,7 +1311,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 图像去雾/Image Dehazing
 
-**Contrastive Learning for Compact Single Image Dehazing**
+:heavy_check_mark:**Contrastive Learning for Compact Single Image Dehazing**
 
 解读：[对比学习去雾](https://www.jianshu.com/p/2b7fc8149ab2)
 
@@ -1311,11 +1325,11 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 反光去除/Reflection Removal
 
-**Panoramic Image Reflection Removal**
+:heavy_check_mark:**Panoramic Image Reflection Removal**
 
 视频/demo：[youtube](https://www.youtube.com/watch?v=ZumVEWN8Ito) | [bilibili](https://www.bilibili.com/video/BV1vv41177oc/)
 
-论文/paper：None 
+论文/paper：http://ci.idm.pku.edu.cn/CVPR21c.pdf
 
 代码/code：None 
 
