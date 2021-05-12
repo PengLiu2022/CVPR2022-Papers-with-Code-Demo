@@ -1279,11 +1279,31 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/open-mmlab/mmocr (https://www.pazhoulab.com/2021/04/1704/ 官方介绍将于 mmocr 开源)
 
+:heavy_check_mark:**MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition**
+
+论文/paper：https://arxiv.org/abs/2104.01876 | [主页 / Homepage](https://aneeshan95.github.io/)
+
+代码/code：None
+
+:heavy_check_mark:**MOST: A Multi-Oriented Scene Text Detector with Localization Refinement**
+
+解读：https://zhuanlan.zhihu.com/p/362679808
+
+论文/paper：https://arxiv.org/abs/2104.01070
+
+代码/code：None
+
 :heavy_check_mark:**Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition**
 
 论文/paper：https://arxiv.org/abs/2103.06495
 
 代码/code：https://github.com/FangShancheng/ABINet
+
+:heavy_check_mark: **Scene Text Retrieval via Joint Text Detection and Similarity Learning**
+
+论文/paper：https://arxiv.org/abs/2104.01552
+
+代码/code：https://github.com/lanfeng4659/STR-TDSL
 
 **Self-attention based Text Knowledge Mining for Text Detection**
 
@@ -1296,6 +1316,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://github.com/guanghuixu/AnchorCaptioner/blob/main/projects/TextCap_CVPR.pdf
 
 代码/code：https://github.com/guanghuixu/AnchorCaptioner
+
+:heavy_check_mark:**What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels**
+
+论文/paper：https://arxiv.org/abs/2103.04400
+
+代码/code：https://github.com/ku21fan/STR-Fewer-Labels
 
 [返回目录/back](#Contents)
 
@@ -1698,3 +1724,5 @@ https://duoli.org/
 https://cv.snu.ac.kr/index.php/publication-international/
 
 https://github.com/bismex/Awesome-person-re-identification#3-CVPR2021
+
+https://github.com/yflv-yanxia/scene_text
