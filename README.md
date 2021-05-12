@@ -60,9 +60,15 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
 
+- [行人重识别/Person Re-identification](#PersonRe-identification)
+
+- [人群计数 / Crowd Counting](#CrowdCounting)
+
 - [GAN](#GAN)
 
 - [字体生成 / Font Generation](#FontGeneration)
+
+- [场景文本检测、识别/Scene Text Detection/Recognition](#OCR)
 
 - [Image Animation](#ImageAnimation)
 
@@ -87,6 +93,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [流体重建/Fluid Reconstruction](#FluidReconstruction)
 
 - [视频插帧/Frame Interpolation](#FrameInterpolation)
+
+- [ 3D点云/3D point cloud]( #3DPointCloud)
 
   
 
@@ -198,6 +206,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 :heavy_check_mark: **Dogfight: Detecting Drones from Drone Videos**
 
 论文/paper：https://arxiv.org/pdf/2103.17242
+
+代码/code：None
+
+:heavy_check_mark:**Domain-Specific Suppression for Adaptive Object Detection**
+
+论文/paper：https://arxiv.org/abs/2105.03570
 
 代码/code：None
 
@@ -352,8 +366,6 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.09460
 
 代码/code：https://github.com/megvii-model/YOLOF
-
-
 
 [返回目录/back](#Contents)
 
@@ -1031,6 +1043,44 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="PersonRe-identification"></a>
+
+## 行人重识别/Person Re-identification
+
+:heavy_check_mark:**Combined Depth Space based Architecture Search For Person Re-identification**
+
+论文/paper： https://arxiv.org/abs/2104.04163
+
+代码/code：None
+
+:heavy_check_mark:**Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**
+
+论文/paper：https://arxiv.org/abs/2104.12961
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="CrowdCounting"></a>
+
+## 人群计数 / Crowd Counting
+
+:heavy_check_mark:**Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting**
+
+论文/paper：https://arxiv.org/abs/2012.04529
+
+代码/code：https://github.com/chen-judge/RGBTCrowdCounting
+
+:heavy_check_mark:**Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark**
+
+论文/paper：https://arxiv.org/abs/2105.02440
+
+代码/code：https://github.com/VisDrone/DroneCrowd
+
+
+
+[返回目录/back](#Contents)
+
 <a name="GAN"></a>
 
 ## GAN
@@ -1213,6 +1263,42 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="OCR"></a>
+
+## 场景文本检测、识别/Scene Text Detection/Recognition
+
+**Deep Texture Recognition via Exploiting Cross-Layer Statistical Self-Similarity**
+
+论文/paper：None | 介绍：https://www.pazhoulab.com/2021/04/1704/
+
+代码/code：None
+
+:heavy_check_mark:**Fourier Contour Embedding for Arbitrary-Shaped Text Detection**
+
+论文/paper：https://arxiv.org/abs/2104.10442
+
+代码/code：https://github.com/open-mmlab/mmocr (https://www.pazhoulab.com/2021/04/1704/ 官方介绍将于 mmocr 开源)
+
+:heavy_check_mark:**Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition**
+
+论文/paper：https://arxiv.org/abs/2103.06495
+
+代码/code：https://github.com/FangShancheng/ABINet
+
+**Self-attention based Text Knowledge Mining for Text Detection**
+
+论文/paper：None
+
+代码/code：https://github.com/CVI-SZU/STKM
+
+:heavy_check_mark:**Towards Accurate Text-based Image Captioning with Content Diversity Exploration**
+
+论文/paper：https://github.com/guanghuixu/AnchorCaptioner/blob/main/projects/TextCap_CVPR.pdf
+
+代码/code：https://github.com/guanghuixu/AnchorCaptioner
+
+[返回目录/back](#Contents)
+
 <a name="ImageAnimation"></a>
 
 ### Image Animation
@@ -1281,9 +1367,9 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
-**Interpreting Super-Resolution Networks with Local Attribution Maps**
+:heavy_check_mark:**Interpreting Super-Resolution Networks with Local Attribution Maps**
 
-解读：[CVPR2021-顾津锦：使用局部归因图理解和可视化超分辨网络](https://zhuanlan.zhihu.com/p/363139999)
+解读：https://arxiv.org/pdf/2011.11036.pdf  |  [CVPR2021-顾津锦：使用局部归因图理解和可视化超分辨网络](https://zhuanlan.zhihu.com/p/363139999)
 
 论文/paper：https://x-lowlevel-vision.github.io/lam.html
 
@@ -1531,6 +1617,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="3DPointCloud"></a>
+
+## 3D点云/3D point cloud
+
+:heavy_check_mark:**3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding**
+
+论文/paper： https://arxiv.org/abs/2103.16397
+
+代码/code：https://github.com/Gorilla-Lab-SCUT/AffordanceNet
+
+[返回目录/back](#Contents)
+
 <a name="Other"></a>
 
 ### 其他/Other
@@ -1599,3 +1697,4 @@ https://duoli.org/
 
 https://cv.snu.ac.kr/index.php/publication-international/
 
+https://github.com/bismex/Awesome-person-re-identification#3-CVPR2021
