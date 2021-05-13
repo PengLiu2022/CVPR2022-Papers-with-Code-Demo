@@ -62,6 +62,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [行人重识别/Person Re-identification](#PersonRe-identification)
 
+- [行人搜索/Person Search](#PersonSearch)
+
 - [人群计数 / Crowd Counting](#CrowdCounting)
 
 - [GAN](#GAN)
@@ -1061,6 +1063,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="PersonSearch"></a>
+
+# 行人搜索/Person Search
+
+:heavy_check_mark:**Anchor-Free Person Search**
+
+解读：https://zhuanlan.zhihu.com/p/359617800
+
+论文/paper：https://arxiv.org/abs/2103.11617
+
+代码/code：https://github.com/daodaofr/AlignPS
+
 <a name="CrowdCounting"></a>
 
 ## 人群计数 / Crowd Counting
@@ -1076,8 +1090,6 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2105.02440
 
 代码/code：https://github.com/VisDrone/DroneCrowd
-
-
 
 [返回目录/back](#Contents)
 
