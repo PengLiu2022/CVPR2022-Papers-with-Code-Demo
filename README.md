@@ -1055,11 +1055,59 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+:heavy_check_mark:**Group-aware Label Transfer for Domain Adaptive Person Re-identification**
+
+论文/paper： https://arxiv.org/abs/2103.12366
+
+代码/code：https://github.com/zkcys001/UDAStrongBaseline
+
+:heavy_check_mark:**Intra-Inter Camera Similarity for Unsupervised Person Re-Identification**
+
+论文/paper： https://arxiv.org/abs/2103.11658
+
+代码/code：https://github.com/SY-Xuan/IICS
+
+:heavy_check_mark:**Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification**
+
+论文/paper： https://arxiv.org/abs/2103.04618
+
+代码/code：https://github.com/FlyingRoastDuck/MetaCam_DSCE
+
+:heavy_check_mark:**Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification**
+
+论文/paper：https://arxiv.org/abs/2012.00417
+
+代码/code：https://github.com/HeliosZhao/M3L
+
+:heavy_check_mark:**Lifelong Person Re-Identification via Adaptive Knowledge Accumulation**
+
+论文/paper：https://arxiv.org/abs/2103.12462
+
+代码/code：https://github.com/TPCD/LifelongReID
+
+:heavy_check_mark:**Meta Batch-Instance Normalization for Generalizable Person Re-Identification**
+
+论文/paper： https://arxiv.org/abs/2011.14670
+
+代码/code：https://github.com/bismex/MetaBIN
+
+:heavy_check_mark:**Neural Feature Search for RGB-Infrared Person Re-Identification**
+
+论文/paper：https://arxiv.org/abs/2104.02366
+
+代码/code：None
+
 :heavy_check_mark:**Unsupervised Multi-Source Domain Adaptation for Person Re-Identification**
 
 论文/paper：https://arxiv.org/abs/2104.12961
 
 代码/code：None
+
+:heavy_check_mark:**Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification**
+
+论文/paper：https://arxiv.org/abs/2103.04337
+
+代码/code：https://github.com/flysnowtiger/GRL
 
 [返回目录/back](#Contents)
 
@@ -1738,3 +1786,4 @@ https://cv.snu.ac.kr/index.php/publication-international/
 https://github.com/bismex/Awesome-person-re-identification#3-CVPR2021
 
 https://github.com/yflv-yanxia/scene_text
+
