@@ -505,6 +505,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code： https://github.com/xinge008/Cylinder3D
 
+:heavy_check_mark:**DCT-Mask: Discrete Cosine Transform Mask Representation for Instance Segmentation**
+
+论文/paper：https://arxiv.org/abs/2011.09876
+
+代码/code：https://github.com/aliyun/DCT-Mask
+
 :heavy_check_mark:**Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers**
 
 论文/paper：https://arxiv.org/abs/2103.12340
@@ -534,6 +540,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2012.00720
 
 代码/code：https://github.com/Jia-Research-Lab/PanopticFCN
+
+:heavy_check_mark:**Incremental Few-Shot Instance Segmentation**
+
+论文/paper：https://arxiv.org/abs/2105.05312
+
+代码/code：https://github.com/danganea/iMTFA
 
 :heavy_check_mark:**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
 
