@@ -451,6 +451,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/jbeomlee93/AdvCAM
 
+:heavy_check_mark:**A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation**
+
+论文/paper：https://arxiv.org/abs/2105.03186
+
+代码/code：None
+
 :heavy_check_mark: **BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation**
 
 论文/paper：https://arxiv.org/abs/2103.08907
@@ -561,11 +567,23 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code： None
 
+:heavy_check_mark:**Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation**
+
+论文/paper：https://arxiv.org/abs/2104.05239
+
+代码/code： https://github.com/tinyalpha/BPR
+
 :heavy_check_mark:**MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation**
 
 论文/paper：https://arxiv.org/abs/2103.05254
 
 代码/code：None
+
+:heavy_check_mark:**Multi-Scale Aligned Distillation for Low-Resolution Detection**
+
+论文/paper：https://jiaya.me/papers/ms_align_distill_cvpr21.pdf
+
+代码/code：https://github.com/Jia-Research-Lab/MSAD
 
 :heavy_check_mark:**Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation**
 
@@ -596,6 +614,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2101.10979
 
 代码/code：https://github.com/microsoft/ProDA
+
+:heavy_check_mark:**RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features**
+
+论文/paper：https://arxiv.org/abs/2104.08569
+
+代码/code：https://github.com/zhanggang001/RefineMask/
 
 :heavy_check_mark:**Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers**
 
