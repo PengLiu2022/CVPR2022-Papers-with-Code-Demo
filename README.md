@@ -701,19 +701,23 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+:heavy_check_mark:**SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation **(CVPR 2021 Oral)
+
+论文/paper：https://arxiv.org/abs/2101.08833
+
+代码/code：https://github.com/dukebw/SSTVOS
+
+:heavy_check_mark:**VSPW: A Large-scale Dataset for Video Scene Parsing in the Wild**
+
+论文/paper：https://www.vspwdataset.com/CVPR2021__miao.pdf | [主页 / Homepage](https://www.vspwdataset.com/)
+
+代码/code：https://github.com/VSPW-dataset/VSPW_code
+
 [返回目录/back](#Contents)
 
 <a name="InteractiveVideoObjectSegmentation"></a>
 
 # 交互式视频目标分割/Interactive Video Object Segmentation
-
-**Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion**
-
-视频/demo：https://hkchengrex.github.io/MiVOS/video.html#partb
-
-论文/paper：https://arxiv.org/abs/2103.07941 | [主页/ Homepage]( https://hkchengrex.github.io/MiVOS/)
-
-代码/code： https://github.com/hkchengrex/MiVOS
 
 :heavy_check_mark:**Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild**
 
@@ -722,6 +726,14 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.10391
 
 代码/code：https://github.com/svip-lab/IVOS-W
+
+:heavy_check_mark:**Modular Interactive Video Object Segmentation: Interaction-to-Mask, Propagation and Difference-Aware Fusion**
+
+视频/demo：https://hkchengrex.github.io/MiVOS/video.html#partb
+
+论文/paper：https://arxiv.org/abs/2103.07941 | [主页/ Homepage]( https://hkchengrex.github.io/MiVOS/)
+
+代码/code： https://github.com/hkchengrex/MiVOS
 
 [返回目录/back](#Contents)
 
