@@ -1157,6 +1157,102 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/flysnowtiger/GRL
 
+**Coarse-To-Fine Person Re-Identification With Auxiliary-Domain Classification and Second-Order Information Bottleneck**
+
+论文/paper：None
+
+代码/code：None
+
+**Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Joint Generative and Contrastive Learning for Unsupervised Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Person30K: A Dual-Meta Generalization Network for Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Diverse Part Discovery: Occluded Person Re-Identification With Part-Aware Transformer**
+
+论文/paper：None
+
+代码/code：None
+
+**Discover Cross-Modality Nuances for Visible-Infrared Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos**
+
+论文/paper：None
+
+代码/code：None
+
+**Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Partial Person Re-Identification With Part-Part Correspondence Learning**
+
+论文/paper：None
+
+代码/code：None
+
+**Fine-Grained Shape-Appearance Mutual Learning for Cloth-Changing Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Person Re-Identification Using Heterogeneous Local Graph Attention Networks**
+
+论文/paper：None
+
+代码/code：None
+
+**Wide-Baseline Multi-Camera Calibration Using Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Unsupervised Pre-Training for Person Re-Identification**
+
+论文/paper：None
+
+代码/code：None
+
+**Generalizable Person Re-Identification With Relevance-Aware Mixture of Experts**
+
+论文/paper：None
+
+代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="PersonSearch"></a>
@@ -1835,3 +1931,4 @@ https://github.com/bismex/Awesome-person-re-identification#3-CVPR2021
 
 https://github.com/yflv-yanxia/scene_text
 
+http://cvpr2021.thecvf.com/node/142
