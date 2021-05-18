@@ -4,6 +4,8 @@
 
 :car: CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/accepted_paper_ids.txt
 
+http://cvpr2021.thecvf.com/node/142
+
 :car: 官网链接：http://cvpr2021.thecvf.com/
 
 > :timer_clock: 时间：2021年6月19日-6月25日
@@ -13,10 +15,6 @@
 >
 > :airplane: 为了方便下载，已将论文/paper存储在文件夹中 :heavy_check_mark: 表示论文/paper[已下载 / Paper Download](https://github.com/DWCTOD/CVPR2021-Papers-with-Code-Demo/tree/main/CVPR2021-paper-download)
 
-### :hammer_and_pick: 思维导图 | Mind Mapping
-
-【思维导图】【TODO】
-
 ### **:fireworks: 欢迎进群** | Welcome
 
 CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**CVPR+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
@@ -24,8 +22,6 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Contents"></a>
 
 ### :hammer: **目录 |Table of Contents（点击直接跳转）**
-【TODO】
-
 - [Backbone](#Backbone)
 
 - [目标检测/Object Detection](#ObjectDetection)
@@ -73,6 +69,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [场景文本检测、识别/Scene Text Detection/Recognition](#OCR)
 
 - [Image Animation](#ImageAnimation)
+
+- [抠图/Image Matting](#ImageMatting)
 
 - [超分辨率/Super Resolution](#SuperResolution)
 
@@ -1515,6 +1513,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/CVI-SZU/STKM
 
+:heavy_check_mark:**TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text**
+
+论文/paper：https://arxiv.org/abs/2105.05486 | [主页 / Homepage](https://textvqa.org/textocr)
+
+代码/code：None
+
 :heavy_check_mark:**Towards Accurate Text-based Image Captioning with Content Diversity Exploration**
 
 论文/paper：https://github.com/guanghuixu/AnchorCaptioner/blob/main/projects/TextCap_CVPR.pdf
@@ -1531,7 +1535,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="ImageAnimation"></a>
 
-### Image Animation
+## Image Animation
 
 :heavy_check_mark: **Motion Representations for Articulated Animation**
 
@@ -1540,6 +1544,44 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper： https://arxiv.org/abs/2104.11280 | [主页 | Homepage](https://snap-research.github.io/articulated-animation/)
 
 代码/code：https://github.com/snap-research/articulated-animation
+
+[返回目录/back](#Contents)
+
+<a name="ImageMatting"></a>
+
+## 抠图/Image Matting/Video Matting
+
+:heavy_check_mark:**Deep Video Matting via Spatio-Temporal Alignment and Aggregation**
+
+论文/paper：https://arxiv.org/abs/2104.11208
+
+代码/code：https://github.com/nowsyn/DVM
+
+:heavy_check_mark:**Improved Image Matting via Real-time User Clicks and Uncertainty Estimation**
+
+论文/paper：https://arxiv.org/abs/2012.08323
+
+代码/code：None
+
+:heavy_check_mark:**Omnimatte: Associating Objects and Their Effects in Video(Omnimatte**
+
+论文/paper：https://arxiv.org/abs/2105.06993 | [主页/Homepage](https://omnimatte.github.io/)
+
+代码/code：None
+
+:heavy_check_mark:**Real-Time High Resolution Background Matting**
+
+视频/demo：[youtube](https://youtu.be/oMfPTeYDF9g)
+
+论文/paper：https://arxiv.org/abs/2012.07810 | [主页/Homepage](https://grail.cs.washington.edu/projects/background-matting-v2/)
+
+代码/code：https://github.com/PeterL1n/BackgroundMattingV2
+
+:heavy_check_mark:**Semantic Image Matting**
+
+论文/paper：https://arxiv.org/abs/2104.08201
+
+代码/code：https://github.com/nowsyn/SIM
 
 [返回目录/back](#Contents)
 
