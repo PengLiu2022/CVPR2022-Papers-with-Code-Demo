@@ -68,6 +68,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [场景文本检测、识别/Scene Text Detection/Recognition](#OCR)
 
+- [图像、视频检索 / Image Retrieval/Video retrieval](#Retrieval)
+
 - [Image Animation](#ImageAnimation)
 
 - [抠图/Image Matting](#ImageMatting)
@@ -95,6 +97,10 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频插帧/Frame Interpolation](#FrameInterpolation)
 
 - [ 3D点云/3D point cloud]( #3DPointCloud)
+
+- [标签噪声 / Label-Noise](#Label-Noise)
+
+- [对抗样本 Adversarial Examples](#AdversarialExamples)
 
   
 
@@ -1377,6 +1383,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/mahmoudnafifi/HistoGAN
 
+:heavy_check_mark:**High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network**
+
+论文/paper： https://arxiv.org/abs/2105.09188
+
+代码/code：https://github.com/csjliang/LPTN
+
 :heavy_check_mark:**HumanGAN: A Generative Model of Humans Images**
 
 论文/paper：https://arxiv.org/abs/2103.06902
@@ -1530,6 +1542,30 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.04400
 
 代码/code：https://github.com/ku21fan/STR-Fewer-Labels
+
+[返回目录/back](#Contents)
+
+<a name="Retrieval"></a>
+
+## 图像、视频检索 / Image Retrieval/Video retrieval
+
+:heavy_check_mark:**StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval**
+
+论文/paper：https://arxiv.org/abs/2103.15706
+
+代码/code：None
+
+:heavy_check_mark:**QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval**
+
+论文/paper：https://arxiv.org/abs/2103.02927
+
+代码/code：None
+
+:heavy_check_mark:**On Semantic Similarity in Video Retrieval**
+
+论文/paper：https://arxiv.org/abs/2103.10095 | [主页 / Homepage](https://mwray.github.io/SSVR/)
+
+代码/code：https://github.com/mwray/Semantic-Video-Retrieval
 
 [返回目录/back](#Contents)
 
@@ -1900,6 +1936,42 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 代码/code：https://github.com/Gorilla-Lab-SCUT/AffordanceNet
 
 [返回目录/back](#Contents)
+
+<a name="Label-Noise"></a>
+
+# 标签噪声 Label-Noise
+
+:heavy_check_mark:**A Second-Order Approach to Learning with Instance-Dependent Label Noise** (CVPR 2021 Oral)
+
+论文/paper： https://arxiv.org/abs/2012.11854
+
+代码/code：https://github.com/UCSC-REAL/CAL
+
+[返回目录/back](#Contents)
+
+<a name="AdversarialExamples"></a>
+
+# 对抗样本 / Adversarial Examples
+
+:heavy_check_mark:**Enhancing the Transferability of Adversarial Attacks through Variance Tuning**
+
+论文/paper： https://arxiv.org/abs/2103.15571
+
+代码/code：https://github.com/JHL-HUST/VT
+
+:heavy_check_mark:**LiBRe: A Practical Bayesian Approach to Adversarial Detection**
+
+论文/paper： https://arxiv.org/abs/2103.14835
+
+代码/code：None
+
+:heavy_check_mark:**Natural Adversarial Examples**
+
+论文/paper： https://arxiv.org/abs/1907.07174
+
+代码/code：https://github.com/hendrycks/natural-adv-examples
+
+ [返回目录/back](#Contents)
 
 <a name="Other"></a>
 
