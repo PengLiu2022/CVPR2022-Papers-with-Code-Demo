@@ -24,6 +24,10 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 ### :hammer: **目录 |Table of Contents（点击直接跳转）**
 - [Backbone](#Backbone)
 
+- [胶囊网络 / Capsule Network](#CapsuleNetwork)
+
+- [图像分类 / Image Classification](#ImageClassification)
+
 - [目标检测/Object Detection](#ObjectDetection)
 
 - [目标跟踪/Object Tracking](#ObjectTracking)
@@ -169,11 +173,35 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="CapsuleNetwork"></a> 
+
+# 胶囊网络 / Capsule Network
+
+:heavy_check_mark:**Capsule Network is Not More Robust than Convolutional Network**
+
+论文/paper： https://arxiv.org/abs/2103.15459
+
+代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="ImageClassification"></a> 
+
+# 图像分类 / Image Classification
+
+:heavy_check_mark:**Correlated Input-Dependent Label Noise in Large-Scale Image Classification** (CVPR 2021 Oral)
+
+论文/paper： https://arxiv.org/abs/2105.10305
+
+代码/code：https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet
+
+[返回目录/back](#Contents)
+
 <a name="ObjectDetection"></a> 
 
 ## 目标检测/Object Detection
 
-**Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds**
+:heavy_check_mark:**Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds**
 
 论文/paper： https://arxiv.org/abs/2104.06114
 
