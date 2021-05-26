@@ -24,6 +24,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 ### :hammer: **目录 |Table of Contents（点击直接跳转）**
 - [Backbone](#Backbone)
 
+- [NAS](#NAS)
+
 - [胶囊网络 / Capsule Network](#CapsuleNetwork)
 
 - [图像分类 / Image Classification](#ImageClassification)
@@ -170,6 +172,34 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2103.12731
 
 代码/code：https://github.com/lucidrains/halonet-pytorch | [作者主页](https://shlens.github.io/)
+
+[返回目录/back](#Contents)
+
+<a name="NAS"></a> 
+
+## NAS
+
+:heavy_check_mark:**Combined Depth Space based Architecture Search For Person Re-identification**
+
+论文/paper： https://arxiv.org/abs/2104.04163
+
+代码/code：None
+
+:heavy_check_mark:**DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation** (CVPR 2021)
+
+论文/paper：https://arxiv.org/abs/2103.15954
+
+代码/code：None
+
+**HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers** (CVPR2021)
+
+论文/paper：None
+
+代码/code：https://github.com/dingmyu/HR-NAS
+
+
+
+
 
 [返回目录/back](#Contents)
 
