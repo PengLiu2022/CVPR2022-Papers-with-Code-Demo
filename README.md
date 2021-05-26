@@ -197,6 +197,24 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/dingmyu/HR-NAS
 
+**Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation**
+
+论文/paper：None
+
+代码/code： None
+
+:heavy_check_mark:**Neural Architecture Search with Random Labels**
+
+论文/paper：https://arxiv.org/abs/2101.11834
+
+代码/code：https://github.com/megvii-model/RLNAS
+
+:heavy_check_mark:**Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search**
+
+论文/paper：https://arxiv.org/abs/2101.11342
+
+代码/code：None
+
 
 
 
@@ -2103,4 +2121,4 @@ https://github.com/bismex/Awesome-person-re-identification#3-CVPR2021
 
 https://github.com/yflv-yanxia/scene_text
 
-http://cvpr2021.thecvf.com/node/142
+https://githubmemory.com/repo/FLHonker/Awesome-Knowledge-Distillation
