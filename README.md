@@ -179,15 +179,33 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## NAS
 
+:heavy_check_mark:**AttentiveNAS: Improving Neural Architecture Search via Attentive**
+
+论文/paper： https://arxiv.org/abs/2011.09011
+
+代码/code：None
+
 :heavy_check_mark:**Combined Depth Space based Architecture Search For Person Re-identification**
 
 论文/paper： https://arxiv.org/abs/2104.04163
 
 代码/code：None
 
+:heavy_check_mark:**Contrastive Neural Architecture Search with Neural Architecture Comparators**
+
+论文/paper： https://arxiv.org/abs/2103.05471
+
+代码/code：https://github.com/chenyaofo/CTNAS
+
 :heavy_check_mark:**DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation** (CVPR 2021)
 
 论文/paper：https://arxiv.org/abs/2103.15954
+
+代码/code：None
+
+:heavy_check_mark:**HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens**
+
+论文/paper：https://arxiv.org/abs/2005.14446
 
 代码/code：None
 
@@ -197,9 +215,27 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/dingmyu/HR-NAS
 
+:heavy_check_mark:**Inception Convolution with Efficient Dilation Search**
+
+论文/paper：https://arxiv.org/abs/2012.13587
+
+代码/code：None
+
 **Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation**
 
 论文/paper：None
+
+代码/code： None
+
+:heavy_check_mark:**Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search**
+
+论文/paper：https://arxiv.org/abs/2104.05309
+
+代码/code： https://github.com/kcyu2014/nas-landmarkreg
+
+:heavy_check_mark:**NetAdaptV2: Efficient Neural Architecture Search with Fast Super-Network Training and Architecture Optimization**
+
+论文/paper：https://arxiv.org/abs/2104.00031 | [主页/Homepage](http://web.mit.edu/netadapt/)
 
 代码/code： None
 
@@ -208,6 +244,30 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2101.11834
 
 代码/code：https://github.com/megvii-model/RLNAS
+
+:heavy_check_mark:**OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
+
+论文/paper：https://arxiv.org/abs/2103.04507
+
+代码/code：https://github.com/VDIGPKU/OPANAS
+
+:heavy_check_mark:**Prioritized Architecture Sampling with Monto-Carlo Tree Search**
+
+论文/paper：https://arxiv.org/abs/2103.11922
+
+代码/code：https://github.com/xiusu/NAS-Bench-Macro
+
+:heavy_check_mark:**ReNAS: Relativistic Evaluation of Neural Architecture Search**
+
+论文/paper：https://arxiv.org/abs/1910.01523
+
+代码/code：None
+
+:heavy_check_mark:**Searching by Generating: Flexible and Efficient One-Shot NAS with Architecture Generator**
+
+论文/paper：https://arxiv.org/abs/2103.07289
+
+代码/code：https://github.com/eric8607242/SGNAS
 
 :heavy_check_mark:**Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search**
 
