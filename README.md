@@ -26,6 +26,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [NAS](#NAS)
 
+- [图神经网络 / Graph Neural Networks](#GNN)
+
 - [胶囊网络 / Capsule Network](#CapsuleNetwork)
 
 - [图像分类 / Image Classification](#ImageClassification)
@@ -275,9 +277,35 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+[返回目录/back](#Contents)
 
+<a name="GNN"></a> 
 
+## 图神经网络 / Graph Neural Networks
 
+:heavy_check_mark:**A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts**
+
+论文/paper：https://arxiv.org/abs/2105.00290
+
+代码/code：None
+
+:heavy_check_mark:**Binary Graph Neural Networks**
+
+论文/paper：https://arxiv.org/abs/2105.00290
+
+代码/code：https://github.com/mbahri/binary_gnn
+
+:heavy_check_mark:**Quantifying Explainers of Graph Neural Networks in Computational Pathology**
+
+论文/paper：https://arxiv.org/pdf/2011.12646.pdf
+
+代码/code：https://github.com/histocartography/patho-quant-explainer
+
+:heavy_check_mark:**Sequential Graph Convolutional Network for Active Learning**
+
+论文/paper：https://arxiv.org/pdf/2006.10219.pdf
+
+代码/code：None
 
 [返回目录/back](#Contents)
 
@@ -290,6 +318,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper： https://arxiv.org/abs/2103.15459
 
 代码/code：None
+
+
 
 [返回目录/back](#Contents)
 
