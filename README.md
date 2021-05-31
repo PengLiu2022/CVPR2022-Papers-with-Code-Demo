@@ -2047,6 +2047,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/lucastabelini/LaneATT
 
+:heavy_check_mark:**Focus on Local: Detecting Lane Marker from Bottom Up via Key Point**
+
+论文/paper：https://arxiv.org/abs/2105.13680
+
+代码/code：None
+
 [返回目录/back](#Contents)
 
 <a name="FluidReconstruction"></a>
