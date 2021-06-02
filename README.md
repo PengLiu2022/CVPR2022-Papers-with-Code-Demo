@@ -871,7 +871,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
-:heavy_check_mark:**SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation **(CVPR 2021 Oral)
+:heavy_check_mark:**SSTVOS: Sparse Spatiotemporal Transformers for Video Object Segmentation** (CVPR 2021 Oral)
 
 论文/paper：https://arxiv.org/abs/2101.08833
 
