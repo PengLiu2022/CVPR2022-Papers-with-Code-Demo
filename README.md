@@ -72,6 +72,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [GAN](#GAN)
 
+- [彩妆迁移 / Color-Pattern Makeup Transfer](#CPM)
+
 - [字体生成 / Font Generation](#FontGeneration)
 
 - [场景文本检测、识别/Scene Text Detection/Recognition](#OCR)
@@ -1628,6 +1630,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper： https://arxiv.org/abs/2101.04061
 
 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="CPM"></a>
+
+## 彩妆迁移 / Color-Pattern Makeup Transfer
+
+**Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer**
+
+论文/paper：https://arxiv.org/abs/2104.01867
+
+代码/code：https://github.com/VinAIResearch/CPM
 
 [返回目录/back](#Contents)
 
