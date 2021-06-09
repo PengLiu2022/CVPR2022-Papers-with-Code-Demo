@@ -1637,11 +1637,17 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 彩妆迁移 / Color-Pattern Makeup Transfer
 
-**Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer**
+:heavy_check_mark:**Lipstick ain't enough: Beyond Color-Matching for In-the-Wild Makeup Transfer**
 
 论文/paper：https://arxiv.org/abs/2104.01867
 
 代码/code：https://github.com/VinAIResearch/CPM
+
+:heavy_check_mark:**Spatially-invariant Style-codes Controlled Makeup Transfer**
+
+论文/paper：http://www.shengfenghe.com/?attachment_id=26109&download=1
+
+代码/code：https://github.com/makeuptransfer/SCGAN
 
 [返回目录/back](#Contents)
 
