@@ -38,6 +38,8 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [语义分割/Segmentation](#Segmentation)
 
+- [弱监督语义分割/Weakly Supervised Semantic Segmentation](#WSSS)
+
 - [医学图像分割](#MedicalImageSegmentation)
 
 - [视频目标分割/Video Object Segmentation](#VideoObjectSegmentation)
@@ -840,6 +842,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：None
 
 代码/code：None
+
+[返回目录/back](#Contents)
+
+<a name="WSSS"></a>
+
+## 弱监督语义分割/Weakly Supervised Semantic Segmentation
+
+:heavy_check_mark:**Railroad Is Not a Train: Saliency As Pseudo-Pixel Supervision for Weakly Supervised Semantic Segmentation**
+
+论文/paper：https://arxiv.org/abs/2105.08965
+
+代码/code：https://github.com/halbielee/EPS
 
 [返回目录/back](#Contents)
 
