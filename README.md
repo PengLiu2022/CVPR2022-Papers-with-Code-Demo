@@ -1901,11 +1901,11 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/Jia-Research-Lab/MASA-SR
 
-**Robust Reference-based Super-Resolution via C²-Matching**
+:heavy_check_mark:**Robust Reference-based Super-Resolution via C²-Matching**
 
-论文/paper：None | [主页 / Homepage](https://ckkelvinchan.github.io/)
+论文/paper：https://arxiv.org/abs/2106.01863 | [主页 / Homepage](https://ckkelvinchan.github.io/)
 
-代码/code：None
+代码/code：https://github.com/yumingj/C2-Matching
 
 **Temporal Modulation Network for Controllable Space-Time Video Super-Resolution**
 
@@ -1942,6 +1942,14 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="ImageInpainting"></a>
 
 # 图像补全/Image Inpainting
+
+:heavy_check_mark:**Image Inpainting with External-internal Learning and Monochromic Bottleneck**
+
+解读：https://zhuanlan.zhihu.com/p/369717594
+
+论文/paper：https://arxiv.org/abs/2104.09068
+
+代码/code：https://github.com/Tengfei-Wang/external-internal-inpainting
 
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
 
