@@ -94,7 +94,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [图像编辑/Image Editing](#ImageEditing)
 
-- [图像匹配/Image Matcing](#ImageMatcing)
+- [图像匹配/Image Matching](#ImageMatching)
 
 - [图像融合/Image Blending](#ImageBlending)
 
@@ -2011,9 +2011,9 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
-<a name="ImageMatcing"></a>
+<a name="ImageMatching"></a>
 
-# 图像匹配/Image Matcing
+# 图像匹配/Image Matching
 
 :heavy_check_mark:**LoFTR: Detector-Free Local Feature Matching with Transformers**
 
