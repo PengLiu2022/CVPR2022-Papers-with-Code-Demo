@@ -1,6 +1,6 @@
 # CVPR2021-Papers-with-Code-Demo
 
-:happy: **论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
+​ :star_and_crescent:**论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
 
 **密码：aicv**
 
