@@ -1,5 +1,9 @@
 # CVPR2021-Papers-with-Code-Demo
 
+:happy: **论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
+
+**密码：aicv**
+
 :star2: [CVPR 2021](http://cvpr2021.thecvf.com/) 持续更新最新论文/paper和相应的开源代码/code！
 
 :car: CVPR 2021 收录列表：http://cvpr2021.thecvf.com/sites/default/files/2021-03/accepted_paper_ids.txt
