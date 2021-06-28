@@ -1,6 +1,6 @@
 # CVPR2021-Papers-with-Code-Demo
 
-​ :star_and_crescent:**论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
+ :star_and_crescent:**论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
 
 **密码：aicv**
 
@@ -1683,13 +1683,31 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="OCR"></a>
 
-## 场景文本检测、识别/Scene Text Detection/Recognition
+## OCR
 
-**Deep Texture Recognition via Exploiting Cross-Layer Statistical Self-Similarity**
+[CVPR 2021 OCR领域相关22篇论文速览](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247508038&idx=3&sn=1d6715d16606a894287945e280d51367&chksm=fd8426a4caf3afb2619229f05a007b454f7eb53f1a88f663e9f61528863ce881c42c00d30d30&scene=27#wechat_redirect)
 
-论文/paper：None | 介绍：https://www.pazhoulab.com/2021/04/1704/
+### **文字图像处理（超分辨率增强、文字分割、文档版面分析）**
+
+**Scene Text Telescope: Text-Focused Scene Image Super-Resolution**
+
+论文/paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf
 
 代码/code：None
+
+**Rethinking Text Segmentation: A Novel Dataset and a Text-Specific Refinement Approach**
+
+论文/paper：http://arxiv.org/abs/2011.14021
+
+代码/code：None
+
+**Variational Transformer Networks for Layout Generation**
+
+论文/paper：http://arxiv.org/abs/2104.02416
+
+代码/code：None
+
+### 场景文本检测、识别/Scene Text Detection/Recognition
 
 :heavy_check_mark:**Fourier Contour Embedding for Arbitrary-Shaped Text Detection**
 
@@ -1697,17 +1715,83 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/open-mmlab/mmocr (https://www.pazhoulab.com/2021/04/1704/ 官方介绍将于 mmocr 开源)
 
+:heavy_check_mark:**MOST: A Multi-Oriented Scene Text Detector with Localization Refinement**
+
+解读：https://zhuanlan.zhihu.com/p/362679808
+
+论文/paper：https://arxiv.org/abs/2104.01070
+
+代码/code：None
+
+**Progressive Contour Regression for Arbitrary-Shape Scene Text Detection**
+
+论文/paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf
+
+代码/code：None
+
+**Semantic-Aware Video Text Detection**
+
+论文/paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf
+
+代码/code：None
+
+:heavy_check_mark:**What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels**
+
+论文/paper：https://arxiv.org/abs/2103.04400
+
+代码/code：https://github.com/ku21fan/STR-Fewer-Labels
+
+### **端到端文字识别**
+
+ **Implicit Feature Alignment: Learn To Convert Text Recognizer to Text Spotter**
+
+论文/paper：http://arxiv.org/abs/2106.05920
+
+代码/code：https://github.com/WangTianwei/Implicit-feature-alignment
+
+**A Multiplexed Network for End-to-End, Multilingual OCR**
+
+论文/paper：http://arxiv.org/abs/2103.15992
+
+代码/code：None
+
+### **手写文字分析与识别**
+
 :heavy_check_mark:**MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition**
 
 论文/paper：https://arxiv.org/abs/2104.01876 | [主页 / Homepage](https://aneeshan95.github.io/)
 
 代码/code：None
 
-:heavy_check_mark:**MOST: A Multi-Oriented Scene Text Detector with Localization Refinement**
+**Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting**
 
-解读：https://zhuanlan.zhihu.com/p/362679808
+论文/paper：https://arxiv.org/abs/2103.13716
 
-论文/paper：https://arxiv.org/abs/2104.01070
+代码/code：https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch
+
+### **其它（文档图像预训练模型，Text VQA、数据集，Retrieval , 应用）**
+
+**SelfDoc: Self-Supervised Document Representation Learning**
+
+论文/paper：http://arxiv.org/abs/2106.03331
+
+代码/code：None
+
+**TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption**
+
+论文/paper：http://arxiv.org/abs/2012.04638
+
+代码/code：None
+
+**Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship**
+
+论文/paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf
+
+代码/code：None
+
+**Deep Texture Recognition via Exploiting Cross-Layer Statistical Self-Similarity**
+
+论文/paper：None | 介绍：https://www.pazhoulab.com/2021/04/1704/
 
 代码/code：None
 
@@ -1741,11 +1825,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/guanghuixu/AnchorCaptioner
 
-:heavy_check_mark:**What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels**
 
-论文/paper：https://arxiv.org/abs/2103.04400
-
-代码/code：https://github.com/ku21fan/STR-Fewer-Labels
 
 [返回目录/back](#Contents)
 
