@@ -1883,6 +1883,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+**Mask Guided Matting via Progressive Refinement Network**
+
+论文/paper：https://arxiv.org/abs/2012.06722
+
+代码/code：https://github.com/yucornetto/MGMatting
+
 :heavy_check_mark:**Omnimatte: Associating Objects and Their Effects in Video(Omnimatte**
 
 论文/paper：https://arxiv.org/abs/2105.06993 | [主页/Homepage](https://omnimatte.github.io/)
