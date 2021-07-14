@@ -347,6 +347,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 目标检测/Object Detection
 
+**Adaptive Class Suppression Loss for Long-Tail Object Detection**
+
+论文/paper：https://arxiv.org/abs/2104.00885
+
+代码/code：https://github.com/CASIA-IVA-Lab/ACSL
+
 :heavy_check_mark:**Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds**
 
 论文/paper： https://arxiv.org/abs/2104.06114
@@ -365,6 +371,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/tianweiy/CenterPoint
 
+**Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection**
+
+论文/paper：https://arxiv.org/abs/2103.16368
+
+代码/code：None
+
+**DAP: Detection-Aware Pre-training with Weak Supervision**
+
+论文/paper：https://arxiv.org/abs/2103.16651
+
+代码/code：None
+
 :heavy_check_mark:**Depth from Camera Motion and Object Detection**
 
 论文/paper：https://arxiv.org/abs/2103.01468
@@ -376,6 +394,12 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 论文/paper：https://arxiv.org/abs/2011.09670
 
 代码/code：https://github.com/yangxue0827/RotationDetection
+
+**Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection**
+
+论文/paper：https://arxiv.org/abs/2103.17115
+
+代码/code：https://github.com/hzhupku/DCNet
 
 :heavy_check_mark:**Distilling Object Detectors via Decoupled Features**
 
@@ -441,6 +465,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：None
 
+**Improved Handling of Motion Blur in Online Object Detection**
+
+论文/paper：https://arxiv.org/abs/2011.14448
+
+代码/code：None
+
+**IQDet: Instance-wise Quality Distribution Sampling for Object Detection**
+
+论文/paper：https://arxiv.org/abs/2104.06936
+
+代码/code：None
+
 :heavy_check_mark:**Instant-Teaching: An End-to-End Semi-Supervised Object Detection Framework**
 
 论文/paper：https://arxiv.org/abs/2103.11402
@@ -465,6 +501,20 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/code：https://github.com/yuantn/MI-AOD
 
+**Line Segment Detection Using Transformers without Edges**（CVPR 2021 Oral）
+
+
+
+论文/paper： https://arxiv.org/abs/2101.01909
+
+代码/code：None
+
+**Open-Vocabulary Object Detection Using Captions** （CVPR 2021 Oral）
+
+论文/paper： https://arxiv.org/abs/2011.10678
+
+代码/code：None
+
 :heavy_check_mark:**OPANAS: One-Shot Path Aggregation Network Architecture Search for Object Detection**
 
 论文/paper： https://arxiv.org/abs/2103.04507
@@ -479,7 +529,13 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
  **Positive-Unlabeled Data Purification in the Wild for Object Detection**
 
-论文/paper：None
+论文/paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Positive-Unlabeled_Data_Purification_in_the_Wild_for_Object_Detection_CVPR_2021_paper.pdf
+
+代码/code：None
+
+**PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery**
+
+论文/paper：https://arxiv.org/abs/2105.12990
 
 代码/code：None
 
