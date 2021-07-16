@@ -2089,6 +2089,18 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像补全/Image Inpainting
 
+**Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE**
+
+论文/paper：https://arxiv.org/abs/2103.10022
+
+代码/code：https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting
+
+**Image Inpainting Guided by Coherence Priors of Semantics and Textures**
+
+论文/paper：https://arxiv.org/abs/2012.08054
+
+代码/code：None
+
 :heavy_check_mark:**Image Inpainting with External-internal Learning and Monochromic Bottleneck**
 
 解读：https://zhuanlan.zhihu.com/p/369717594
@@ -2099,7 +2111,7 @@ CVPR 2021 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **PD-GAN: Probabilistic Diverse GAN for Image Inpainting**
 
-论文/paper： http://raywzy.com/ None
+论文/paper： https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_PD-GAN_Probabilistic_Diverse_GAN_for_Image_Inpainting_CVPR_2021_paper.pdf
 
 代码/code：https://github.com/KumapowerLIU/PD-GAN
 
