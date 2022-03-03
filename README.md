@@ -4,13 +4,23 @@
 
 **密码：aicv**
 
+欢迎关注公众号：AI算法与图像处理
+
 :star2: [CVPR 2022](https://cvpr2022.thecvf.com/) 持续更新最新论文/paper和相应的开源代码/code！
 
 :car: CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCMUFmGq_JhaxhC/view
 
 :car: 官网链接：http://cvpr2022.thecvf.com/
 
+B站demo：https://space.bilibili.com/288489574
+
 > :hand: ​注：欢迎各位大佬提交issue，分享CVPR 2022论文/paper和开源项目！共同完善这个项目
+>
+> 往年顶会论文汇总：
+>
+> [CVPR2021](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md)
+>
+> [ICCV2021](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo)
 
 ### **:fireworks: 欢迎进群** | Welcome
 
@@ -121,7 +131,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 目标检测/Object Detection
 
+**Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer**
 
+- 论文/paper：https://arxiv.org/abs/2112.01838 | [主页](https://fredzzhang.com/unary-pairwise-transformers/)
+
+- 代码/code：https://github.com/fredzzhang/upt
 
 [返回目录/back](#Contents)
 
@@ -131,7 +145,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 目标跟踪/Object Tracking
 
+**DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion**
 
+- 论文/paper：https://arxiv.org/abs/2111.14690
+
+- 代码/code：https://github.com/DanceTrack/DanceTrack
 
 [返回目录/back](#Contents)
 
@@ -185,7 +203,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # Visual Transformer
 
+**Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut**
 
+- 论文/paper：https://arxiv.org/abs/2202.11539 | [主页](https://www.m-psi.fr/Papers/TokenCut2022/)
+
+- 代码/code：https://github.com/YangtaoWANG95/TokenCut
 
 
 
@@ -289,7 +311,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## GAN
 
+**HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing**
 
+- 论文/paper：https://arxiv.org/abs/2111.15666 | [主页](https://yuval-alaluf.github.io/hyperstyle/)
+
+- 代码/code：https://github.com/yuval-alaluf/hyperstyle
 
 [返回目录/back](#Contents)
 
@@ -476,6 +502,8 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Other"></a>
 
 ### 其他/Other
+
+**UKPGAN: Unsupervised KeyPoint GANeration**
 
 
 
