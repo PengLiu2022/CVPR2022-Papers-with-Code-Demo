@@ -19,99 +19,58 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Contents"></a>
 
 ### :hammer: **目录 |Table of Contents（点击直接跳转）**
+
+<details open>
+<summary>目录</summary>
+
 - [Backbone](#Backbone)
-
 - [NAS](#NAS)
-
 - [图神经网络 / Graph Neural Networks](#GNN)
-
 - [胶囊网络 / Capsule Network](#CapsuleNetwork)
-
 - [图像分类 / Image Classification](#ImageClassification)
-
 - [目标检测/Object Detection](#ObjectDetection)
-
 - [目标跟踪/Object Tracking](#ObjectTracking)
-
 - [语义分割/Segmentation](#Segmentation)
-
 - [弱监督语义分割/Weakly Supervised Semantic Segmentation](#WSSS)
-
 - [医学图像分割](#MedicalImageSegmentation)
-
 - [视频目标分割/Video Object Segmentation](#VideoObjectSegmentation)
-
 - [交互式视频目标分割/Interactive Video Object Segmentation](#InteractiveVideoObjectSegmentation)
-
 - [Visual Transformer](#VisualTransformer)
-
 - [人脸识别/Face Recognition](#FaceRecognition)
-
 - [人脸检测/Face Detection](#FaceDetection)
-
 - [人脸活体检测/Face Anti-Spoofing](#FaceAnti-Spoofing)
-
 - [人脸年龄估计/Age Estimation](#AgeEstimation)
-
 - [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
-
 - [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
-
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
-
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
-
 - [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
-
 - [行人重识别/Person Re-identification](#PersonRe-identification)
-
 - [行人搜索/Person Search](#PersonSearch)
-
 - [人群计数 / Crowd Counting](#CrowdCounting)
-
 - [GAN](#GAN)
-
 - [彩妆迁移 / Color-Pattern Makeup Transfer](#CPM)
-
 - [字体生成 / Font Generation](#FontGeneration)
-
 - [场景文本检测、识别/Scene Text Detection/Recognition](#OCR)
-
 - [图像、视频检索 / Image Retrieval/Video retrieval](#Retrieval)
-
 - [Image Animation](#ImageAnimation)
-
 - [抠图/Image Matting](#ImageMatting)
-
 - [超分辨率/Super Resolution](#SuperResolution)
-
 - [图像复原/Image Restoration](#ImageRestoration)
-
 - [图像补全/Image Inpainting](#ImageInpainting)
-
 - [图像编辑/Image Editing](#ImageEditing)
-
 - [图像匹配/Image Matching](#ImageMatching)
-
 - [图像融合/Image Blending](#ImageBlending)
-
 - [图像去雾/Image Dehazing](#ImageDehazing)
-
 - [反光去除/Reflection Removal](#ReflectionRemoval)
-
 - [车道线检测/Lane Detection](#LaneDetection)
-
 - [流体重建/Fluid Reconstruction](#FluidReconstruction)
-
 - [视频插帧/Frame Interpolation](#FrameInterpolation)
-
 - [ 3D点云/3D point cloud]( #3DPointCloud)
-
 - [标签噪声 / Label-Noise](#Label-Noise)
-
 - [对抗样本 Adversarial Examples](#AdversarialExamples)
 
-  
+</details>
 
 【目录 可直接跳转】
 
@@ -354,27 +313,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## OCR
 
-[CVPR 2021 OCR领域相关22篇论文速览](https://mp.weixin.qq.com/s?__biz=MzU4NTY4Mzg1Mw==&mid=2247508038&idx=3&sn=1d6715d16606a894287945e280d51367&chksm=fd8426a4caf3afb2619229f05a007b454f7eb53f1a88f663e9f61528863ce881c42c00d30d30&scene=27#wechat_redirect)
+
 
 ### **文字图像处理（超分辨率增强、文字分割、文档版面分析）**
 
-**Scene Text Telescope: Text-Focused Scene Image Super-Resolution**
 
-论文/paper：https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.pdf
-
-代码/code：None
-
-**Rethinking Text Segmentation: A Novel Dataset and a Text-Specific Refinement Approach**
-
-论文/paper：http://arxiv.org/abs/2011.14021
-
-代码/code：None
-
-**Variational Transformer Networks for Layout Generation**
-
-论文/paper：http://arxiv.org/abs/2104.02416
-
-代码/code：None
 
 ### 场景文本检测、识别/Scene Text Detection/Recognition
 
