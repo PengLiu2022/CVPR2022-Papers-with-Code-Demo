@@ -48,6 +48,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频目标分割/Video Object Segmentation](#VideoObjectSegmentation)
 - [交互式视频目标分割/Interactive Video Object Segmentation](#InteractiveVideoObjectSegmentation)
 - [Visual Transformer](#VisualTransformer)
+- [深度估计/Depth Estimation](#DepthEstimation)
 - [人脸识别/Face Recognition](#FaceRecognition)
 - [人脸检测/Face Detection](#FaceDetection)
 - [人脸活体检测/Face Anti-Spoofing](#FaceAnti-Spoofing)
@@ -57,6 +58,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
 - [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
+- [3D人体重建](#3D人体重建)
 - [行人重识别/Person Re-identification](#PersonRe-identification)
 - [行人搜索/Person Search](#PersonSearch)
 - [人群计数 / Crowd Counting](#CrowdCounting)
@@ -205,11 +207,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **Self-Supervised Transformers for Unsupervised Object Discovery using Normalized Cut**
 
-- 论文/paper：https://arxiv.org/abs/2202.11539 | [主页](https://www.m-psi.fr/Papers/TokenCut2022/)
+- 论文/Paper：https://arxiv.org/abs/2202.11539 | [主页](https://www.m-psi.fr/Papers/TokenCut2022/)
 
-- 代码/code：https://github.com/YangtaoWANG95/TokenCut
+- 代码/Code：https://github.com/YangtaoWANG95/TokenCut
 
+**MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
 
+- 论文/Paper: https://arxiv.org/pdf/2111.12707.pdf
+
+- 代码/Code: https://github.com/Vegetebird/MHFormer
+
+[返回目录/back](#Contents)
+
+<a name="DepthEstimation"></a>
+
+## 深度估计/Depth Estimation
+
+**OACC-Net: Occlusion-Aware Cost Constructor for Light Field Depth Estimation**
+
+- 论文/Paper: https://arxiv.org/pdf/2203.01576.pdf
+- 代码/Code: https://github.com/YingqianWang/OACC-Net
 
 [返回目录/back](#Contents)
 
@@ -263,7 +280,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人体姿态估计/Human Pose Estimation
 
+**MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
 
+- 论文/Paper: https://arxiv.org/pdf/2111.12707.pdf
+
+- 代码/Code: https://github.com/Vegetebird/MHFormer
 
 [返回目录/back](#Contents)
 
@@ -278,6 +299,20 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="HandPoseEstimation"></a>
 
 ## 手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery
+
+
+
+[返回目录/back](#Contents)
+
+<a name="3D人体重建"></a>
+
+## 3D人体重建/Person Re-identification
+
+**MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
+
+- 论文/Paper: https://arxiv.org/pdf/2111.12707.pdf
+
+- 代码/Code: https://github.com/Vegetebird/MHFormer
 
 
 
@@ -509,13 +544,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 
-视频demo：
+视频/Demo：
 
 解读：
 
-论文/paper：
+论文/Paper：
 
-代码/code：
+代码/Code：
 
 
 
