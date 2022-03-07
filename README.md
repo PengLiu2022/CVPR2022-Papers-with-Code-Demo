@@ -136,8 +136,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Efficient Two-Stage Detection of Human-Object Interactions with a Novel Unary-Pairwise Transformer**
 
 - 论文/paper：https://arxiv.org/abs/2112.01838 | [主页](https://fredzzhang.com/unary-pairwise-transformers/)
-
 - 代码/code：https://github.com/fredzzhang/upt
+
+**Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes**
+
+- 论文/paper：https://arxiv.org/abs/2011.12001
+- 代码/code：https://github.com/qq456cvb/CanonicalVoting
 
 [返回目录/back](#Contents)
 
@@ -150,8 +154,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion**
 
 - 论文/paper：https://arxiv.org/abs/2111.14690
-
 - 代码/code：https://github.com/DanceTrack/DanceTrack
+
+**TCTrack: Temporal Contexts for Aerial Tracking**
+
+- 论文/paper：https://arxiv.org/abs/2203.01885
+- 代码/code：https://github.com/vision4robotics/TCTrack
 
 [返回目录/back](#Contents)
 
@@ -356,6 +364,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## GAN
 
+**GAN-Supervised Dense Visual Alignment** 
+
+- 论文/paper：https://arxiv.org/abs/2112.05143
+
+- 代码/code：https://github.com/wpeebles/gangealing
+
 **HyperStyle: StyleGAN Inversion with HyperNetworks for Real Image Editing**
 
 - 论文/paper：https://arxiv.org/abs/2111.15666 | [主页](https://yuval-alaluf.github.io/hyperstyle/)
@@ -438,7 +452,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 超分辨率/Super Resolution
 
+**Reflash Dropout in Image Super-Resolution**
 
+- 论文/Paper：https://arxiv.org/pdf/2112.12089.pdf
+
+- 代码/Code：https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution
 
 [返回目录/back](#Contents)
 
@@ -454,7 +472,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像补全/Image Inpainting
 
+**Bridging Global Context Interactions for High-Fidelity Image Completion**
 
+- 论文/Paper：https://arxiv.org/abs/2104.00845
+
+- 代码/Code：https://github.com/lyndonzheng/TFill
 
 [返回目录/back](#Contents)
 
@@ -546,21 +568,43 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <a name="Other"></a>
 
-### 其他/Other
+## 其他/Other
+
+**DINE: Domain Adaptation from Single and Multiple Black-box Predictors**
+
+- 论文/Paper：https://arxiv.org/abs/2104.01539
+
+- 代码/Code：https://github.com/tim-learn/DINE
+
+**It's About Time: Analog clock Reading in the Wild**
+
+- 论文/Paper：https://arxiv.org/abs/2111.09162
+
+- 代码/Code：https://github.com/charigyang/itsabouttime
+
+**TeachAugment: Data Augmentation Optimization Using Teacher Knowledge**
+
+- 论文/Paper：https://arxiv.org/abs/2202.12513
+
+- 代码/Code：https://github.com/DensoITLab/TeachAugment
 
 **UKPGAN: Unsupervised KeyPoint GANeration**
 
+- 论文/Paper：
+
+- 代码/Code：https://github.com/qq456cvb/UKPGAN
 
 
 
 
-视频/Demo：
 
-解读：
+- 视频/Demo：
 
-论文/Paper：
+- 解读：
 
-代码/Code：
+- 论文/Paper：
+
+- 代码/Code：
 
 
 
