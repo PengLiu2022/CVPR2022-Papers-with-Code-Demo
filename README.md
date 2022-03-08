@@ -109,7 +109,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 图神经网络 / Graph Neural Networks
 
+**Lifelong Graph Learning**
 
+- 论文/paper：https://arxiv.org/abs/2009.00647
+- 代码/code：https://github.com/wang-chen/LGL
 
 [返回目录/back](#Contents)
 
