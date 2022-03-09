@@ -73,6 +73,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像复原/Image Restoration](#ImageRestoration)
 - [图像补全/Image Inpainting](#ImageInpainting)
 - [图像编辑/Image Editing](#ImageEditing)
+- [图像拼接/Image stitching](#Imagestitching)
 - [图像匹配/Image Matching](#ImageMatching)
 - [图像融合/Image Blending](#ImageBlending)
 - [图像去雾/Image Dehazing](#ImageDehazing)
@@ -156,13 +157,22 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **DanceTrack: Multi-Object Tracking in Uniform Appearance and Diverse Motion**
 
-- 论文/paper：https://arxiv.org/abs/2111.14690
-- 代码/code：https://github.com/DanceTrack/DanceTrack
+- 论文/Paper：https://arxiv.org/abs/2111.14690
+- 代码/Code：https://github.com/DanceTrack/DanceTrack
 
 **TCTrack: Temporal Contexts for Aerial Tracking**
 
-- 论文/paper：https://arxiv.org/abs/2203.01885
-- 代码/code：https://github.com/vision4robotics/TCTrack
+- 论文/Paper：https://arxiv.org/abs/2203.01885
+- 代码/Code：https://github.com/vision4robotics/TCTrack
+
+# 3D Object Tracking
+
+**Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects**
+
+- 视频/Demo：[Youtube](https://www.youtube.com/watch?v=qMr1RHCsnDk) 
+
+- 论文/Paper：
+- 代码/Code：https://github.com/DLR-RM/3DObjectTracking
 
 [返回目录/back](#Contents)
 
@@ -491,6 +501,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Imagestitching"></a>
+
+# 图像拼接/Image stitching
+
+**Deep Rectangling for Image Stitching: A Learning Baseline**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03831
+- 代码/Code：https://github.com/nie-lang/DeepRectangling
+
+[返回目录/back](#Contents)
+
 <a name="ImageMatching"></a>
 
 # 图像匹配/Image Matching
@@ -586,8 +607,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **It's About Time: Analog clock Reading in the Wild**
 
 - 论文/Paper：https://arxiv.org/abs/2111.09162
-
 - 代码/Code：https://github.com/charigyang/itsabouttime
+
+**Neural Face Identification in a 2D Wireframe Projection of a Manifold Object**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04229 | [主页](https://manycore-research.github.io/faceformer/)
+- 代码/Code：https://github.com/manycore-research/faceformer
+
+**Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspondences**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04279
+- 代码/Code：https://github.com/PruneTruong/DenseMatching
 
 **TeachAugment: Data Augmentation Optimization Using Teacher Knowledge**
 
