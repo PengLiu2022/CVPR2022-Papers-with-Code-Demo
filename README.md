@@ -527,7 +527,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 车道线检测/Lane Detection
 
+**Rethinking Efficient Lane Detection via Curve Modeling**
 
+- 论文/Paper：https://arxiv.org/abs/2203.02431
+
+- 代码/Code：https://github.com/voldemortX/pytorch-auto-drive
 
 [返回目录/back](#Contents)
 
