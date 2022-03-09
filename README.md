@@ -37,6 +37,8 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - [Backbone](#Backbone)
 - [NAS](#NAS)
+- [多模态 / Multimodal ](#Multimodal )
+- [Contrastive Learning](#ContrastiveLearning)
 - [图神经网络 / Graph Neural Networks](#GNN)
 - [胶囊网络 / Capsule Network](#CapsuleNetwork)
 - [图像分类 / Image Classification](#ImageClassification)
@@ -58,6 +60,8 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
 - [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
+- [视频动作检测/Video Action Detection](#VideoActionDetection)
+- [手语翻译/Sign Language Translation](#SignLanguageTranslation)
 - [3D人体重建](#3D人体重建)
 - [行人重识别/Person Re-identification](#PersonRe-identification)
 - [行人搜索/Person Search](#PersonSearch)
@@ -105,6 +109,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 [返回目录/back](#Contents)
+
+<a name="Multimodal"></a> 
+
+## 多模态 / Multimodal
+
+**Motron: Multimodal Probabilistic Human Motion Forecasting**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04132
+- 代码/Code：
+
+[返回目录/back](#Contents)
+
+<a name="ContrastiveLearning"></a> 
+
+## Contrastive Learning
+
+**Selective-Supervised Contrastive Learning with Noisy Labels**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04181
+- 代码/Code：https://github.com/ShikunLi/Sel-CL
 
 <a name="GNN"></a> 
 
@@ -182,11 +206,25 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 语义分割/Segmentation
 
+**E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04074
+- 代码/Code：https://github.com/zhang-tao-whu/e2ec
+
+**Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03884
+- 代码/Code：
+
 **ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
 
 - 论文/paper：https://arxiv.org/abs/2106.05095
-
 - 代码/code：https://github.com/LiheYoung/ST-PlusPlus
+
+**Weakly Supervised Semantic Segmentation using Out-of-Distribution Data**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03860
+- 代码/Code：
 
 [返回目录/back](#Contents)
 
@@ -332,6 +370,28 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 ## 手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery
 
 
+
+[返回目录/back](#Contents)
+
+<a name="VideoActionDetection"></a>
+
+## 视频动作检测/Video Action Detection
+
+**End-to-End Semi-Supervised Learning for Video Action Detection**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04251
+- 代码/Code：
+
+[返回目录/back](#Contents)
+
+<a name="SignLanguageTranslation"></a>
+
+## 手语翻译/Sign Language Translation
+
+**A Simple Multi-Modality Transfer Learning Baseline for Sign Language Translation**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04287
+- 代码/Code：
 
 [返回目录/back](#Contents)
 
@@ -574,7 +634,15 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 3D点云/3D point cloud
 
+**ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation**
 
+- 论文/Paper：https://arxiv.org/abs/2203.03888
+- 代码/Code：
+
+**Shape-invariant 3D Adversarial Point Clouds**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04041
+- 代码/Code：https://github.com/shikiw/SI-Adv
 
 [返回目录/back](#Contents)
 
@@ -631,7 +699,35 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 代码/Code：https://github.com/qq456cvb/UKPGAN
 
+**DeltaCNN: End-to-End CNN Inference of Sparse Frame Differences in Videos**
 
+- 论文/Paper：https://arxiv.org/abs/2203.03996
+- 代码/Code：
+
+**Generative Cooperative Learning for Unsupervised Video Anomaly Detection**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03962
+- 代码/Code：
+
+**Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03818
+- 代码/Code：
+
+**Unknown-Aware Object Detection: Learning What You Don't Know from Videos in the Wild**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03800
+- 代码/Code：https://github.com/deeplearning-wisc/stud
+
+**On Generalizing Beyond Domains in Cross-Domain Continual Learning**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03970
+- 代码/Code：
+
+**Generating 3D Bio-Printable Patches Using Wound Segmentation and Reconstruction to Treat Diabetic Foot Ulcers**
+
+- 论文/Paper：https://arxiv.org/abs/2203.03814
+- 代码/Code：
 
 
 
