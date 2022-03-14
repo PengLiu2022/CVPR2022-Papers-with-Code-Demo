@@ -36,6 +36,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <summary> 目录（右侧点击可折叠）</summary>
 
 - [Backbone](#Backbone)
+- [数据集/Dataset](Dataset)
 - [NAS](#NAS)
 - [多模态 / Multimodal ](#Multimodal )
 - [Contrastive Learning](#ContrastiveLearning)
@@ -102,6 +103,18 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="Dataset"></a> 
+
+## 数据集/Dataset
+
+**GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05306
+
+- 代码/Code：https://github.com/hellodfan/GrainSpace
+
+[返回目录/back](#Contents)
+
 <a name="NAS"></a> 
 
 ## NAS
@@ -113,6 +126,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Multimodal"></a> 
 
 ## 多模态 / Multimodal
+
+**Conditional Prompt Learning for Vision-Language Models**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05557
+- 代码/Code：https://github.com/KaiyangZhou/CoOp
 
 **Motron: Multimodal Probabilistic Human Motion Forecasting**
 
@@ -138,6 +156,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/paper：https://arxiv.org/abs/2009.00647
 - 代码/code：https://github.com/wang-chen/LGL
+
+**SkinningNet: Two-Stream Graph Convolutional Neural Network for Skinning Prediction of Synthetic Characters**
+
+- 论文/paper：https://arxiv.org/abs/2203.04746
+- 代码/code：https://imatge-upc.github.io/skinningnet/
 
 [返回目录/back](#Contents)
 
@@ -171,6 +194,18 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2011.12001
 - 代码/code：https://github.com/qq456cvb/CanonicalVoting
 
+**Back to Reality: Weakly-supervised 3D Object Detection with Shape-guided Label Enhancement**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05238
+
+- 代码/Code：https://github.com/xuxw98/BackToReality
+
+**Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05180
+
+- 代码/Code：https://github.com/CVMI-Lab/KDEP
+
 [返回目录/back](#Contents)
 
 
@@ -195,7 +230,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 视频/Demo：[Youtube](https://www.youtube.com/watch?v=qMr1RHCsnDk) 
 
-- 论文/Paper：
+- 论文/Paper：https://arxiv.org/abs/2203.05334
 - 代码/Code：https://github.com/DLR-RM/3DObjectTracking
 
 [返回目录/back](#Contents)
@@ -210,6 +245,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.04074
 - 代码/Code：https://github.com/zhang-tao-whu/e2ec
+
+**Representation Compensation Networks for Continual Semantic Segmentation**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05402
+- 代码/Code：https://github.com/zhangchbin/RCIL
 
 **Semi-Supervised Semantic Segmentation Using Unreliable Pseudo-Labels**
 
@@ -319,7 +359,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸活体检测/Face Anti-Spoofing
 
+**Domain Generalization via Shuffled Style Assembly for Face Anti-Spoofing**
 
+- 论文/Paper: https://arxiv.org/abs/2203.05340
+- 代码/Code: 
 
 [返回目录/back](#Contents)
 
@@ -436,6 +479,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="GAN"></a>
 
 ## GAN
+
+**FlexIT: Towards Flexible Semantic Image Translation** 
+
+- 论文/paper：https://arxiv.org/abs/2203.04705 
+
+- 代码/code：
 
 **GAN-Supervised Dense Visual Alignment** 
 
@@ -639,6 +688,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.03888
 - 代码/Code：
 
+**Contrastive Boundary Learning for Point Cloud Segmentation**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05272
+
+- 代码/Code：https://github.com/LiyaoTang/contrastBoundary
+
 **Shape-invariant 3D Adversarial Point Clouds**
 
 - 论文/Paper：https://arxiv.org/abs/2203.04041
@@ -729,14 +784,56 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.03814
 - 代码/Code：
 
+**What Matters For Meta-Learning Vision Regression Tasks?**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04905
+- 代码/Code：
+
+**How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04781
+
+- 代码/Code：
+
+**ChiTransformer:Towards Reliable Stereo from Cues**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04554
+
+- 代码/Code：
+
+**Dynamic Dual-Output Diffusion Models**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04304
+
+- 代码/Code：
+
+**Spatial Commonsense Graph for Object Localisation in Partial Scenes**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05380
+
+- 代码/Code：https://fgiuliari.github.io/projects/SpatialCommonsenseGraph/
+
+**Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05154
+
+- 代码/Code：https://github.com/liuye6666/adaptive_auto_attack
+
+**Frequency-driven Imperceptible Adversarial Attack on Semantic Similarity**
+
+- 论文/Paper：https://arxiv.org/abs/2203.05151
+
+- 代码/Code： 
+
+
+
+
+
 
 
 - 视频/Demo：
-
 - 解读：
-
 - 论文/Paper：
-
 - 代码/Code：
 
 
