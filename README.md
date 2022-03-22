@@ -41,7 +41,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [NAS](#NAS)
 - [Knowledge Distillation](#KnowledgeDistillation)
 - [多模态 / Multimodal ](#Multimodal )
-- [Contrastive Learning](#ContrastiveLearning)
+- [对比学习/Contrastive Learning](#ContrastiveLearning)
 - [图神经网络 / Graph Neural Networks](#GNN)
 - [胶囊网络 / Capsule Network](#CapsuleNetwork)
 - [图像分类 / Image Classification](#ImageClassification)
@@ -165,6 +165,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## Contrastive Learning
 
+**ContrastMask: Contrastive Learning to Segment Every Thing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09775
+- 代码/Code: None
+
 **Rethinking Minimal Sufficient Representation in Contrastive Learning**
 
 - 论文/Paper：https://arxiv.org/abs/2203.07004
@@ -211,6 +216,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="ObjectDetection"></a> 
 
 ## 目标检测/Object Detection
+
+**A Dual Weighting Label Assignment Scheme for Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09730
+- 代码/Code: https://github.com/strongwolf/dw
 
 **Implicit Motion Handling for Video Camouflaged Object Detection**
 
@@ -264,8 +274,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection**
 
 - 论文/Paper：https://arxiv.org/abs/2203.06398
-
 - 代码/Code：https://github.com/CityU-AIM-Group/SIGMA
+
+**Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09780
+- 代码/Code: None
+
+**VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09704
+- 代码/Code: https://github.com/gorilla-lab-scut/vista
 
 [返回目录/back](#Contents)
 
@@ -302,6 +321,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 语义分割/Segmentation
 
+**Class-Balanced Pixel-Level Self-Labeling for Domain Adaptive Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09744
+- 代码/Code: https://github.com/lslrh/cpsl
+
 **E2EC: An End-to-End Contour-based Method for High-Quality High-Speed Instance Segmentation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.04074
@@ -310,8 +334,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Hyperbolic Image Segmentation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.05898
-
 - 代码/Code：
+
+**Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09653
+- 代码/Code: https://github.com/maeve07/rca
 
 **Representation Compensation Networks for Continual Semantic Segmentation**
 
@@ -384,8 +412,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Attribute Surrogates Learning and Spectral Tokens Pooling in Transformers for Few-shot Learning**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09064
-
 - 代码/Code：https://github.com/StomachCold/HCTransformers
+
+**Cascade Transformers for End-to-End Person Search**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09642
+- 代码/Code: https://github.com/kitware/coat
 
 **EDTER: Edge Detection with Transformer**
 
@@ -652,8 +684,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**
 
 - 论文/Paperhttps://arxiv.org/abs/2203.08483
-
 - 代码/Code：
+
+**Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09811
+- 代码/Code: https://github.com/dongxingning/sha-gcl-for-sgg
 
 **Style Transformer for Image Inversion and Editing**
 
@@ -688,7 +724,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## OCR
 
+**Fourier Document Restoration for Robust Document Dewarping and Recognition**
 
+- 论文/Paper: http://arxiv.org/pdf/2203.09910
+- 代码/Code: None
 
 ### **文字图像处理（超分辨率增强、文字分割、文档版面分析）**
 
@@ -1199,8 +1238,22 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09137
-
 - 代码/Code：https://github.com/YiteWang/MetaNTK-NAS
+
+**Learning Affordance Grounding from Exocentric Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09905
+- 代码/Code: https://github.com/lhc1224/cross-view-affordance-grounding
+
+**DTA: Physical Camouflage Attacks using Differentiable Transformation Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09831
+- 代码/Code: None
+
+**Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.09824
+- 代码/Code: None
 
  [返回目录/back](#Contents)
 
