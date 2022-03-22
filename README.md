@@ -85,6 +85,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像匹配/Image Matching](#ImageMatching)
 - [图像融合/Image Blending](#ImageBlending)
 - [图像去雾/Image Dehazing](#ImageDehazing)
+- [图像压缩/Image Compression](#ImageCompression)
 - [反光去除/Reflection Removal](#ReflectionRemoval)
 - [车道线检测/Lane Detection](#LaneDetection)
 - [流体重建/Fluid Reconstruction](#FluidReconstruction)
@@ -201,7 +202,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 胶囊网络 / Capsule Network
 
+**HP-Capsule: Unsupervised Face Part Discovery by Hierarchical Parsing Capsule Network**
 
+- 论文/Paper: http://arxiv.org/abs/2203.10699
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -268,8 +272,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **MonoJSG: Joint Semantic and Geometric Cost Volume for Monocular 3D Object Detection**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08563
-
 - 代码/Code：
+
+**MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10981
+- 代码/Code: None
 
 **SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection**
 
@@ -286,6 +294,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.09704
 - 代码/Code: https://github.com/gorilla-lab-scut/vista
 
+**Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10314
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -298,6 +311,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2111.14690
 - 代码/Code：https://github.com/DanceTrack/DanceTrack
+
+**MixFormer: End-to-End Tracking with Iterative Mixed Attention**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11082
+- 代码/Code: None
+
+**Transforming Model Prediction for Tracking**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11192
+- 代码/Code: None
 
 **TCTrack: Temporal Contexts for Aerial Tracking**
 
@@ -359,8 +382,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Scribble-Supervised LiDAR Semantic Segmentation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08537
-
 - 代码/Code：https://github.com/ouenal/scribblekitti
+
+**Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10739
+- 代码/Code: None
 
 **Weakly Supervised Semantic Segmentation using Out-of-Distribution Data**
 
@@ -422,8 +449,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **EDTER: Edge Detection with Transformer**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08566
-
 - 代码/Code：
+
+**Hyperbolic Vision Transformers: Combining Improvements in Metric Learning**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10833
+- 代码/Code: None
 
 **MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
 
@@ -521,8 +552,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Capturing Humans in Motion: Temporal-Attentive 3D Human Pose and Shape Estimation from Monocular Video**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08534
-
 - 代码/Code：https://mps-net.github.io/MPS-Net/
+
+**DiffPoseNet: Direct Differentiable Camera Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11174
+- 代码/Code: None
 
 **GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting**
 
@@ -560,6 +595,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="VideoActionDetection"></a>
 
 ## 视频动作检测/Video Action Detection
+
+**DirecFormer: A Directed Attention in Transformer Approach to Robust Action Recognition**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10233
+- 代码/Code: None
 
 **End-to-End Semi-Supervised Learning for Video Action Detection**
 
@@ -686,6 +726,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paperhttps://arxiv.org/abs/2203.08483
 - 代码/Code：
 
+**RGB-Depth Fusion GAN for Indoor Depth Completion**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10856
+- 代码/Code: None
+
 **Stacked Hybrid-Attention and Group Collaborative Learning for Unbiased Scene Graph Generation**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.09811
@@ -695,6 +740,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.07932
 - 代码/Code：
+
+**Unsupervised Domain Adaptation for Nighttime Aerial Tracking**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10541
+- 代码/Code: None
 
 **Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation**
 
@@ -729,6 +779,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.09910
 - 代码/Code: None
 
+**SimAN: Exploring Self-Supervised Representation Learning of Scene Text via Similarity-Aware Normalization**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10492
+- 代码/Code: None
+
 ### **文字图像处理（超分辨率增强、文字分割、文档版面分析）**
 
 **A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution**
@@ -741,8 +796,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Kernel Proposal Network for Arbitrary Shape Text Detection**
 
 - 论文/Paper：https://arxiv.org/abs/2203.06410
-
 - 代码/Code：https://github.com/GXYM/KPN
+
+**SwinTextSpotter: Scene Text Spotting via Better Synergy between Text Detection and Text Recognition**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10209
+- 代码/Code: None
 
 ### **端到端文字识别**
 
@@ -885,6 +944,22 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="ImageCompression"></a>
+
+## 图像压缩/Image Compression
+
+**ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10886
+- 代码/Code: None
+
+**Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10897
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="ReflectionRemoval"></a>
 
 ## 反光去除/Reflection Removal
@@ -896,6 +971,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="LaneDetection"></a>
 
 ## 车道线检测/Lane Detection
+
+**CLRNet: Cross Layer Refinement Network for Lane Detection**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10350
+- 代码/Code: None
 
 **Rethinking Efficient Lane Detection via Curve Modeling**
 
@@ -931,8 +1011,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Contrastive Boundary Learning for Point Cloud Segmentation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.05272
-
 - 代码/Code：https://github.com/LiyaoTang/contrastBoundary
+
+**Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11139
+- 代码/Code: None
+
+**No Pain, Big Gain: Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11113
+- 代码/Code: None
 
 **Shape-invariant 3D Adversarial Point Clouds**
 
@@ -1253,6 +1342,41 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Cross-Modal Perceptionist: Can Face Geometry be Gleaned from Voices?**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.09824
+- 代码/Code: None
+
+**Revisiting Domain Generalized Stereo Matching Networks from a Feature Consistency Perspective**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10887
+- 代码/Code: None
+
+**ViM: Out-Of-Distribution with Virtual-logit Matching**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10807
+- 代码/Code: None
+
+**Delving into the Estimation Shift of Batch Normalization in a Network**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10778
+- 代码/Code: None
+
+**Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10493
+- 代码/Code: None
+
+**TVConv: Efficient Translation Variant Convolution for Layout-aware Visual Processing**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10489
+- 代码/Code: None
+
+**Portrait Eyeglasses and Shadow Removal by Leveraging 3D Synthetic Data**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10474
+- 代码/Code: None
+
+**Discovering Objects that Can Move**
+
+- 论文/Paper: http://arxiv.org/abs/2203.10159
 - 代码/Code: None
 
  [返回目录/back](#Contents)
