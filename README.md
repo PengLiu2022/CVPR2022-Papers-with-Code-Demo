@@ -34,8 +34,6 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <details open>
 <summary> 目录（右侧点击可折叠）</summary>
-
-
 - [Backbone](#Backbone)
 - [数据集/Dataset](#Dataset)
 - [NAS](#NAS)
@@ -88,17 +86,15 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像压缩/Image Compression](#ImageCompression)
 - [反光去除/Reflection Removal](#ReflectionRemoval)
 - [车道线检测/Lane Detection](#LaneDetection)
+- [自动驾驶 / Autonomous Driving](#AutonomousDriving)
 - [流体重建/Fluid Reconstruction](#FluidReconstruction)
+- [场景重建 / Scene Reconstruction](#SceneReconstruction)
 - [视频插帧/Frame Interpolation](#FrameInterpolation)
 - [ 3D点云/3D point cloud]( #3DPointCloud)
 - [标签噪声 / Label-Noise](#Label-Noise)
 - [对抗样本 Adversarial Examples](#AdversarialExamples)
 
 </details>
-
-### :key: **关键词** | Keywords
-
-【TODO】
 
 <a name="Backbone"></a>
 
@@ -111,6 +107,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Dataset"></a> 
 
 ## 数据集/Dataset
+
+**Dataset Distillation by Matching Training Trajectories**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11932
+- 代码/Code: https://github.com/GeorgeCazenavette/mtt-distillation
 
 **FERV39k: A Large-Scale Multi-Scene Dataset for Facial Expression Recognition in Videos**
 
@@ -181,6 +182,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.04181
 - 代码/Code：https://github.com/ShikunLi/Sel-CL
+
+**Unsupervised Deraining: Where Contrastive Learning Meets Self-similarity**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11509
+- 代码/Code: None
 
 <a name="GNN"></a> 
 
@@ -288,6 +294,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.09780
 - 代码/Code: None
+
+**TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11496
+- 代码/Code: https://github.com/XuyangBai/TransFusion
 
 **VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention**
 
@@ -451,9 +462,19 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.08566
 - 代码/Code：
 
+**GradViT: Gradient Inversion of Vision Transformers**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11894
+- 代码/Code: https://gradvit.github.io/
+
 **Hyperbolic Vision Transformers: Combining Improvements in Metric Learning**
 
 - 论文/Paper: http://arxiv.org/abs/2203.10833
+- 代码/Code: None
+
+**Meta-attention for ViT-backed Continual Learning**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11684
 - 代码/Code: None
 
 **MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
@@ -567,8 +588,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
 
 - 论文/Paper: https://arxiv.org/pdf/2111.12707.pdf
-
 - 代码/Code: https://github.com/Vegetebird/MHFormer
+
+**Ray3D: ray-based 3D human pose estimation for monocular absolute 3D localization**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11471
+- 代码/Code: https://github.com/YxZhxn/Ray3D
 
 [返回目录/back](#Contents)
 
@@ -605,6 +630,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.04251
 - 代码/Code：
+
+**Look for the Change: Learning Object States and State-Modifying Actions from Untrimmed Web Videos**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11637
+- 代码/Code: https://github.com/soCzech/LookForTheChange
 
 **RCL: Recurrent Continuous Localization for Temporal Action Detection**
 
@@ -865,6 +895,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像复原/Image Restoration
 
+**Exploring and Evaluating Image Restoration Potential in Dynamic Scenes**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11754
+- 代码/Code: None
+
 **Interacting Attention Graph for Single Image Two-Hand Reconstruction**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09364
@@ -892,6 +927,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="ImageDenoising"></a>
 
 ## 图像去噪/Image Denoising
+
+**AP-BSN: Self-Supervised Denoising for Real-World Images via Asymmetric PD and Blind-Spot Network**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11799
+- 代码/Code: None
 
 **Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**
 
@@ -985,9 +1025,31 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="AutonomousDriving"></a>
+
+## 自动驾驶 / Autonomous Driving
+
+**Learning from All Vehicles**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11934
+- 代码/Code: https://github.com/dotchen/LAV
+
+[返回目录/back](#Contents)
+
 <a name="FluidReconstruction"></a>
 
 ## 流体重建/Fluid Reconstruction
+
+[返回目录/back](#Contents)
+
+<a name="SceneReconstruction"></a>
+
+## 场景重建 / Scene Reconstruction
+
+**NeRFusion: Fusing Radiance Fields for Large-Scale Scene Reconstruction**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11283
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1012,6 +1074,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.05272
 - 代码/Code：https://github.com/LiyaoTang/contrastBoundary
+
+**IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11590
+- 代码/Code: None
 
 **Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds**
 
@@ -1377,6 +1444,31 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Discovering Objects that Can Move**
 
 - 论文/Paper: http://arxiv.org/abs/2203.10159
+- 代码/Code: None
+
+**φ-SfT: Shape-from-Template with a Physics-Based Deformation Model**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11938
+- 代码/Code: None
+
+**Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11483
+- 代码/Code: None
+
+**Mixed Differential Privacy in Computer Vision**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11481
+- 代码/Code: None
+
+**Remember Intentions: Retrospective-Memory-based Trajectory Prediction**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11474
+- 代码/Code: None
+
+**Global Matching with Overlapping Attention for Optical Flow Estimation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11335
 - 代码/Code: None
 
  [返回目录/back](#Contents)
