@@ -34,6 +34,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 <details open>
 <summary> 目录（右侧点击可折叠）</summary>
+
 - [Backbone](#Backbone)
 - [数据集/Dataset](#Dataset)
 - [NAS](#NAS)
@@ -94,6 +95,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [标签噪声 / Label-Noise](#Label-Noise)
 - [对抗样本 Adversarial Examples](#AdversarialExamples)
 
+
 </details>
 
 <a name="Backbone"></a>
@@ -107,6 +109,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Dataset"></a> 
 
 ## 数据集/Dataset
+
+**DynamicEarthNet: Daily Multi-Spectral Satellite Dataset for Semantic Change Segmentation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12560
+- 代码/Code: https://mediatum.ub.tum.de/1650201
 
 **Dataset Distillation by Matching Training Trajectories**
 
@@ -254,6 +261,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/paper：https://arxiv.org/abs/2112.01838 | [主页](https://fredzzhang.com/unary-pairwise-transformers/)
 - 代码/code：https://github.com/fredzzhang/upt
 
+**Ev-TTA: Test-Time Adaptation for Event-Based Object Recognition**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12247
+- 代码/Code: None
+
 **Canonical Voting: Towards Robust Oriented Bounding Box Detection in 3D Scenes**
 
 - 论文/paper：https://arxiv.org/abs/2011.12001
@@ -284,6 +296,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.10981
 - 代码/Code: None
+
+**Real-time Object Detection for Streaming Perception**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12338
+- 代码/Code: https://github.com/yancie-yjr/StreamYOLO
 
 **SIGMA: Semantic-complete Graph Matching for Domain Adaptive Object Detection**
 
@@ -488,6 +505,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2202.11539 | [主页](https://www.m-psi.fr/Papers/TokenCut2022/)
 - 代码/Code：https://github.com/YangtaoWANG95/TokenCut
 
+**Training-free Transformer Architecture Search**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12217
+- 代码/Code: None
+
 **Towards Practical Certifiable Patch Defense with Vision Transformer**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08519
@@ -542,6 +564,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: https://arxiv.org/abs/2203.05340
 - 代码/Code: 
 
+**Self-supervised Learning of Adversarial Example: Towards Good Generalizations for Deepfake Detection**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12208
+- 代码/Code: https://github.com/liangchen527/sladd
+
 [返回目录/back](#Contents)
 
 <a name="AgeEstimation"></a>
@@ -556,7 +583,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸表情识别/Facial Expression Recognition
 
+**Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**
 
+- 论文/Paper: http://arxiv.org/abs/2203.12341
+- 代码/Code: https://github.com/hangyu94/ada-cm
 
 [返回目录/back](#Contents)
 
@@ -630,6 +660,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.04251
 - 代码/Code：
+
+**How Do You Do It? Fine-Grained Action Understanding with Pseudo-Adverbs**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12344
+- 代码/Code: https://github.com/hazeld/pseudoadverbs
 
 **Look for the Change: Learning Object States and State-Modifying Actions from Untrimmed Web Videos**
 
@@ -1051,13 +1086,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2203.11283
 - 代码/Code: None
 
+**PlaneMVS: 3D Plane Reconstruction from Multi-View Stereo**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12082
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="FrameInterpolation"></a>
 
 ## 视频插帧/Frame Interpolation
 
+**Unifying Motion Deblurring and Frame Interpolation with Events**
 
+- 论文/Paper: http://arxiv.org/abs/2203.12178
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1470,6 +1513,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.11335
 - 代码/Code: None
+
+**DR.VIC: Decomposition and Reasoning for Video Individual Counting**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12335
+- 代码/Code: https://github.com/taohan10200/drnet
+
+**DTFD-MIL: Double-Tier Feature Distillation Multiple Instance Learning for Histopathology Whole Slide Image Classification**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12081
+- 代码/Code:https://github.com/hrzhang1123/DTFD-MIL
 
  [返回目录/back](#Contents)
 
