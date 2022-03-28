@@ -163,10 +163,20 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.05557
 - 代码/Code：https://github.com/KaiyangZhou/CoOp
 
+**Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13161
+- 代码/Code: None
+
 **Motron: Multimodal Probabilistic Human Motion Forecasting**
 
 - 论文/Paper：https://arxiv.org/abs/2203.04132
 - 代码/Code：
+
+**UMT: Unified Multi-modal Transformers for Joint Video Moment Retrieval and Highlight Detection**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12745
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -340,6 +350,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2111.14690
 - 代码/Code：https://github.com/DanceTrack/DanceTrack
 
+**Global Tracking Transformers**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13250
+- 代码/Code: None
+
 **MixFormer: End-to-End Tracking with Iterative Mixed Attention**
 
 - 论文/Paper: http://arxiv.org/abs/2203.11082
@@ -417,6 +432,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.08537
 - 代码/Code：https://github.com/ouenal/scribblekitti
 
+**Sparse Instance Activation for Real-Time Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12827
+- 代码/Code: None
+
 **Tree Energy Loss: Towards Sparsely Annotated Semantic Segmentation**
 
 - 论文/Paper: http://arxiv.org/abs/2203.10739
@@ -488,6 +508,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.08566
 - 代码/Code：
+
+**Global Tracking Transformers**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13250
+- 代码/Code: None
 
 **GradViT: Gradient Inversion of Vision Transformers**
 
@@ -620,6 +645,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2203.11174
 - 代码/Code: None
 
+**EPro-PnP: Generalized End-to-End Probabilistic Perspective-n-Points for Monocular Object Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13254
+- 代码/Code: None
+
 **GPV-Pose: Category-level Object Pose Estimation via Geometry-guided Point-wise Voting**
 
 - 论文/Paper：https://arxiv.org/abs/2203.07918
@@ -644,8 +674,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **ZebraPose: Coarse to Fine Surface Encoding for 6DoF Object Pose Estimation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09418
-
 - 代码/Code：
+
+**RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12870
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -707,8 +741,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **AutoSDF: Shape Priors for 3D Completion, Reconstruction and Generation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09516
-
 - 代码/Code：https://yccyenchicheng.github.io/AutoSDF/
+
+**Learning Motion-Dependent Appearance for High-Fidelity Rendering of Dynamic Humans from a Single Camera**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12780
+- 代码/Code: None
 
 **MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
 
@@ -755,8 +793,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Attribute Group Editing for Reliable Few-shot Image Generation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08422
-
 - 代码/Code：
+
+**Bailando: 3D Dance Generation by Actor-Critic GPT with Choreographic Memory**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13055
+- 代码/Code: None
+
+**Compound Domain Generalization via Meta-Knowledge Encoding**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13006
+- 代码/Code: None
 
 **Exact Feature Distribution Matching for Arbitrary Style Transfer and Domain Generalization**
 
@@ -793,8 +840,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Modulated Contrast for Versatile Image Synthesis**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09333
-
 - 代码/Code：https://github.com/fnzhan/MoNCE
+
+**Maximum Spatial Perturbation Consistency for Unpaired Image-to-Image Translation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12707
+- 代码/Code: None
+
+**Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13248
+- 代码/Code: None
 
 **QS-Attn: Query-Selected Attention for Contrastive Learning in I2I Translation**
 
@@ -824,8 +880,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Wavelet Knowledge Distillation: Towards Efficient Image-to-Image Translation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.06321
-
 - 代码/Code：
+
+**Industrial Style Transfer with Large-scale Geometric Warping and Content Preservation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12835
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -981,8 +1041,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Blind2Unblind: Self-Supervised Image Denoising with Visible Blind Spots**
 
 - 论文/Paper：https://arxiv.org/abs/2203.06967
-
 - 代码/Code：https://github.com/demonsjin/Blind2Unblind
+
+**CVF-SID: Cyclic multi-Variate Function for Self-Supervised Image Denoising by Disentangling Noise from Image**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13009
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1123,6 +1187,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.03888
 - 代码/Code：
 
+**AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13090
+- 代码/Code: None
+
 **Contrastive Boundary Learning for Point Cloud Segmentation**
 
 - 论文/Paper：https://arxiv.org/abs/2203.05272
@@ -1147,6 +1216,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.04041
 - 代码/Code：https://github.com/shikiw/SI-Adv
+
+**WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12917
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1538,6 +1612,36 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：http://arxiv.org/abs/2203.10489
 - 代码/Code：https://github.com/JierunChen/TVConv
+
+**Moving Window Regression: A Novel Approach to Ordinal Regression**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13122
+- 代码/Code: None
+
+**Egocentric Prediction of Action Target in 3D**
+
+- 论文/Paper: http://arxiv.org/abs/2203.13116
+- 代码/Code: None
+
+**Hierarchical Nearest Neighbor Graph Embedding for Efficient Dimensionality Reduction**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12997
+- 代码/Code: None
+
+**Neural Reflectance for Shape Recovery with Shadow Handling**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12909
+- 代码/Code: None
+
+**DyRep: Bootstrapping Training with Dynamic Re-parameterization**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12868
+- 代码/Code: None
+
+**Multidimensional Belief Quantification for Label-Efficient Meta-Learning**
+
+- 论文/Paper: http://arxiv.org/abs/2203.12768
+- 代码/Code: None
 
  [返回目录/back](#Contents)
 
