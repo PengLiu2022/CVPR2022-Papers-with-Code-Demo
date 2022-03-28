@@ -387,6 +387,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.05898
 - 代码/Code：
 
+**Mask Transfiner for High-Quality Instance Segmentation**
+
+- 论文/Paper： https://arxiv.org/abs/2111.13673
+- 代码/Code：https://github.com/SysCV/transfiner
+
 **Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.09653
@@ -416,6 +421,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.10739
 - 代码/Code: None
+
+**Towards Fewer Annotations: Active Learning via Region Impurity and Prediction Uncertainty for Domain Adaptive Semantic Segmentation**
+
+- 论文/Paper: https://arxiv.org/pdf/2111.12940.pdf
+- 代码/Code:https://github.com/BIT-DA/RIPU
 
 **Weakly Supervised Semantic Segmentation using Out-of-Distribution Data**
 
@@ -1523,6 +1533,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.12081
 - 代码/Code:https://github.com/hrzhang1123/DTFD-MIL
+
+**Efficient Translation Variant Convolution for Layout-aware Visual Processing**
+
+- 论文/Paper：http://arxiv.org/abs/2203.10489
+- 代码/Code：https://github.com/JierunChen/TVConv
 
  [返回目录/back](#Contents)
 
