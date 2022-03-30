@@ -46,6 +46,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [图像分类 / Image Classification](#ImageClassification)
 - [目标检测/Object Detection](#ObjectDetection)
 - [目标跟踪/Object Tracking](#ObjectTracking)
+- [轨迹预测/Trajectory Prediction](#TrajectoryPrediction)
 - [语义分割/Segmentation](#Segmentation)
 - [弱监督语义分割/Weakly Supervised Semantic Segmentation](#WSSS)
 - [医学图像分割](#MedicalImageSegmentation)
@@ -138,7 +139,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## NAS
 
+**Searching for Network Width with Bilaterally Coupled Network**
 
+- 论文/Paper: http://arxiv.org/pdf/2203.13714
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -178,11 +182,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2203.12745
 - 代码/Code: None
 
+**Versatile Multi-Modal Pre-Training for Human-Centric Perception**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13815
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
 
 ## Contrastive Learning
+
+**Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13505
+- 代码/Code: None
 
 **ContrastMask: Contrastive Learning to Segment Every Thing**
 
@@ -236,7 +250,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 图像分类 / Image Classification
 
+**CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification**
 
+- 论文/Paper: http://arxiv.org/pdf/2203.13465
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -292,6 +309,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.05180
 - 代码/Code：https://github.com/CVMI-Lab/KDEP
 
+**Point2Seq: Detecting 3D Objects as Sequences**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13394
+- 代码/Code: None
+
 **Point Density-Aware Voxels for LiDAR 3D Object Detection**
 
 - 论文/Paper：https://arxiv.org/abs/2203.05662
@@ -306,6 +328,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.10981
 - 代码/Code: None
+
+**MonoDETR: Depth-aware Transformer for Monocular 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13310
 
 **Real-time Object Detection for Streaming Perception**
 
@@ -335,6 +361,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds**
 
 - 论文/Paper: http://arxiv.org/abs/2203.10314
+- 代码/Code: None
+
+**Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13608
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -381,7 +412,31 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 [返回目录/back](#Contents)
 
+<a name="TrajectoryPrediction"></a> 
 
+## 轨迹预测/Trajectory Prediction
+
+**How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting**
+
+- 论文/Paper：https://arxiv.org/abs/2203.04781
+- 代码/Code：
+
+**Non-Probability Sampling Network for Stochastic Human Trajectory Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13471
+- 代码/Code: None
+
+**Remember Intentions: Retrospective-Memory-based Trajectory Prediction**
+
+- 论文/Paper: http://arxiv.org/abs/2203.11474
+- 代码/Code: None
+
+**Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13777
+- 代码/Code: None
+
+[返回目录/back](#Contents)
 
 <a name="Segmentation"></a> 
 
@@ -407,6 +462,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper： https://arxiv.org/abs/2111.13673
 - 代码/Code：https://github.com/SysCV/transfiner
 
+**Noisy Boundaries: Lemon or Lemonade for Semi-supervised Instance Segmentation?**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13427
+- 代码/Code: None
+
 **Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.09653
@@ -421,6 +481,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.03884
 - 代码/Code：
+
+**SharpContour: A Contour-based Boundary Refinement Approach for Efficient and Accurate Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13312
+- 代码/Code: None
 
 **ST++: Make Self-training Work Better for Semi-supervised Semantic Segmentation**
 
@@ -617,6 +682,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="FacialExpressionRecognition"></a>
 
 # 人脸表情识别/Facial Expression Recognition
+
+**MDAN: Multi-level Dependent Attention Network for Visual Emotion Analysis**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13443
+- 代码/Code: None
 
 **Towards Semi-Supervised Deep Facial Expression Recognition with An Adaptive Confidence Margin**
 
@@ -1312,12 +1382,6 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.04905
 - 代码/Code：
 
-**How many Observations are Enough? Knowledge Distillation for Trajectory Forecasting**
-
-- 论文/Paper：https://arxiv.org/abs/2203.04781
-
-- 代码/Code：
-
 **ChiTransformer:Towards Reliable Stereo from Cues**
 
 - 论文/Paper：https://arxiv.org/abs/2203.04554
@@ -1588,11 +1652,6 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2203.11481
 - 代码/Code: None
 
-**Remember Intentions: Retrospective-Memory-based Trajectory Prediction**
-
-- 论文/Paper: http://arxiv.org/abs/2203.11474
-- 代码/Code: None
-
 **Global Matching with Overlapping Attention for Optical Flow Estimation**
 
 - 论文/Paper: http://arxiv.org/abs/2203.11335
@@ -1642,6 +1701,43 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.12768
 - 代码/Code: None
+
+**Give Me Your Attention: Dot-Product Attention Considered Harmful for Adversarial Patch Robustness**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13639
+- 代码/Code: None
+
+**Unsupervised Pre-training for Temporal Action Localization Tasks**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13609
+- 代码/Code: None
+
+**Continual Test-Time Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13591
+- 代码/Code: None
+
+**Self-Supervised Predictive Learning: A Negative-Free Method for Sound Source Localization in Visual Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13412
+- 代码/Code: None
+
+**NPBG++: Accelerating Neural Point-Based Graphics**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13318
+- 代码/Code: None
+
+**Weakly-Supervised Online Action Segmentation in Multi-View Instructional Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13309
+- 代码/Code: None
+
+**Probing Representation Forgetting in Supervised and Unsupervised Continual Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.13381
+- 代码/Code: None
+
+
 
  [返回目录/back](#Contents)
 
