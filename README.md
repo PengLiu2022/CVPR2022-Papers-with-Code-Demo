@@ -869,6 +869,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper：https://arxiv.org/abs/2203.07918
 - 代码/Code：
 
+**MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video**
+
+- 论文/Paper：https://arxiv.org/abs/2203.00859
+- 代码/Code：https://github.com/JinluZhang1126/MixSTE
+
 **MHFormer: Multi-Hypothesis Transformer for 3D Human Pose Estimation**
 
 - 论文/Paper: https://arxiv.org/pdf/2111.12707.pdf
