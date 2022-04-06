@@ -60,6 +60,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸年龄估计/Age Estimation](#AgeEstimation)
 - [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
 - [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
+- [人脸编辑/Facial Editing](#FacialEditing)
 - [换脸/Face Swap](#FaceSwap)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
@@ -235,6 +236,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.15086
 - 代码/Code: https://github.com/layer6ai-labs/xpool
 
+**ViSTA: Vision and Scene Text Aggregation for Cross-Modal Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16778
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -276,6 +282,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.11509
 - 代码/Code: None
+
+**Fine-grained Temporal Contrastive Learning for Weakly-supervised Temporal Action Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16800
+- 代码/Code: https://github.com/MengyuanChen21/CVPR2022-FTCL
 
 <a name="GNN"></a> 
 
@@ -505,6 +516,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.15882
 - 代码/Code: https://github.com/yurongyou/modest
 
+**Multi-Granularity Alignment Domain Adaptation for Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16897
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -552,6 +568,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.16092
 - 代码/Code: https://github.com/zikunzhou/gtelt
+
+**MeMOT: Multi-Object Tracking with Memory**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16761
+- 代码/Code: None
 
 # 3D Object Tracking
 
@@ -687,7 +708,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Weakly Supervised Semantic Segmentation using Out-of-Distribution Data**
 
 - 论文/Paper：https://arxiv.org/abs/2203.03860
-- 代码/Code：
+- 代码/Code：None
+
+**ReSTR: Convolution-free Referring Image Segmentation Using Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16768
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -841,6 +867,31 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16089
 - 代码/Code: None
 
+**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17266
+- 代码/Code: https://github.com/BillyXYB/TransEditor
+
+**VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17247
+- 代码/Code: None
+
+**CRAFT: Cross-Attentional Flow Transformer for Robust Optical Flow**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16896
+- 代码/Code: None
+
+**Deformable Video Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16795
+- 代码/Code: None
+
+**ReSTR: Convolution-free Referring Image Segmentation Using Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16768
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -928,6 +979,27 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16209
 - 代码/Code: https://github.com/sungho-coolg/fscl
 
+<a name="FacialEditing"></a>
+
+## 人脸编辑/Facial Editing
+
+**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17266
+- 代码/Code: https://github.com/BillyXYB/TransEditor
+
+**Face Relighting with Geometrically Consistent Shadows**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16681
+- 代码/Code: None
+
+**Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16669
+- 代码/Code: None
+
+[返回目录/back](#Contents)
+
 <a name="FaceSwap"></a>
 
 ## 换脸/Face Swap
@@ -998,6 +1070,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Uncertainty-Aware Adaptation for Self-Supervised 3D Human Pose Estimation**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.15293
+- 代码/Code: None
+
+**Templates for 3D Object Pose Estimation Revisited: Generalization to New Objects and Robustness to Occlusions**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17234
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1267,6 +1344,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2203.12835
 - 代码/Code: None
 
+**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17266
+- 代码/Code: https://github.com/BillyXYB/TransEditor
+
+**TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17266
+- 代码/Code: https://github.com/BillyXYB/TransEditor
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -1534,8 +1621,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Rethinking Efficient Lane Detection via Curve Modeling**
 
 - 论文/Paper：https://arxiv.org/abs/2203.02431
-
 - 代码/Code：https://github.com/voldemortX/pytorch-auto-drive
+
+**Towards Driving-Oriented Metric for Lane Detection Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16851
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1594,6 +1685,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Unifying Motion Deblurring and Frame Interpolation with Events**
 
 - 论文/Paper: http://arxiv.org/abs/2203.12178
+- 代码/Code: None
+
+**Time Lens++: Event-based Frame Interpolation with Parametric Non-linear Flow and Multi-scale Fusion**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17191
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1676,6 +1772,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation**
 
 - 论文/Paper: http://arxiv.org/abs/2203.12917
+- 代码/Code: None
+
+**Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16895
+- 代码/Code: None
+
+**Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16895
+- 代码/Code: None
+
+**Learning Local Displacements for Point Cloud Completion**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16600
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -2471,6 +2582,91 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.16357
+- 代码/Code: None
+
+**Bringing Old Films Back to Life**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17276
+- 代码/Code: https://github.com/raywzy/Bringing-Old-Films-Back-to-Life
+
+**Generating High Fidelity Data from Low-density Regions using Diffusion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17260
+- 代码/Code: None
+
+**Continuous Scene Representations for Embodied AI**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17251
+- 代码/Code: None
+
+**SimVQA: Exploring Simulated Environments for Visual Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17219
+- 代码/Code: None
+
+**Leverage Your Local and Global Representations: A New Self-Supervised Learning Strategy**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17205
+- 代码/Code: None
+
+**AEGNN: Asynchronous Event-based Graph Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17149
+- 代码/Code: None
+
+**It's All In the Teacher: Zero-Shot Quantization Brought Closer to the Teacher**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.17008
+- 代码/Code: None
+
+**Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16931
+- 代码/Code: None
+
+**End-to-End Trajectory Distribution Prediction Based on Occupancy Grid Maps**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16910
+- 代码/Code: None
+
+**Reflection and Rotation Symmetry Detection via Equivariant Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16787
+- 代码/Code: None
+
+**Stochastic Backpropagation: A Memory Efficient Strategy for Training Video Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16755
+- 代码/Code: None
+
+**Personalized Image Aesthetics Assessment with Rich Attributes**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16754
+- 代码/Code: None
+
+**Constrained Few-shot Class-incremental Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16588
+- 代码/Code: None
+
+**Counterfactual Cycle-Consistent Learning for Instruction Following and Generation in Vision-Language Navigation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16586
+- 代码/Code: None
+
+**Exploiting Explainable Metrics for Augmented SGD**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16723
+- 代码/Code: None
+
+**Task Adaptive Parameter Sharing for Multi-Task Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16708
+- 代码/Code: None
+
+**D-Grasp: Physically Plausible Dynamic Grasp Synthesis for Hand-Object Interactions**
+
+- 论文/Paper: http://arxiv.org/pdf/2112.03028
 - 代码/Code: None
 
 
