@@ -60,6 +60,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [人脸年龄估计/Age Estimation](#AgeEstimation)
 - [人脸表情识别/Facial Expression Recognition](#FacialExpressionRecognition)
 - [人脸属性识别/Facial Attribute Recognition](#FacialAttributeRecognition)
+- [换脸/Face Swap](#FaceSwap)
 - [人体姿态估计/Human Pose Estimation](#HumanPoseEstimation)
 - [6D位姿估计 /6D Pose Estimation](#6DPoseEstimation)
 - [手势姿态估计（重建）/Hand Pose Estimation( Hand Mesh Recovery)](#HandPoseEstimation)
@@ -249,6 +250,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.09775
 - 代码/Code: None
+
+**Fair Contrastive Learning for Facial Attribute Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16209
+- 代码/Code: https://github.com/sungho-coolg/fscl
 
 **Frame-wise Action Representations for Long Videos via Sequence Contrastive Learning**
 
@@ -459,6 +465,46 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.13608
 - 代码/Code: None
 
+**Understanding 3D Object Articulation in Internet Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16531
+- 代码/Code: None
+
+**AdaMixer: A Fast-Converging Query-Based Object Detector**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16507
+- 代码/Code: https://github.com/mcg-nju/adamixer
+
+**Forecasting from LiDAR via Future Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16297
+- 代码/Code: None
+
+**Target-aware Dual Adversarial Learning and a Multi-scenario Multi-Modality Benchmark to Fuse Infrared and Visible for Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16220
+- 代码/Code: https://github.com/dlut-dimt/tardal
+
+**Learning of Global Objective for Network Flow in Multi-Object Tracking**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16210
+- 代码/Code: None
+
+**FLOAT: Factorized Learning of Object Attributes for Improved Multi-object Multi-part Scene Parsing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16168
+- 代码/Code: None
+
+**Omni-DETR: Omni-Supervised Object Detection with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16089
+- 代码/Code: None
+
+**Learning to Detect Mobile Objects from LiDAR Scans Without Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15882
+- 代码/Code: https://github.com/yurongyou/modest
+
 [返回目录/back](#Contents)
 
 
@@ -496,6 +542,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.15175
 - 代码/Code: None
+
+**Learning of Global Objective for Network Flow in Multi-Object Tracking**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16210
+- 代码/Code: None
+
+**Global Tracking via Ensemble of Local Trackers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16092
+- 代码/Code: https://github.com/zikunzhou/gtelt
 
 # 3D Object Tracking
 
@@ -758,8 +814,32 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Towards Robust Vision Transformer**
 
 - 论文/Paper: https://arxiv.org/abs/2105.07926
-
 - 代码/Code: https://github.com/vtddggg/Robust-Vision-Transformer
+
+**Collaborative Transformers for Grounded Situation Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16518
+- 代码/Code: https://github.com/jhcho99/coformer
+
+**TubeDETR: Spatio-Temporal Video Grounding with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16434
+- 代码/Code: https://github.com/antoyang/TubeDETR
+
+**InstaFormer: Instance-Aware Image-to-Image Translation with Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16248
+- 代码/Code: None
+
+**Spatial-Temporal Parallel Transformer for Arm-Hand Dynamic Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16202
+- 代码/Code: None
+
+**Omni-DETR: Omni-Supervised Object Detection with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16089
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -843,7 +923,23 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸属性识别/Facial Attribute Recognition
 
+**Fair Contrastive Learning for Facial Attribute Classification**
 
+- 论文/Paper: http://arxiv.org/pdf/2203.16209
+- 代码/Code: https://github.com/sungho-coolg/fscl
+
+<a name="FaceSwap"></a>
+
+## 换脸/Face Swap
+
+**High-resolution Face Swapping via Latent Semantics Disentanglement**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15958
+- 代码/Code: None
+
+
+
+[返回目录/back](#Contents)
 
 <a name="HumanPoseEstimation"></a>
 
@@ -2266,6 +2362,118 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.15234
 - 代码/Code: None
+
+**Large-Scale Pre-training for Person Re-identification with Noisy Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16533
+- 代码/Code: https://github.com/dengpanfu/luperson-nl
+
+**Understanding 3D Object Articulation in Internet Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16531
+- 代码/Code: None
+
+**CaDeX: Learning Canonical Deformation Coordinate Space for Dynamic Surface Representation via Neural Homeomorphism**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16529
+- 代码/Code: None
+
+**Unseen Classes at a Later Time? No Problem**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16517
+- 代码/Code: https://github.com/sumitramalagi/unseen-classes-at-a-later-time
+
+**Fast Light-Weight Near-Field Photometric Stereo**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16515
+- 代码/Code: None
+
+**AdaMixer: A Fast-Converging Query-Based Object Detector**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16507
+- 代码/Code: https://github.com/mcg-nju/adamixer
+
+**Fast, Accurate and Memory-Efficient Partial Permutation Synchronization**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16505
+- 代码/Code: None
+
+**Balanced MSE for Imbalanced Visual Regression**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16427
+- 代码/Code: None
+
+**Multi-Robot Active Mapping via Neural Bipartite Graph Matching**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16319
+- 代码/Code: None
+
+**Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16258
+- 代码/Code: https://github.com/valeoai/slidr
+
+**FLOAT: Factorized Learning of Object Attributes for Improved Multi-object Multi-part Scene Parsing**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16168
+- 代码/Code: None
+
+**STRPM: A Spatiotemporal Residual Predictive Model for High-Resolution Video Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16084
+- 代码/Code: None
+
+**Learning Program Representations for Food Images and Cooking Recipes**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16071
+- 代码/Code: None
+
+**AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16062
+- 代码/Code: None
+
+**Progressively Generating Better Initial Guesses Towards Next Stages for High-Quality Human Motion Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16051
+- 代码/Code: None
+
+**Iterative Deep Homography Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15982
+- 代码/Code: https://github.com/imdumpl78/ihn
+
+**PSMNet: Position-aware Stereo Merging Network for Room Layout Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15965
+- 代码/Code: None
+
+**Disentangled3D: Learning a 3D Generative Model with Disentangled Geometry and Appearance from Monocular Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15926
+- 代码/Code: None
+
+**Learning to Detect Mobile Objects from LiDAR Scans Without Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15882
+- 代码/Code: https://github.com/yurongyou/modest
+
+**Proactive Image Manipulation Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15880
+- 代码/Code: https://github.com/vishal3477/proactive_imd
+
+**NICGSlowDown: Evaluating the Efficiency Robustness of Neural Image Caption Generation Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.15859
+- 代码/Code: https://github.com/seekingdream/nicgslowdown
+
+**Practical Learned Lossless JPEG Recompression with Multi-Level Cross-Channel Entropy Model in the DCT Domain**
+
+- 论文/Paper: http://arxiv.org/pdf/2203.16357
+- 代码/Code: None
+
+
 
  [返回目录/back](#Contents)
 
