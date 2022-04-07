@@ -143,8 +143,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **GrainSpace: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains**
 
 - 论文/Paper：https://arxiv.org/abs/2203.05306
-
 - 代码/Code：https://github.com/hellodfan/GrainSpace
+
+**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**
+
+论文/Paper: http://arxiv.org/pdf/2204.01026
+
+代码/Code: https://github.com/4dvlab/stcrowd
 
 [返回目录/back](#Contents)
 
@@ -241,6 +246,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16778
 - 代码/Code: None
 
+**STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**
+
+论文/Paper: http://arxiv.org/pdf/2204.01026
+
+代码/Code: https://github.com/4dvlab/stcrowd
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -332,6 +343,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Integrative Few-Shot Learning for Classification and Segmentation**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.15712
+- 代码/Code: None
+
+**Matching Feature Sets for Few-Shot Image Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00949
+
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -527,7 +544,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 代码/Code: None
 
+**R(Det)^2: Randomized Decision Routing for Object Detection**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.00794
+
+- 代码/Code: None
+
+**Homography Loss for Monocular 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00754
+
+- 代码/Code: https://github.com/gujiaqivadin/HomographyLoss
 
 [返回目录/back](#Contents)
 
@@ -581,6 +608,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.16761
 - 代码/Code: None
+
+**Unsupervised Learning of Accurate Siamese Tracking**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01475
+
+- 代码/Code: https://github.com/florinshum/ulast
 
 # 3D Object Tracking
 
@@ -723,6 +756,24 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16768
 - 代码/Code: None
 
+**FIFO: Learning Fog-invariant Features for Foggy Scene Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01587
+
+- 代码/Code: None
+
+**WildNet: Learning Domain Generalized Semantic Segmentation from the Wild**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01446
+
+- 代码/Code: https://github.com/suhyeonlee/wildnet
+
+**Semantic-Aware Domain Generalized Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00822
+
+- 代码/Code: https://github.com/leolyj/san-saw
+
 [返回目录/back](#Contents)
 
 <a name="WSSS"></a>
@@ -765,6 +816,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **OakInk: A Large-scale Knowledge Repository for Understanding Hand-Object Interaction**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.15709
+- 代码/Code: None
+
+**What to look at and where: Semantic and Spatial Refined Transformer for detecting human-object interactions**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00746
+
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -900,6 +957,18 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16768
 - 代码/Code: None
 
+**TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01018
+
+- 代码/Code: https://github.com/sviprepetitioncounting/transrac
+
+**Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00656
+
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -917,6 +986,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 人脸识别/Face Recognition
 
+**Adaface: Quality Adaptive Margin for Face Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00964
+
+- 代码/Code: https://github.com/mk-minchul/adaface
+
 
 
 [返回目录/back](#Contents)
@@ -928,8 +1003,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Privacy-preserving Online AutoML for Domain-Specific Face Detection**
 
 - 论文/Paper：https://arxiv.org/abs/2203.08399
+- 代码/Code：None
 
-- 代码/Code：
+**Robust Neonatal Face Detection in Real-world Clinical Settings**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00655
+
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1109,6 +1189,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **RNNPose: Recurrent 6-DoF Object Pose Refinement with Robust Correspondence Field Estimation and Pose Optimization**
 
 - 论文/Paper: http://arxiv.org/abs/2203.12870
+- 代码/Code: None
+
+**ES6D: A Computation Efficient and Symmetry-Aware 6D Pose Regression Framework**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01080
+
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1365,8 +1451,15 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Marginal Contrastive Correspondence for Guided Image Generation**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00442
-
 - 代码/Code: None
+
+**Style-Based Global Appearance Flow for Virtual Try-On**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01046
+
+- 代码/Code: https://github.com/senhe/flow-style-vton
+
+
 
 [返回目录/back](#Contents)
 
@@ -1443,6 +1536,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 <a name="Retrieval"></a>
 
 ## 图像、视频检索 / Image Retrieval/Video retrieval
+
+**Correlation Verification for Image Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01458
+
+- 代码/Code: https://github.com/sungonce/cvnet
 
 **Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval**
 
@@ -2750,6 +2849,77 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Efficient Maximal Coding Rate Reduction by Variational Forms**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00077
+- 代码/Code: None 
+
+**Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01696
+
+- 代码/Code: None
+
+**LISA: Learning Implicit Shape and Appearance of Hands**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01695
+
+- 代码/Code: None
+
+**Exemplar-bsaed Pattern Synthesis with Implicit Periodic Field Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01671
+
+- 代码/Code: None
+
+**Degradation-agnostic Correspondence from Resolution-asymmetric Stereo**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01429
+
+- 代码/Code: None
+
+**RayMVSNet: Learning Ray-based 1D Implicit Fields for Accurate Multi-View Stereo**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01320
+
+- 代码/Code: None
+
+**Exploiting Temporal Relations on Radar Perception for Autonomous Driving**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01184
+
+- 代码/Code: None
+
+**BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01139
+
+- 代码/Code: None
+
+**Neural Global Shutter: Learn to Restore Video from a Rolling Shutter Camera with Global Reset Feature**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00974
+
+- 代码/Code: https://github.com/lightchaserx/neural-global-shutter
+
+**DST: Dynamic Substitute Training for Data-free Black-box Attack**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00972
+
+- 代码/Code: None
+
+**Progressive Minimal Path Method with Embedded CNN**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00944
+
+- 代码/Code: None
+
+**Online Convolutional Re-parameterization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00826
+
+- 代码/Code: None
+
+**SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00644
 
 - 代码/Code: None 
 
