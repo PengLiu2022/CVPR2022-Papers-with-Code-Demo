@@ -97,7 +97,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [视频超分 / Video Super-Resolution](#VideoSuper-Resolution)
 - [ 3D点云/3D point cloud]( #3DPointCloud)
 - [标签噪声 / Label-Noise](#Label-Noise)
-- [对抗样本 Adversarial Examples](#AdversarialExamples)
+- [对抗样本/Adversarial Examples](#AdversarialExamples)
 
 
 </details>
@@ -1803,7 +1803,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 # 对抗样本 / Adversarial Examples
 
+**LAS-AT: Adversarial Training with Learnable Attack Strategy**
 
+- 论文/Paper：https://arxiv.org/pdf/2203.06616.pdf
+
+- 代码/Code：https://github.com/jiaxiaojunQAQ/LAS-AT
 
  [返回目录/back](#Contents)
 
