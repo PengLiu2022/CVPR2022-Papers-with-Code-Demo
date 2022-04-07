@@ -521,6 +521,14 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16897
 - 代码/Code: None
 
+**CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00325
+
+- 代码/Code: None
+
+
+
 [返回目录/back](#Contents)
 
 
@@ -1354,6 +1362,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.17266
 - 代码/Code: https://github.com/BillyXYB/TransEditor
 
+**Marginal Contrastive Correspondence for Guided Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00442
+
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -1534,6 +1548,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.13009
 - 代码/Code: None
+
+**Learning to Deblur using Light Field Generated and Real Defocus Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00367
+
+- 代码/Code: https://github.com/lingyanruan/DRBNet
 
 [返回目录/back](#Contents)
 
@@ -2673,7 +2693,65 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2112.03028
 - 代码/Code: None
 
+**On the Importance of Asymmetry for Siamese Representation Learning**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.00613
+
+- 代码/Code: https://github.com/facebookresearch/asym-siam
+
+**DIP: Deep Inverse Patchmatch for High-Resolution Optical Flow**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00330
+
+- 代码/Code: https://github.com/zihuazheng/dip
+
+**Unimodal-Concentrated Loss: Fully Adaptive Label Distribution Learning for Ordinal Regression**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00309
+
+- 代码/Code: None
+
+**Perception Prioritized Training of Diffusion Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00227
+
+- 代码/Code: https://github.com/jychoi118/p2-weighting
+
+**Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00220
+
+- 代码/Code: None
+
+**GraftNet: Towards Domain Generalized Stereo Matching with a Broad-Spectrum and Task-Oriented Feature**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00179
+
+- 代码/Code: https://github.com/spadeliu/graft-psmnet
+
+**LASER: LAtent SpacE Rendering for 2D Visual Localization**
+
+论文/Paper: http://arxiv.org/pdf/2204.00157
+
+代码/Code: None
+
+**TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00097
+
+- 代码/Code: https://github.com/jeff-zilence/transgeo2022
+
+**Investigating Top-$k$ White-Box and Transferable Black-box Attack**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00089
+
+- 代码/Code: None
+
+**Efficient Maximal Coding Rate Reduction by Variational Forms**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.00077
+
+- 代码/Code: None 
 
  [返回目录/back](#Contents)
 
