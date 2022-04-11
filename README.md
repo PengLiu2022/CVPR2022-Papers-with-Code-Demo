@@ -151,6 +151,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 代码/Code: https://github.com/4dvlab/stcrowd
 
+**ObjectFolder 2.0: A Multisensory Object Dataset for Sim2Real Transfer**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02389
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="NAS"></a> 
@@ -553,8 +558,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Homography Loss for Monocular 3D Object Detection**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00754
-
 - 代码/Code: https://github.com/gujiaqivadin/HomographyLoss
+
+**Overcoming Catastrophic Forgetting in Incremental Object Detection via Elastic Response Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02136
+- 代码/Code: None
+
+**Towards Robust Adaptive Object Detection under Noisy Annotations**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02620
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -771,8 +785,17 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Semantic-Aware Domain Generalized Segmentation**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00822
-
 - 代码/Code: https://github.com/leolyj/san-saw
+
+**FocalClick: Towards Practical Interactive Image Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02574
+- 代码/Code: https://github.com/XavierCHEN34/ClickSEG
+
+**Modeling Motion with Multi-Modal Features for Text-Based Video Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02547
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -966,7 +989,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Consistency driven Sequential Transformers Attention Model for Partially Observable Scenes**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00656
+- 代码/Code: None
 
+**Multi-View Transformer for 3D Visual Grounding**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02174
+- 代码/Code: None
+
+**Dual-AI: Dual-path Action Interaction Learning for Group Activity Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02148
+- 代码/Code: None
+
+**Detector-Free Weakly Supervised Group Activity Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02139
+- 代码/Code: None
+
+**Text Spotting Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01918
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -979,6 +1021,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: https://arxiv.org/pdf/2203.01576.pdf
 - 代码/Code: https://github.com/YingqianWang/OACC-Net
+
+**P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02091
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1241,6 +1288,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.15205
 - 代码/Code: None
 
+**An Empirical Study of End-to-End Temporal Action Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02932
+- 代码/Code: https://github.com/xlliu7/E2E-TAD
+
 [返回目录/back](#Contents)
 
 <a name="SignLanguageTranslation"></a>
@@ -1304,6 +1356,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.14675
 - 代码/Code: None
+
+**Cloning Outfits from Real-World Images to 3D Characters for Generalizable Person Re-Identification**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02611
+- 代码/Code: https://github.com/Yanan-Wang-cs/ClonedPerson
 
 [返回目录/back](#Contents)
 
@@ -1459,7 +1516,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 代码/Code: https://github.com/senhe/flow-style-vton
 
+**Arbitrary-Scale Image Synthesis**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.02273
+- 代码/Code: https://github.com/vglsd/ScaleParty
 
 [返回目录/back](#Contents)
 
@@ -1626,6 +1686,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper：https://arxiv.org/abs/2203.06304
 - 代码/Code：https://github.com/tsingqguo/misf
+
+**Towards An End-to-End Framework for Flow-Guided Video Inpainting**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02663
+- 代码/Code: https://github.com/MCG-NKU/E2FGVI
 
 [返回目录/back](#Contents)
 
@@ -2920,8 +2985,95 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **SIMBAR: Single Image-Based Scene Relighting For Effective Data Augmentation For Automated Driving Vision Tasks**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00644
-
 - 代码/Code: None 
+
+**Rethinking Visual Geo-localization for Large-Scale Applications**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02287
+- 代码/Code: None
+
+**IRON: Inverse Rendering by Optimizing Neural SDFs and Materials from Photometric Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02232
+- 代码/Code: None
+
+**SNUG: Self-Supervised Neural Dynamic Garments**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02219
+- 代码/Code: None
+
+**Leveraging Equivariant Features for Absolute Pose Regression**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02163
+- 代码/Code: None
+
+**MonoTrack: Shuttle trajectory reconstruction from monocular badminton video**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01899
+- 代码/Code: None
+
+**Revisiting Near/Remote Sensing with Geospatial Attention**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.01807
+- 代码/Code: None
+
+**Temporal Alignment Networks for Long-term Video**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02968
+- 代码/Code: None
+
+**"The Pedestrian next to the Lamppost" Adaptive Object Graphs for Better Instantaneous Mapping**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02944
+- 代码/Code: None
+
+**Masking Adversarial Damage: Finding Adversarial Saliency for Robust and Sparse Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02738
+- 代码/Code: None
+
+**Aesthetic Text Logo Synthesis via Content-aware Layout Inferring**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02701
+- 代码/Code: https://github.com/yizhiwang96/TextLogoLayout
+
+**Learning to Anticipate Future with Dynamic Context Removal**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02587
+- 代码/Code: https://github.com/AllenXuuu/DCR.
+
+**SqueezeNeRF: Further factorized FastNeRF for memory-efficient inference**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02585
+- 代码/Code: None
+
+**Gait Recognition in the Wild with Dense 3D Representations and A Benchmark**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02569
+- 代码/Code: None
+
+**MixFormer: Mixing Features across Windows and Dimensions**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02557
+- 代码/Code: https://github.com/PaddlePaddle/PaddleClas
+
+**RODD: A Self-Supervised Approach for Robust Out-of-Distribution Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02553
+- 代码/Code: None
+
+**Adversarial Robustness through the Lens of Convolutional Filters**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02481
+- 代码/Code: website:
+  https://github.com/paulgavrikov/cvpr22w_RobustnessThroughTheLens
+
+**Learning Optimal K-space Acquisition and Reconstruction using Physics-Informed Neural Networks**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02480
+- 代码/Code: None
+
+
 
  [返回目录/back](#Contents)
 
