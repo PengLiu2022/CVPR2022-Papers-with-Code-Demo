@@ -304,6 +304,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.16800
 - 代码/Code: https://github.com/MengyuanChen21/CVPR2022-FTCL
 
+**Unified Contrastive Learning in Image-Text-Label Space**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03610
+- 代码/Code: https://github.com/microsoft/unicl
+
+
+
 <a name="GNN"></a> 
 
 ## 图神经网络 / Graph Neural Networks
@@ -797,6 +804,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.02547
 - 代码/Code: None
 
+**Pin the Memory: Learning to Generalize Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03609
+- 代码/Code: None
+
+**Coarse-to-Fine Feature Mining for Video Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03330
+- 代码/Code: https://github.com/guoleisun/vss-cffm
+
+**L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03206
+- 代码/Code: https://github.com/PengtaoJiang/L2G
+
 [返回目录/back](#Contents)
 
 <a name="WSSS"></a>
@@ -1010,6 +1032,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.01918
 - 代码/Code: None
+
+**PSTR: End-to-End One-Step Person Search With Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03340
+- 代码/Code: https://github.com/jialecao001/pstr
 
 [返回目录/back](#Contents)
 
@@ -1521,6 +1548,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.02273
 - 代码/Code: https://github.com/vglsd/ScaleParty
 
+**Unsupervised Image-to-Image Translation with Generative Prior**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03641
+- 代码/Code: https://github.com/williamyang1991/gp-unit
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -1875,6 +1907,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.17191
 - 代码/Code: None
+
+**Many-to-many Splatting for Efficient Video Frame Interpolation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03513
+- 代码/Code: https://github.com/feinanshan/m2m_vfi
 
 [返回目录/back](#Contents)
 
@@ -3073,7 +3110,60 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.02480
 - 代码/Code: None
 
+**Total Variation Optimization Layers for Computer Vision**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.03643
+- 代码/Code: https://github.com/raymondyeh07/tv_layers_for_cv
+
+**Pre-train, Self-train, Distill: A simple recipe for Supersizing 3D Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03642
+- 代码/Code: None
+
+**Class-Incremental Learning with Strong Pre-trained Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03634
+- 代码/Code: None
+
+**AutoRF: Learning 3D Object Radiance Fields from Single View Observations**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03593
+- 代码/Code: None
+
+**Deep Visual Geo-localization Benchmark**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03444
+- 代码/Code: None
+
+**Winoground: Probing Vision and Language Models for Visio-Linguistic Compositionality**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03162
+- 代码/Code: None
+
+**UIGR: Unified Interactive Garment Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03111
+- 代码/Code: https://github.com/brandonhanx/compfashion
+
+**AUV-Net: Learning Aligned UV Maps for Texture Transfer and Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03105
+- 代码/Code: None
+
+**Hierarchical Self-supervised Representation Learning for Movie Understanding**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03101
+- 代码/Code: None
+
+**Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.03017
+- 代码/Code: None
+
+**Multi-Scale Memory-Based Video Deblurring**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.02977
+- 代码/Code: https://github.com/jibo27/memdeblur
 
  [返回目录/back](#Contents)
 
