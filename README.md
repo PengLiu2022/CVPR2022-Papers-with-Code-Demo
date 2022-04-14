@@ -309,7 +309,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.03610
 - 代码/Code: https://github.com/microsoft/unicl
 
+**Probabilistic Representations for Video Contrastive Learning**
 
+- 论文/Paper: http://arxiv.org/abs/2204.03946
+- 代码/Code: None
+
+[返回目录/back](#Contents)
 
 <a name="GNN"></a> 
 
@@ -633,8 +638,14 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Unsupervised Learning of Accurate Siamese Tracking**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.01475
-
 - 代码/Code: https://github.com/florinshum/ulast
+
+**Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline**
+
+- 论文/Paper: http://arxiv.org/abs/2204.04120
+- 代码/Code: None
+
+## 
 
 # 3D Object Tracking
 
@@ -1748,8 +1759,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Learning to Deblur using Light Field Generated and Real Defocus Images**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00367
-
 - 代码/Code: https://github.com/lingyanruan/DRBNet
+
+**Dancing under the stars: video denoising in starlight**
+
+- 论文/Paper: http://arxiv.org/abs/2204.04210
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -3164,6 +3179,53 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.02977
 - 代码/Code: https://github.com/jibo27/memdeblur
+
+**Gravitationally Lensed Black Hole Emission Tomography**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03715
+- 代码/Code: None
+
+**General Incremental Learning with Domain-aware Categorical Representations**
+
+- 论文/Paper: http://arxiv.org/abs/2204.04078
+- 代码/Code: None
+
+**Identifying Ambiguous Similarity Conditions via Semantic Matching**
+
+- 论文/Paper: http://arxiv.org/abs/2204.04053
+- 代码/Code: None
+
+**Does Robustness on ImageNet Transfer to Downstream Tasks?**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03934
+- 代码/Code: None
+
+**Deep Hyperspectral-Depth Reconstruction Using Single Color-Dot Projection**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03929
+- 代码/Code: None
+
+**CD$^2$-pFed: Cyclic Distillation-guided Channel Decoupling for Model Personalization in Federated Learning**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03880
+- 代码/Code: None
+
+**Reusing the Task-specific Classifier as a Discriminator: Discriminator-free Adversarial Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03838
+- 代码/Code: https://github.com/xiaoachen98/DALN
+
+**TorMentor: Deterministic dynamic-path, data augmentations with fractals**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03776
+- 代码/Code: None
+
+**TemporalUV: Capturing Loose Clothing with Temporally Coherent UV Coordinates**
+
+- 论文/Paper: http://arxiv.org/abs/2204.03671
+- 代码/Code: None
+
+
 
  [返回目录/back](#Contents)
 
