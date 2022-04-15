@@ -253,9 +253,24 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 **STCrowd: A Multimodal Dataset for Pedestrian Perception in Crowded Scenes**
 
-论文/Paper: http://arxiv.org/pdf/2204.01026
+- 论文/Paper: http://arxiv.org/pdf/2204.01026
 
-代码/Code: https://github.com/4dvlab/stcrowd
+- 代码/Code: https://github.com/4dvlab/stcrowd
+
+**XMP-Font: Self-Supervised Cross-Modality Pre-training for Few-Shot Font Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05084
+- 代码/Code: None
+
+**Robust Cross-Modal Representation Learning with Progressive Self-Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04588
+- 代码/Code: None
+
+**Multimodal Transformer for Nursing Activity Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04564
+- 代码/Code: https://github.com/Momilijaz96/MMT_for_NCRC
 
 [返回目录/back](#Contents)
 
@@ -365,7 +380,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Matching Feature Sets for Few-Shot Image Classification**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.00949
+- 代码/Code: None
 
+**Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04567
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -830,6 +849,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.03206
 - 代码/Code: https://github.com/PengtaoJiang/L2G
 
+**Video K-Net: A Simple, Strong, and Unified Baseline for Video Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04656
+- 代码/Code: https://github.com/lxtGH/Video-K-Net
+
 [返回目录/back](#Contents)
 
 <a name="WSSS"></a>
@@ -1049,6 +1073,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.03340
 - 代码/Code: https://github.com/jialecao001/pstr
 
+**Consistency Learning via Decoding Path Augmentation for Transformers in Human Object Interaction Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04836
+- 代码/Code: https://github.com/mlvlab/CPChoi.
+
+**Multimodal Transformer for Nursing Activity Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04564
+- 代码/Code: https://github.com/Momilijaz96/MMT_for_NCRC
+
+**Learning Trajectory-Aware Transformer for Video Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04216
+- 代码/Code: https://github.com/researchmm/TTVSR
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -1063,6 +1102,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **P3Depth: Monocular Depth Estimation with a Piecewise Planarity Prior**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.02091
+- 代码/Code: None
+
+**HiMODE: A Hybrid Monocular Omnidirectional Depth Estimation Model**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05007
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1250,6 +1294,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.17234
 - 代码/Code: None
 
+**Focal Length and Object Pose Estimation via Render and Compare**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05145
+- 代码/Code: http://github.com/ponimatkin/focalpose
+
 [返回目录/back](#Contents)
 
 <a name="6DPoseEstimation"></a>
@@ -1330,6 +1379,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.02932
 - 代码/Code: https://github.com/xlliu7/E2E-TAD
+
+**SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04796
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1564,6 +1618,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.03641
 - 代码/Code: https://github.com/williamyang1991/gp-unit
 
+**Commonality in Natural Images Rescues GANs: Pretraining GANs with Generic and Privacy-free Synthetic Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04950
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -1649,6 +1708,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Sketching without Worrying: Noise-Tolerant Sketch-Based Image Retrieval**
 
 - 论文/Paper: http://arxiv.org/abs/2203.14817
+- 代码/Code: None
+
+**Beyond Cross-view Image Retrieval: Highly Accurate Vehicle Localization Using Satellite Image**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04752
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -3225,7 +3289,65 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2204.03671
 - 代码/Code: None
 
+**Single-Photon Structured Light**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.05300
+- 代码/Code: None
+
+**Pyramid Grafting Network for One-Stage High Resolution Saliency Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05041
+- 代码/Code: None
+
+**Structure-Aware Motion Transfer with Deformable Anchor Model**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05018
+- 代码/Code: None
+
+**Reasoning with Multi-Structure Commonsense Knowledge in Visual Dialog**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04680
+- 代码/Code: None
+
+**NAN: Noise-Aware NeRFs for Burst-Denoising**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04668
+- 代码/Code: None
+
+**Learning Pixel-Level Distinctions for Video Highlight Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04615
+- 代码/Code: None
+
+**Explaining Deep Convolutional Neural Networks via Latent Visual-Semantic Filter Attention**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04601
+- 代码/Code: None
+
+**DeepLIIF: An Online Platform for Quantification of Clinical Pathology Slides**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04494
+- 代码/Code: None
+
+**ManiTrans: Entity-Level Text-Guided Image Manipulation via Token-wise Semantic Alignment and Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04428
+- 代码/Code: None
+
+**FedCorr: Multi-Stage Federated Learning for Label Noise Correction**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04677
+- 代码/Code: https://github.com/Xu-Jingyi/FedCorr
+
+**Adaptive Differential Filters for Fast and Communication-Efficient Federated Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04424
+- 代码/Code: None
+
+**The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.04384
+- 代码/Code: None
 
  [返回目录/back](#Contents)
 
@@ -3233,10 +3355,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 
 
-- 视频/Demo：
-- 解读：
-- 论文/Paper：
-- 代码/Code：
+
 
 
 
