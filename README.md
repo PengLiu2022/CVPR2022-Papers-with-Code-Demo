@@ -904,6 +904,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.05370
 - 代码/Code: None
 
+**Open-World Instance Segmentation: Exploiting Pseudo Ground Truth From Learned Pairwise Affinity**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06107
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="WSSS"></a>
@@ -1687,6 +1692,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2204.05376
 - 代码/Code: https://github.com/avdravid/medXGAN_explanations
+
+**Multi-View Consistent Generative Adversarial Networks for 3D-aware Image Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06307
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -3445,6 +3455,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Generalizing Adversarial Explanations with Grad-CAM**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.05427
+- 代码/Code: None
+
+**Recognition of Freely Selected Keypoints on Human Limbs**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06326
+- 代码/Code: None
+
+**3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06272
+- 代码/Code: None
+
+**Defensive Patches for Robust Recognition in the Physical World**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06213
+- 代码/Code: https://github.com/nlsde-safety-team/DefensivePatch
+
+**COAP: Compositional Articulated Occupancy of People**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06184
 - 代码/Code: None
 
  [返回目录/back](#Contents)
