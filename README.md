@@ -174,6 +174,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.13714
 - 代码/Code: None
 
+**Arch-Graph: Acyclic Architecture Relation Predictor for Task-Transferable Neural Architecture Search**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05941
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="KnowledgeDistillation"></a> 
@@ -271,6 +276,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.04564
 - 代码/Code: https://github.com/Momilijaz96/MMT_for_NCRC
+
+**Probabilistic Compositional Embeddings for Multimodal Image Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05845
+- 代码/Code: https://github.com/andreineculai/MPC.
+
+**Are Multimodal Transformers Robust to Missing Modality?**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05454
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -385,6 +400,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Joint Distribution Matters: Deep Brownian Distance Covariance for Few-Shot Classification**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.04567
+- 代码/Code: None
+
+**Regression or Classification? Reflection on BP prediction from PPG data using Deep Neural Networks in the scope of practical applications**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05605
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -599,6 +619,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Towards Robust Adaptive Object Detection under Noisy Annotations**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.02620
+- 代码/Code: None
+
+**Towards Open-Set Object Detection and Discovery**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05604
+- 代码/Code: None
+
+**DAIR-V2X: A Large-Scale Dataset for Vehicle-Infrastructure Cooperative 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05575
+- 代码/Code: https://github.com/AIR-THU/DAIR-V2X.
+
+**HyperDet3D: Learning a Scene-conditioned 3D Object Detector**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05599
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -854,6 +889,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.04656
 - 代码/Code: https://github.com/lxtGH/Video-K-Net
 
+**NightLab: A Dual-level Architecture with Hardness Detection for Segmentation at Night**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05538
+- 代码/Code: None
+
+**TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05525
+- 代码/Code: https://github.com/hustvl/TopFormer
+
+**Panoptic, Instance and Semantic Relations: A Relational Context Encoder to Enhance Panoptic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05370
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="WSSS"></a>
@@ -1087,6 +1137,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.04216
 - 代码/Code: https://github.com/researchmm/TTVSR
+
+**TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05525
+- 代码/Code: https://github.com/hustvl/TopFormer
+
+**Are Multimodal Transformers Robust to Missing Modality?**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05454
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1623,6 +1683,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.04950
 - 代码/Code: None
 
+**medXGAN: Visual Explanations for Medical Classifiers through a Generative Latent Space**
+
+- 论文/Paper: http://arxiv.org/abs/2204.05376
+- 代码/Code: https://github.com/avdravid/medXGAN_explanations
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -1681,7 +1746,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ### **端到端文字识别**
 
+**Open-set Text Recognition via Character-Context Decoupling**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.05535
+- 代码/Code: None
 
 ### **手写文字分析与识别**
 
@@ -1714,6 +1782,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.04752
 - 代码/Code: None
+
+**Probabilistic Compositional Embeddings for Multimodal Image Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05845
+- 代码/Code: https://github.com/andreineculai/MPC.
 
 [返回目录/back](#Contents)
 
@@ -2087,6 +2160,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Learning Local Displacements for Point Cloud Completion**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.16600
+- 代码/Code: None
+
+**3DeformRS: Certifying Spatial Deformations on Point Clouds**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05687
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -3347,6 +3425,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **The Two Dimensions of Worst-case Training and the Integrated Effect for Out-of-domain Generalization**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.04384
+- 代码/Code: None
+
+**Continual Predictive Learning from Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05624
+- 代码/Code: https://github.com/jc043/CPL
+
+**Few-shot Learning with Noisy Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05494
+- 代码/Code: None
+
+**Out-Of-Distribution Detection In Unsupervised Continual Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05462
+- 代码/Code: None
+
+**Generalizing Adversarial Explanations with Grad-CAM**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.05427
 - 代码/Code: None
 
  [返回目录/back](#Contents)
