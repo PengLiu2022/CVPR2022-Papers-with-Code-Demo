@@ -156,6 +156,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.02389
 - 代码/Code: None
 
+**BEHAVE: Dataset and Method for Tracking Human Object Interactions**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06950
+- 代码/Code: None
+
+**SoccerNet-Tracking: Multiple Object Tracking Dataset and Benchmark in Soccer Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06918
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="NAS"></a> 
@@ -699,6 +709,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2204.04120
 - 代码/Code: None
 
+**BEHAVE: Dataset and Method for Tracking Human Object Interactions**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06950
+- 代码/Code: None
+
+**SoccerNet-Tracking: Multiple Object Tracking Dataset and Benchmark in Soccer Videos**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06918
+- 代码/Code: None
+
 ## 
 
 # 3D Object Tracking
@@ -909,7 +929,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.06107
 - 代码/Code: None
 
+**Joint Forecasting of Panoptic Segmentations with Difference Attention  (Oral)**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07157
+- 代码/Code: None
+
+**Cross-Image Relational Knowledge Distillation for Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06986
+- 代码/Code: https://github.com/winycg/cirkd
+
+## 
+
 [返回目录/back](#Contents)
+
+
 
 <a name="WSSS"></a>
 
@@ -1152,6 +1186,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.05454
 - 代码/Code: None
+
+**MiniViT: Compressing Vision Transformers with Weight Multiplexing**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07154
+- 代码/Code: https://github.com/microsoft/cream
+
+**ViTOL: Vision Transformer for Weakly Supervised Object Localization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06772
+- 代码/Code: https://github.com/Saurav-31/ViTOL
 
 [返回目录/back](#Contents)
 
@@ -1519,6 +1563,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.02611
 - 代码/Code: https://github.com/Yanan-Wang-cs/ClonedPerson
 
+**Implicit Sample Extension for Unsupervised Person Re-Identification**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06892
+- 代码/Code: https://github.com/PaddlePaddle/PaddleClas
+
+**Clothes-Changing Person Re-identification with RGB Modality Only**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06890
+- 代码/Code: https://github.com/guxinqian/Simple-CCReID.
+
 [返回目录/back](#Contents)
 
 <a name="PersonSearch"></a>
@@ -1836,8 +1890,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Reflash Dropout in Image Super-Resolution**
 
 - 论文/Paper：https://arxiv.org/pdf/2112.12089.pdf
-
 - 代码/Code：https://github.com/Xiangtaokong/Reflash-Dropout-in-Image-Super-Resolution
+
+**Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07114
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -3476,6 +3534,38 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.06184
 - 代码/Code: None
+
+**What's in your hands? 3D Reconstruction of Generic Objects in Hands**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07153
+- 代码/Code: None
+
+**GIFS: Neural Implicit Function for General Shape Representation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07126
+- 代码/Code: None
+
+**The multi-modal universe of fast-fashion: the Visuelle 2.0 benchmark**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06972
+- 代码/Code: None
+
+**Semi-Supervised Training to Improve Player and Ball Detection in Soccer**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06859
+- 代码/Code: https://github.com/rvandeghen/SST
+
+**Pyramidal Attention for Saliency Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06788
+- 代码/Code: https://github.com/tanveer-hussain/EfficientSOD2
+
+**OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.06577
+- 代码/Code: https://github.com/dschinagl/occam
+
+
 
  [返回目录/back](#Contents)
 
