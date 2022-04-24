@@ -646,6 +646,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.05599
 - 代码/Code: None
 
+**Dense Learning based Semi-Supervised Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07300
+- 代码/Code: https://github.com/chenbinghui1/DSL
+
 [返回目录/back](#Contents)
 
 
@@ -939,7 +944,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.06986
 - 代码/Code: https://github.com/winycg/cirkd
 
-## 
+**Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation  (Oral)**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07548
+- 代码/Code: https://github.com/drprojects/DeepViewAgg
 
 [返回目录/back](#Contents)
 
@@ -2063,6 +2071,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2203.16851
 - 代码/Code: None
+
+**A Keypoint-based Global Association Network for Lane Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07335
+- 代码/Code: https://github.com/Wolfwjs/GANet.
 
 [返回目录/back](#Contents)
 
@@ -3564,6 +3577,36 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.06577
 - 代码/Code: https://github.com/dschinagl/occam
+
+**Patch-wise Contrastive Style Learning for Instagram Filter Removal**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07486
+- 代码/Code: None
+
+**Guiding Attention using Partial-Order Relationships for Image Captioning**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07476
+- 代码/Code: None
+
+**MetaSets: Meta-Learning on Point Sets for Generalizable Representations**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07311
+- 代码/Code: None
+
+**Pushing the Limits of Simple Pipelines for Few-Shot Learning: External Data and Fine-Tuning Make a Difference**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07305
+- 代码/Code: None
+
+**Imposing Consistency for Optical Flow Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07262
+- 代码/Code: None
+
+**Measuring Compositional Consistency for Video Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07190
+- 代码/Code: None
 
 
 
