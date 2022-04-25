@@ -651,6 +651,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.07300
 - 代码/Code: https://github.com/chenbinghui1/DSL
 
+**Entropy-based Active Learning for Object Detection with Progressive Diversity Constraint**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07965
+- 代码/Code: None
+
+**Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07964
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -724,7 +734,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.06918
 - 代码/Code: None
 
-## 
+**Detecting, Tracking and Counting Motorcycle Rider Traffic Violations on Unconstrained Roads**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08364
+- 代码/Code: None
 
 # 3D Object Tracking
 
@@ -948,6 +961,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07548
 - 代码/Code: https://github.com/drprojects/DeepViewAgg
+
+**Temporally Efficient Vision Transformer for Video Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08412
+- 代码/Code: https://github.com/hustvl/TeViT.
+
+**Augmentation Invariance and Adaptive Sampling in Semantic Segmentation of Agricultural Aerial Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07969
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1204,6 +1227,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.06772
 - 代码/Code: https://github.com/Saurav-31/ViTOL
+
+**Temporally Efficient Vision Transformer for Video Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08412
+- 代码/Code: https://github.com/hustvl/TeViT.
+
+**Safe Self-Refinement for Transformer-based Domain Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07683
+- 代码/Code: None
+
+**Multi-Frame Self-Supervised Depth with Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07616
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1500,6 +1538,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **SOS! Self-supervised Learning Over Sets Of Handled Objects In Egocentric Action Recognition**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.04796
+- 代码/Code: None
+
+**Video Action Detection: Analysing Limitations and Challenges**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07892
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1816,6 +1859,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.15143
 - 代码/Code: None
 
+**Pushing the Performance Limit of Scene Text Recognizer without Human Annotation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07714
+- 代码/Code: None
+
 ### **端到端文字识别**
 
 **Open-set Text Recognition via Character-Context Decoupling**
@@ -1904,6 +1952,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07114
 - 代码/Code: None
+
+**Fast and Memory-Efficient Network Towards Efficient Image Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08397
+- 代码/Code: https://github.com/NJU-Jet/FMEN.
+
+## 
 
 [返回目录/back](#Contents)
 
@@ -3607,6 +3662,41 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07190
 - 代码/Code: None
+
+**Deep Equilibrium Optical Flow Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08442
+- 代码/Code: None
+
+**Unsupervised domain adaptation and super resolution on drone images for autonomous dry herbage biomass estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08271
+- 代码/Code: None
+
+**OMG: Observe Multiple Granularities for Natural Language-Based Vehicle Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08209
+- 代码/Code: https://github.com/dyhBUPT/OMG.
+
+**Towards a Deeper Understanding of Skeleton-based Gait Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07855
+- 代码/Code: None
+
+**Interactiveness Field in Human-Object Interactions**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07718
+- 代码/Code: https://github.com/Foruck/Interactiveness-Field.
+
+**It is Okay to Not Be Okay: Overcoming Emotional Bias in Affective Image Captioning by Contrastive Data Collection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07660
+- 代码/Code: None
+
+**Deep Unlearning via Randomized Conditionally Independent Hessians**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.07655
+- 代码/Code: https://github.com/vsingh-group/LCODEC-deep-unlearning
 
 
 
