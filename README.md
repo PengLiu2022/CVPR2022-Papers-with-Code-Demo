@@ -166,6 +166,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.06918
 - 代码/Code: None
 
+**Hephaestus: A large scale multitask dataset towards InSAR understanding**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09435
+- 代码/Code: None
+
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10039
+- 代码/Code: https://github.com/H-deep/Trans-SVSR/
+
 [返回目录/back](#Contents)
 
 <a name="NAS"></a> 
@@ -302,6 +312,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.08721
 - 代码/Code: None
 
+**Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09730
+- 代码/Code: https://github.com/mshukor/TFood
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -426,6 +441,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.08954
 - 代码/Code: None
+
+**Self-supervised Learning for Sonar Image Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09323
+- 代码/Code: https://github.com/agrija9/ssl-sonar-images
 
 [返回目录/back](#Contents)
 
@@ -764,9 +784,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Iterative Corresponding Geometry: Fusing Region and Depth for Highly Efficient 3D Tracking of Textureless Objects**
 
 - 视频/Demo：[Youtube](https://www.youtube.com/watch?v=qMr1RHCsnDk) 
-
 - 论文/Paper：https://arxiv.org/abs/2203.05334
 - 代码/Code：https://github.com/DLR-RM/3DObjectTracking
+
+**Multi-Camera Multiple 3D Object Tracking on the Move for Autonomous Vehicles**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09151
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1001,6 +1025,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.08744
 - 代码/Code: None
+
+**Unsupervised Domain Adaptation for Cardiac Segmentation: Towards Structure Mutual Information Maximization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09334
+- 代码/Code: https://github.com/LOUEY233/Toward-Mutual-Information}{https://github.com/LOUEY233/Toward-Mutual-Information
 
 [返回目录/back](#Contents)
 
@@ -1288,6 +1317,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.08680
 - 代码/Code: https://github.com/zengwang430521/TCFormer
 
+**NFormer: Robust Person Re-identification with Neighbor Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09331
+- 代码/Code: https://github.com/haochenheheda/NFormer
+
+**Human-Object Interaction Detection via Disentangled Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09290
+- 代码/Code: None
+
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10039
+- 代码/Code: https://github.com/H-deep/Trans-SVSR/
+
+**Transformer Decoders with MultiModal Regularization for Cross-Modal Food Retrieval**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09730
+- 代码/Code: https://github.com/mshukor/TFood
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -1321,7 +1370,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 代码/Code: https://github.com/mk-minchul/adaface
 
+**WebFace260M: A Benchmark for Million-Scale Deep Face Recognition**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.10149
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1499,6 +1551,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.05145
 - 代码/Code: http://github.com/ponimatkin/focalpose
 
+**DGECN: A Depth-Guided Edge Convolutional Network for End-to-End 6D Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09983
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="6DPoseEstimation"></a>
@@ -1668,6 +1725,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.06890
 - 代码/Code: https://github.com/guxinqian/Simple-CCReID.
+
+**NFormer: Robust Person Re-identification with Neighbor Transformer**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09331
+- 代码/Code: https://github.com/haochenheheda/NFormer
 
 [返回目录/back](#Contents)
 
@@ -2017,6 +2079,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.08759
 - 代码/Code: https://github.com/icandle/EFDN.
+
+**A New Dataset and Transformer for Stereoscopic Video Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10039
+- 代码/Code: https://github.com/H-deep/Trans-SVSR/
+
+**FS-NCSR: Increasing Diversity of the Super-Resolution Space via Frequency Separation and Noise-Conditioned Normalizing Flow**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09679
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -3776,6 +3848,93 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.08613
 - 代码/Code: None
+
+**GazeOnce: Real-Time Multi-Person Gaze Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09480
+- 代码/Code: None
+
+**Epistemic Uncertainty-Weighted Loss for Visual Bias Mitigation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09389
+- 代码/Code: None
+
+**Reinforced Structured State-Evolution for Vision-Language Navigation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09280
+- 代码/Code: None
+
+**SpiderNet: Hybrid Differentiable-Evolutionary Architecture Search via Train-Free Metrics**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09320
+- 代码/Code: None
+
+**A Deeper Look into Aleatoric and Epistemic Uncertainty Disentanglement**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09308
+- 代码/Code: None
+
+**Does Interference Exist When Training a Once-For-All Network?**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09210
+- 代码/Code: https://github.com/Jordan-HS/RSS-Interference-CVPRW2022.
+
+**Importance is in your attention: agent importance prediction for autonomous driving**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09121
+- 代码/Code: None
+
+**SelfD: Self-Learning Large-Scale Driving Policies From the Web**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10320
+- 代码/Code: None
+
+**SmartPortraits: Depth Powered Handheld Smartphone Dataset of Human Portraits for State Estimation, Reconstruction and Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10211
+- 代码/Code: None
+
+**A case for using rotation invariant features in state of the art feature matchers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10144
+- 代码/Code: None
+
+**Toward Fast, Flexible, and Robust Low-Light Image Enhancement**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10137
+- 代码/Code: https://github.com/vis-opt-group/SCI
+
+**OSSO: Obtaining Skeletal Shape from Outside**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10129
+- 代码/Code: None
+
+**Is Neuron Coverage Needed to Make Person Detection More Robust?**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10027
+- 代码/Code: None
+
+**Progressive Training of A Two-Stage Framework for Video Restoration**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09924
+- 代码/Code: None
+
+**CNLL: A Semi-supervised Approach For Continual Noisy Label Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09881
+- 代码/Code: None
+
+**Persistent-Transient Duality in Human Behavior Modeling**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09875
+- 代码/Code: None
+
+**Self-Supervised Learning to Guide Scientifically Relevant Categorization of Martian Terrain Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09854
+- 代码/Code: https://github.com/TejasPanambur/mastcam
+
+
 
 
 
