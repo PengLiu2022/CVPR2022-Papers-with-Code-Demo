@@ -1031,6 +1031,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09334
 - 代码/Code: https://github.com/LOUEY233/Toward-Mutual-Information}{https://github.com/LOUEY233/Toward-Mutual-Information
 
+**Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10638
+- 代码/Code: None
+
+**Interactive Segmentation and Visualization for Tiny Objects in Multi-megapixel Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10356
+- 代码/Code: https://github.com/cy-xu/cosmic-conn
+
 [返回目录/back](#Contents)
 
 
@@ -1693,6 +1703,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Structured Local Radiance Fields for Human Avatar Modeling**
 
 - 论文/Paper: http://arxiv.org/abs/2203.14478
+- 代码/Code: None
+
+**JIFF: Jointly-aligned Implicit Face Function for High Quality Single View Clothed Human Reconstruction**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10549
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -2432,6 +2447,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.05687
 - 代码/Code: None
+
+**Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10603
+- 代码/Code: https://github.com/mabaorui/onsurfaceprior
 
 [返回目录/back](#Contents)
 
@@ -3934,7 +3954,30 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09854
 - 代码/Code: https://github.com/TejasPanambur/mastcam
 
+**Exposure Correction Model to Enhance Image Quality**
 
+- 论文/Paper: http://arxiv.org/pdf/2204.10648
+- 代码/Code: https://github.com/yamand16/exposurecorrection
+
+**Spacing Loss for Discovering Novel Categories**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10595
+- 代码/Code: https://github.com/josephkj/awesome-novel-class-discovery
+
+**DiRA: Discriminative, Restorative, and Adversarial Learning for Self-supervised Medical Image Analysis**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10437
+- 代码/Code: https://github.com/jlianglab/dira
+
+**The 6th AI City Challenge**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10380
+- 代码/Code: None
+
+**Contrastive Test-Time Adaptation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10377
+- 代码/Code: None
 
 
 
