@@ -818,6 +818,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2203.13777
 - 代码/Code: None
 
+**Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11561
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="Segmentation"></a> 
@@ -1040,6 +1045,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.10356
 - 代码/Code: https://github.com/cy-xu/cosmic-conn
+
+**Multi-Head Distillation for Continual Unsupervised Domain Adaptation in Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11667
+- 代码/Code: None
+
+**Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11432
+- 代码/Code: https://github.com/twke18/HSG
+
+**Transfer Learning from Synthetic In-vitro Soybean Pods Dataset for In-situ Segmentation of On-branch Soybean Pod**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10902
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1347,6 +1367,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09730
 - 代码/Code: https://github.com/mshukor/TFood
 
+**Unsupervised Hierarchical Semantic Segmentation with Multiview Cosegmentation and Clustering Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11432
+- 代码/Code: https://github.com/twke18/HSG
+
+**VISTA: Vision Transformer enhanced by U-Net and Image Colorfulness Frame Filtration for Automatic Retail Checkout**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11024
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -1475,6 +1505,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Escaping Data Scarcity for High-Resolution Heterogeneous Face Hallucination**
 
 - 论文/Paper: http://arxiv.org/pdf/2203.16669
+- 代码/Code: None
+
+**EMOCA: Emotion Driven Monocular Face Capture and Animation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11312
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -2105,6 +2140,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09679
 - 代码/Code: None
 
+**IMDeception: Grouped Information Distilling Super-Resolution Network**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11463
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ImageRestoration"></a>
@@ -2452,6 +2492,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.10603
 - 代码/Code: https://github.com/mabaorui/onsurfaceprior
+
+**Surface Reconstruction from Point Clouds by Learning Predictive Context Priors**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11015
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -3977,6 +4022,46 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Contrastive Test-Time Adaptation**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.10377
+- 代码/Code: None
+
+**Proto2Proto: Can you recognize the car, the way I do?**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11830
+- 代码/Code: None
+
+**Multi-Layer Modeling of Dense Vegetation from Aerial LiDAR Scans**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11620
+- 代码/Code: https://github.com/ekalinicheva/multi_layer_vegetation.
+
+**Surpassing the Human Accuracy: Detecting Gallbladder Cancer from USG Images with Curriculum Learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11433
+- 代码/Code: None
+
+**Can domain adaptation make object recognition work for everyone?**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11122
+- 代码/Code: None
+
+**Investigating Neural Architectures by Synthetic Dataset Design**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11045
+- 代码/Code: None
+
+**Revealing Occlusions with 4D Neural Fields**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10916
+- 代码/Code: None
+
+**Identity Preserving Loss for Learned Image Compression**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.10869
+- 代码/Code: None
+
+**Towards Data-Free Model Stealing in a Hard Label Setting**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.11022
 - 代码/Code: None
 
 
