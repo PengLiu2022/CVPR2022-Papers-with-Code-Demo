@@ -297,6 +297,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.05454
 - 代码/Code: None
 
+**Multimodal Token Fusion for Vision Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08721
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -415,6 +420,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Regression or Classification? Reflection on BP prediction from PPG data using Deep Neural Networks in the scope of practical applications**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.05605
+- 代码/Code: None
+
+**Revisiting Vicinal Risk Minimization for Partially Supervised Multi-Label Classification Under Data Scarcity**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08954
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -659,6 +669,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Target-Relevant Knowledge Preservation for Multi-Source Domain Adaptive Object Detection**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07964
+- 代码/Code: None
+
+**Modeling Missing Annotations for Incremental Learning in Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08766
+- 代码/Code: https://github.com/fcdl94/MMA
+
+**Augmentation of Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08745
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -972,6 +992,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.07969
 - 代码/Code: None
 
+**Dual-Domain Image Synthesis using Segmentation-Guided GAN**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09015
+- 代码/Code: https://github.com/denabazazian/Dual-Domain-Synthesis.
+
+**Proposal-free Lidar Panoptic Segmentation with Pillar-level Affinity**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08744
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -1242,6 +1272,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07616
 - 代码/Code: None
+
+**Self-Calibrated Efficient Transformer for Lightweight Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08913
+- 代码/Code: https://github.com/AlexZou14/SCET.
+
+**Multimodal Token Fusion for Vision Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08721
+- 代码/Code: None
+
+**Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer  (Oral)**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08680
+- 代码/Code: https://github.com/zengwang430521/TCFormer
 
 [返回目录/back](#Contents)
 
@@ -1803,6 +1848,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.06307
 - 代码/Code: None
 
+**Dual-Domain Image Synthesis using Segmentation-Guided GAN**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.09015
+- 代码/Code: https://github.com/denabazazian/Dual-Domain-Synthesis.
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -1958,7 +2008,15 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.08397
 - 代码/Code: https://github.com/NJU-Jet/FMEN.
 
-## 
+**Self-Calibrated Efficient Transformer for Lightweight Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08913
+- 代码/Code: https://github.com/AlexZou14/SCET.
+
+**Edge-enhanced Feature Distillation Network for Efficient Super-Resolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08759
+- 代码/Code: https://github.com/icandle/EFDN.
 
 [返回目录/back](#Contents)
 
@@ -3697,6 +3755,27 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07655
 - 代码/Code: https://github.com/vsingh-group/LCODEC-deep-unlearning
+
+**Learning to Imagine: Diversify Memory for Incremental Learning using Unlabeled Data**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08932
+- 代码/Code: https://github.com/TOM-tym/Learn-to-Imagine
+
+**An Efficient Domain-Incremental Learning Approach to Drive in All Weather Conditions**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08817
+- 代码/Code: None
+
+**Incorporating Semi-Supervised and Positive-Unlabeled Learning for Boosting Full Reference Image Quality Assessment**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08763
+- 代码/Code: https://github.com/happycaoyue/JSPL
+
+
+**Self-Supervised Equivariant Learning for Oriented Keypoint Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.08613
+- 代码/Code: None
 
 
 
