@@ -98,6 +98,7 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - [ 3D点云/3D point cloud]( #3DPointCloud)
 - [标签噪声 / Label-Noise](#Label-Noise)
 - [对抗样本/Adversarial Examples](#AdversarialExamples)
+- [其他/Other](#Other)
 
 
 </details>
@@ -373,6 +374,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2204.03946
 - 代码/Code: None
+
+**Use All The Labels: A Hierarchical Multi-Label Contrastive Learning Framework**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13207
+- 代码/Code: https://github.com/salesforce/hierarchicalContrastiveLearning.
+
+
 
 [返回目录/back](#Contents)
 
@@ -699,6 +707,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Augmentation of Atmospheric Turbulence Effects on Thermal Adapted Object Detection Models**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.08745
+- 代码/Code: None
+
+**Focal Sparse Convolutional Networks for 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/abs/2204.12463
+- 代码/Code: http://github.com/dvlab-research/FocalsConv
+
+**Rotationally Equivariant 3D Object Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13630
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1061,6 +1079,21 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.10902
 - 代码/Code: None
 
+**DArch: Dental Arch Prior-assisted 3D Tooth Instance Segmentation**
+
+- 论文/Paper: http://arxiv.org/abs/2204.11911
+- 代码/Code: None
+
+**Self-Supervised Learning of Object Parts for Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13101
+- 代码/Code: None
+
+**MM-TTA: Multi-Modal Test-Time Adaptation for 3D Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12667
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 
@@ -1377,6 +1410,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.11024
 - 代码/Code: None
 
+**DearKD: Data-Efficient Early Knowledge Distillation for Vision Transformers**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12997
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -1601,6 +1639,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09983
 - 代码/Code: None
 
+**Coupled Iterative Refinement for 6D Multi-Object Pose Estimation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12516
+- 代码/Code: https://github.com/princeton-vl/Coupled-Iterative-Refinement.
+
 [返回目录/back](#Contents)
 
 <a name="6DPoseEstimation"></a>
@@ -1690,6 +1733,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Video Action Detection: Analysing Limitations and Challenges**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07892
+- 代码/Code: None
+
+**Hybrid Relation Guided Set Matching for Few-shot Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13423
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -1965,6 +2013,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09015
 - 代码/Code: https://github.com/denabazazian/Dual-Domain-Synthesis.
 
+**ClothFormer:Taming Video Virtual Try-on in All Module**
+
+- 论文/Paper: http://arxiv.org/abs/2204.12151
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -2159,8 +2212,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Interacting Attention Graph for Single Image Two-Hand Reconstruction**
 
 - 论文/Paper：https://arxiv.org/abs/2203.09364
-
 - 代码/Code：https://github.com/Dw1010/IntagHand
+
+**Deep Generalized Unfolding Networks for Image Restoration**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13348
+- 代码/Code: https://github.com/MC-E/Deep-Generalized-Unfolding-Networks-for-Image-Restoration.
 
 [返回目录/back](#Contents)
 
@@ -2496,6 +2553,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Surface Reconstruction from Point Clouds by Learning Predictive Context Priors**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.11015
+- 代码/Code: None
+
+**Density-preserving Deep Point Cloud Compression**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12684
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -4064,7 +4126,55 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.11022
 - 代码/Code: None
 
+**Context-Aware Sequence Alignment using 4D Skeletal Augmentation**
 
+- 论文/Paper: http://arxiv.org/abs/2204.12223
+- 代码/Code: None
+
+**Few-Shot Head Swapping in the Wild**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13100
+- 代码/Code: None
+
+**Attention Consistency on Visual Corruptions for Single-Source Domain Generalization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13091
+- 代码/Code: None
+
+**Collaborative Learning for Hand and Object Reconstruction with Attention-guided Graph Convolution**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13062
+- 代码/Code: None
+
+**A Scalable Combinatorial Solver for Elastic Geometrically Consistent 3D Shape Matching**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12805
+- 代码/Code: http://github.com/paul0noah/sm-comb
+
+**Leveraging Unlabeled Data for Sketch-based Understanding**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12522
+- 代码/Code: None
+
+**Towards assessing agricultural land suitability with causal machine learning**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12956
+- 代码/Code: None
+
+**Conformer and Blind Noisy Students for Improved Image Quality Assessment**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.12819
+- 代码/Code: None
+
+**NeurMiPs: Neural Mixture of Planar Experts for View Synthesis**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13696
+- 代码/Code: None
+
+**Learning from Pixel-Level Noisy Label : A New Perspective for Light Field Saliency Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13456
+- 代码/Code: https://github.com/OLobbCode/NoiseLF.
 
  [返回目录/back](#Contents)
 
