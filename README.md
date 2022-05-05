@@ -318,6 +318,26 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09730
 - 代码/Code: https://github.com/mshukor/TFood
 
+**CLIP-Art: Contrastive Pre-training for Fine-Grained Art Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.14244
+- 代码/Code: https://github.com/KeremTurgutlu/clip_art
+
+**Vision-Language Pre-Training for Boosting Scene Text Detectors**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13867
+- 代码/Code: None
+
+**Cross-modal Representation Learning for Zero-shot Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01657
+- 代码/Code: None
+
+**Episodic Memory Question Answering**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01652
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ContrastiveLearning"></a> 
@@ -380,7 +400,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.13207
 - 代码/Code: https://github.com/salesforce/hierarchicalContrastiveLearning.
 
+**UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog**
 
+- 论文/Paper: http://arxiv.org/pdf/2205.00423
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -718,6 +741,13 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.13630
 - 代码/Code: None
+
+**Cross Domain Object Detection by Target-Perceived Dual Branch Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01291
+- 代码/Code: https://github.com/feobi1999/tdd
+
+
 
 [返回目录/back](#Contents)
 
@@ -1415,6 +1445,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.12997
 - 代码/Code: None
 
+**UTC: A Unified Transformer with Inter-Task Contrastive Learning for Visual Dialog**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00423
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -1740,6 +1775,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.13423
 - 代码/Code: None
 
+**Cross-modal Representation Learning for Zero-shot Action Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01657
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="SignLanguageTranslation"></a>
@@ -1843,7 +1883,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 ## 人群计数 / Crowd Counting
 
+**Cross-View Cross-Scene Multi-View Crowd Counting**
 
+- 论文/Paper: http://arxiv.org/pdf/2205.01551
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -2018,6 +2061,31 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2204.12151
 - 代码/Code: None
 
+**OSSGAN: Open-Set Semi-Supervised Image Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.14249
+- 代码/Code: https://github.com/raven38/ossgan
+
+**Fix the Noise: Disentangling Source Feature for Transfer Learning of StyleGAN**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.14079
+- 代码/Code: None
+
+**GenDR: A Generalized Differentiable Renderer**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13845
+- 代码/Code: https://github.com/Felix-Petersen/gendr
+
+**HL-Net: Heterophily Learning Network for Scene Graph Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01316
+- 代码/Code: https://github.com/siml3/HL-Net.
+
+**RU-Net: Regularized Unrolling Network for Scene Graph Generation**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01297
+- 代码/Code: https://github.com/siml3/RU-Net.
+
 [返回目录/back](#Contents)
 
 <a name="CPM"></a>
@@ -2077,6 +2145,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Pushing the Performance Limit of Scene Text Recognizer without Human Annotation**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07714
+- 代码/Code: None
+
+**Vision-Language Pre-Training for Boosting Scene Text Detectors**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13867
 - 代码/Code: None
 
 ### **端到端文字识别**
@@ -2276,6 +2349,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/abs/2204.04210
 - 代码/Code: None
 
+**Multiple Degradation and Reconstruction Network for Single Image Denoising via Knowledge Distillation**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13873
+- 代码/Code: None
+
 [返回目录/back](#Contents)
 
 <a name="ImageEditing"></a>
@@ -2373,6 +2451,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.07335
 - 代码/Code: https://github.com/Wolfwjs/GANet.
+
+**ONCE-3DLanes: Building Monocular 3D Lane Detection**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00301
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -4175,6 +4258,58 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2204.13456
 - 代码/Code: https://github.com/OLobbCode/NoiseLF.
+
+**A Challenging Benchmark of Anime Style Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.14034
+- 代码/Code: https://github.com/nkjcqvcpi/asr
+
+**AdaInt: Learning Adaptive Intervals for 3D Lookup Tables on Real-time Image Enhancement**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13983
+- 代码/Code: https://github.com/ImCharlesY/AdaInt.
+
+**SCS-Co: Self-Consistent Style Contrastive Learning for Image Harmonization**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13962
+- 代码/Code: https://github.com/ychang686/scs-co
+
+**Learning Adaptive Warping for Real-World Rolling Shutter Correction**
+
+- 论文/Paper: http://arxiv.org/pdf/2204.13886
+- 代码/Code: https://github.com/ljzycmd/bsrsc
+
+
+
+**Stability-driven Contact Reconstruction From Monocular Color Images**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00848
+- 代码/Code: None
+
+**GPUNet: Searching the Deployable Convolution Neural Networks for GPUs**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00841
+- 代码/Code: None
+
+**MUTR3D: A Multi-camera Tracking Framework via 3D-to-2D Queries**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00613
+- 代码/Code: https://github.com/a1600012888/MUTR3D
+
+**LayoutBERT: Masked Language Layout Model for Object Insertion**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00347
+- 代码/Code: None
+
+**Improving Visual Grounding with Visual-Linguistic Verification and Iterative Reasoning**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00272
+- 代码/Code: https://github.com/yangli18/vltvg
+
+**Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.00146
+- 代码/Code: None
 
  [返回目录/back](#Contents)
 
