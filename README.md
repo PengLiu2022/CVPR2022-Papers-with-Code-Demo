@@ -747,7 +747,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2205.01291
 - 代码/Code: https://github.com/feobi1999/tdd
 
+**Dynamic Sparse R-CNN**
 
+- 论文/Paper: http://arxiv.org/pdf/2205.02101
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -1450,6 +1453,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2205.00423
 - 代码/Code: None
 
+**TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02028
+- 代码/Code: https://github.com/kennymckormick/TransRank.
+
 [返回目录/back](#Contents)
 
 <a name="DepthEstimation"></a>
@@ -2084,7 +2092,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **RU-Net: Regularized Unrolling Network for Scene Graph Generation**
 
 - 论文/Paper: http://arxiv.org/pdf/2205.01297
-- 代码/Code: https://github.com/siml3/RU-Net.
+- 代码/Code: https://github.com/siml3/RU-Net
+
+**Comparison of CoModGANs, LaMa and GLIDE for Art Inpainting- Completing M.C Escher's Print Gallery**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01741
+- 代码/Code: None
 
 [返回目录/back](#Contents)
 
@@ -2269,6 +2282,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **IMDeception: Grouped Information Distilling Super-Resolution Network**
 
 - 论文/Paper: http://arxiv.org/pdf/2204.11463
+- 代码/Code: None
+
+**Self-Supervised Super-Resolution for Multi-Exposure Push-Frame Satellites**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02031
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -4309,6 +4327,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Look Closer to Supervise Better: One-Shot Font Generation via Component-Based Discriminator**
 
 - 论文/Paper: http://arxiv.org/pdf/2205.00146
+- 代码/Code: None
+
+**Dual Cross-Attention Learning for Fine-Grained Visual Categorization and Object Re-Identification**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02151
+- 代码/Code: None
+
+**Self-Taught Metric Learning without Labels**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.01903
 - 代码/Code: None
 
  [返回目录/back](#Contents)
