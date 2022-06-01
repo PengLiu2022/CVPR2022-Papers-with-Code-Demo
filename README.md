@@ -1127,6 +1127,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.12667
 - 代码/Code: None
 
+**Cross-view Transformers for real-time Map-view Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02833
+- 代码/Code: https://github.com/bradyz/cross_view_transformers
+
 [返回目录/back](#Contents)
 
 
@@ -1456,7 +1461,12 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition**
 
 - 论文/Paper: http://arxiv.org/pdf/2205.02028
-- 代码/Code: https://github.com/kennymckormick/TransRank.
+- 代码/Code: https://github.com/kennymckormick/TransRank
+
+**Cross-view Transformers for real-time Map-view Semantic Segmentation**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02833
+- 代码/Code: https://github.com/bradyz/cross_view_transformers
 
 [返回目录/back](#Contents)
 
@@ -2512,6 +2522,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/abs/2203.12082
 - 代码/Code: None
+
+**Neural 3D Scene Reconstruction with the Manhattan-world Assumption**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02836
+- 代码/Code: https://github.com/zju3dv/manhattan_sdf
 
 [返回目录/back](#Contents)
 
@@ -4338,6 +4353,23 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 
 - 论文/Paper: http://arxiv.org/pdf/2205.01903
 - 代码/Code: None
+
+**Fixing Malfunctional Objects With Learned Physical Simulation and Functional Prediction**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02834
+- 代码/Code: None
+
+**Holistic Approach to Measure Sample-level Adversarial Vulnerability and its Utility in Building Trustworthy Systems**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02604
+- 代码/Code: None
+
+**P3IV: Probabilistic Procedure Planning from Instructional Videos with Weak Supervision**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02300
+- 代码/Code: None
+
+
 
  [返回目录/back](#Contents)
 
