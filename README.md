@@ -478,6 +478,11 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2204.09323
 - 代码/Code: https://github.com/agrija9/ssl-sonar-images
 
+**Generating Representative Samples for Few-Shot Classification**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02918
+- 代码/Code: https://github.com/cvlab-stonybrook/fsl-rsvae.
+
 [返回目录/back](#Contents)
 
 <a name="ObjectDetection"></a> 
@@ -2107,6 +2112,16 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 **Comparison of CoModGANs, LaMa and GLIDE for Art Inpainting- Completing M.C Escher's Print Gallery**
 
 - 论文/Paper: http://arxiv.org/pdf/2205.01741
+- 代码/Code: None
+
+**Generate and Edit Your Own Character in a Canonical View**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02974
+- 代码/Code: None
+
+**Scene Graph Expansion for Semantics-Guided Image Outpainting**
+
+- 论文/Paper: http://arxiv.org/pdf/2205.02958
 - 代码/Code: None
 
 [返回目录/back](#Contents)
@@ -4369,7 +4384,10 @@ CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加�
 - 论文/Paper: http://arxiv.org/pdf/2205.02300
 - 代码/Code: None
 
+**Prompt Distribution Learning**
 
+- 论文/Paper: http://arxiv.org/pdf/2205.03340
+- 代码/Code: None
 
  [返回目录/back](#Contents)
 
