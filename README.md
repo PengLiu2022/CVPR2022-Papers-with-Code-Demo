@@ -1,36 +1,4 @@
-# CVPR2022-Papers-with-Code-Demo
 
- :star_and_crescent:**CVPR2021论文下载：https://pan.baidu.com/share/init?surl=gjfUQlPf73MCk4vM8VbzoA**
-
-**密码：aicv**
-
-欢迎关注公众号：AI算法与图像处理
-
-:star2: [CVPR 2022](https://cvpr2022.thecvf.com/) 持续更新最新论文/paper和相应的开源代码/code！
-
-:car: CVPR 2022 收录列表ID：https://drive.google.com/file/d/15JFhfPboKdUcIH9LdbCMUFmGq_JhaxhC/view
-
-:car: 官网链接：http://cvpr2022.thecvf.com/
-
-B站demo：https://space.bilibili.com/288489574
-
-> :hand: ​注：欢迎各位大佬提交issue，分享CVPR 2022论文/paper和开源项目！共同完善这个项目
->
-> 往年顶会论文汇总：
->
-> [CVPR2021](https://github.com/DWCTOD/CVPR2022-Papers-with-Code-Demo/blob/main/CVPR2021.md)
->
-> [ICCV2021](https://github.com/DWCTOD/ICCV2021-Papers-with-Code-Demo)
-
-### **:fireworks: 欢迎进群** | Welcome
-
-CVPR 2022 论文/paper交流群已成立！已经收录的同学，可以添加微信：**nvshenj125**，请备注：**CVPR+姓名+学校/公司名称**！一定要根据格式申请，可以拉你进群。
-
-<a name="Contents"></a>
-
-
-
-### :hammer: **目录 |Table of Contents（点击直接跳转）**
 
 <details open>
 <summary> 目录（右侧点击可折叠）</summary>
